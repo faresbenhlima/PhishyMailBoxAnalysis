@@ -1,0 +1,977 @@
+Return-Path: <SiliconHighwayLTD-vdjyhdk1idtjiykhuu1d@cmail20.com>
+Received: from server.cpprotect3.de
+	by server.cpprotect3.de with LMTP
+	id 6KRwFiZZNmWAPwEAQhmUyQ
+	(envelope-from <SiliconHighwayLTD-vdjyhdk1idtjiykhuu1d@cmail20.com>); Mon, 23 Oct 2023 13:29:42 +0200
+Return-path: <SiliconHighwayLTD-vdjyhdk1idtjiykhuu1d@cmail20.com>
+Envelope-to: mail@luhbots.de
+Delivery-date: Mon, 23 Oct 2023 13:29:42 +0200
+Received: from mx137.a.outbound.createsend.com ([203.55.21.137]:48911)
+	by server.cpprotect3.de with esmtp (Exim 4.96.2)
+	(envelope-from <SiliconHighwayLTD-vdjyhdk1idtjiykhuu1d@cmail20.com>)
+	id 1qut7p-000v20-0p
+	for mail@luhbots.de;
+	Mon, 23 Oct 2023 13:29:42 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=cm; d=siliconhighway.co.uk;
+ h=Subject:From:To:Reply-To:Date:MIME-Version:Content-Type:List-Unsubscribe:
+ Message-ID; i=graham.brown@siliconhighway.co.uk;
+ bh=rxc17VJuAwtJPSqGCH7JafVouIDcsVEu3h6hFl/k3CQ=;
+ b=CPGvIxCiMgp3EVsesIlytODN9CKWPy01s9fkbW2y/5EN3aXiZOuTQoqH4gBa72deF7Dul6kfWhYP
+   5xsCHN0d0DUMBiQQ8ovJ+QnVRJr1jh5Yl3NGOnXgGtfpaUhXOjMkLVyE8KwL7YR+p8OZoPq/yv10
+   baOMY9rfUZJlmWu+uW4=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=cs2013; d=cmail2.com;
+ h=Subject:From:To:Reply-To:Date:MIME-Version:Content-Type:List-Unsubscribe:
+ Message-ID;
+ bh=rxc17VJuAwtJPSqGCH7JafVouIDcsVEu3h6hFl/k3CQ=;
+ b=iGT5vht1HNadntGvJzHVMm5XGGBAigXW9ZUh6YuBRlPc3Mv5GlUQr9cqDJzEoY42nNhlf6fE7ljU
+   e/jjvkyN899mzMz9mXHzifOXvCdC7H/RrbTsmCKPHXGHwoW/2pGgnyUegZYRK2FcHN8BeZTOCbqK
+   InEEBCzuLTqVCJ2HPe0=
+Subject: NVIDIA Jetson Orin PCN PCN210341/PCN210361
+From: "Silicon Highway LTD" <graham.brown@siliconhighway.co.uk> 
+To: "Fabrice Zeug" <mail@luhbots.de>
+Reply-To: graham.brown@siliconhighway.co.uk
+Date: Mon, 23 Oct 2023 22:28:50 +1100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_385a94dd-b079-4fd4-beef-a2da7ff851c3_"; charset=utf-8
+X-Mailer: Create Send
+X-Complaints-To: abuse@cmail20.com
+X-Feedback-ID: CA1-d-vdjyhdk:LI1-d-gjukul:CL1-d-ejdyd:createSEND
+List-Unsubscribe: <http://unsub.cmail20.com/t/d-u-vdjyhdk-idtjiykhuu/>,
+ <mailto:unsubscribe-vdjyhdk2idtjiykhuu2d-257367DE@cmail20.com?subject=Unsubscribe>
+Message-ID: <cm.2228502888893.vdjyhdk.idtjiykhuu.d@cmail20.com>
+X-Spam-Status: No, score=1.5
+X-Spam-Score: 15
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "server.cpprotect3.de",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  NVIDIA Jetson Orin PCN PCN210341/PCN210361 PCN210341 – Jetson
+    Orin Family Marking Update PCN210341 [https://developer.nvidia.com/embedded/downloads#?search=PCN210341]
+    
+ Content analysis details:   (1.5 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: updatemyprofile.com]
+  0.8 KAM_COUK               Scoring .co.uk emails higher due to poor registry
+                             security.
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.0 T_KAM_HTML_FONT_INVALID Test for Invalidly Named or Formatted
+                             Colors in HTML
+  0.5 KAM_NUMSUBJECT         Subject ends in numbers excluding current years
+ -0.0 DKIMWL_WL_MED          DKIMwl.org - Medium trust sender
+X-Spam-Flag: NO
+
+--_385a94dd-b079-4fd4-beef-a2da7ff851c3_
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+NVIDIA Jetson Orin PCN PCN210341/PCN210361
+
+PCN210341 =E2=80=93 Jetson Orin Family Marking Update
+
+PCN210341 [https://developer.nvidia.com/embedded/downloads#?search=3DPCN=
+210341]
+
+PCN210361 =E2=80=93 Jetson Orin NX 8GB and Jetson Orin Nano series =E2=80=
+=93 Addition of Manufacturing BOM Components: Samsung DRAM
+
+PCN210361 [https://developer.nvidia.com/embedded/downloads#?search=3DPCN=
+210361]
+
+NVIDIA is committed to providing high quality products to our customers. =
+The qualification of this revision adheres to the same stringent standard=
+s and procedures as those used for all NVIDIA products
+
+Tweet   https://siliconhighway.cmail20.com/t/d-tw-vdjyhdk-=
+idtjiykhuu-h/      Forward   https://siliconhighway.forwardtomyfriend.com/d-=
+idtjiykhuu-257367DE-vdjyhdk-l-k
+
+http://www.siliconhighwaydirect.com
+
+On behalf of Silicon Highway Ltd
+
+Preferences https://siliconhighway.updatemyprofile.com/d-vdjyhdk-=
+257367DE-idtjiykhuu-u  |   Unsubscribe https://siliconhighway.=
+cmail20.com/t/d-u-vdjyhdk-idtjiykhuu-o/
+
+--_385a94dd-b079-4fd4-beef-a2da7ff851c3_
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://w=
+ww.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html style=3D"margin: 0=
+;padding: 0;" xmlns=3D"http://www.w3.org/1999/xhtml"><head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf=
+-8">
+    <title></title>
+    <!--[if !mso]><!--><meta http-equiv=3D"X-UA-Compatible" content=3D"I=
+E=3Dedge"><!--<![endif]-->
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width"><style type=3D=
+"text/css">
+@media only screen and (min-width: 620px){.column{}.wrapper{min-width:600=
+px !important}.wrapper h1{}.wrapper h1{font-size:26px !important;line-hei=
+ght:34px !important}.wrapper h2{}.wrapper h2{font-size:20px !important;li=
+ne-height:28px !important}.wrapper h3{}.wrapper .size-8,.wrapper .size-8-=
+m,.wrapper .size-8-l{font-size:8px !important;line-height:14px !important=
+}.wrapper .size-8-m{line-height:16px !important}.wrapper .size-8-l{line-h=
+eight:24px !important}.wrapper .size-9,.wrapper .size-9-m,.wrapper .size-=
+9-l{font-size:9px !important;line-height:16px !important}.wrapper .size-9=
+-m{line-height:18px !important}.wrapper .size-9-l{line-height:27px !impor=
+tant}.wrapper .size-10,.wrapper .size-10-m,.wrapper .size-10-l{font-size:=
+10px !important;line-height:18px !important}.wrapper .size-10-m{line-heig=
+ht:20px !important}.wrapper .size-10-l{line-height:30px !important}.wrapp=
+er .size-11,.wrapper=20
+=2Esize-11-m,.wrapper .size-11-l{font-size:11px !important;line-height:19px=
+ !important}.wrapper .size-11-m{line-height:22px !important}.wrapper .siz=
+e-11-l{line-height:33px !important}.wrapper .size-12,.wrapper .size-12-m,=
+=2Ewrapper .size-12-l{font-size:12px !important;line-height:19px !important=
+}.wrapper .size-12-m{line-height:24px !important}.wrapper .size-12-l{line=
+-height:36px !important}.wrapper .size-13,.wrapper .size-13-m,.wrapper .s=
+ize-13-l{font-size:13px !important;line-height:21px !important}.wrapper .=
+size-13-m{line-height:26px !important}.wrapper .size-13-l{line-height:39p=
+x !important}.wrapper .size-14,.wrapper .size-14-m,.wrapper .size-14-l{fo=
+nt-size:14px !important;line-height:21px !important}.wrapper .size-14-m{l=
+ine-height:28px !important}.wrapper .size-14-l{line-height:42px !importan=
+t}.wrapper .size-15,.wrapper .size-15-m,.wrapper .size-15-l{font-size:15p=
+x=20
+!important;line-height:23px !important}.wrapper .size-15-m{line-height:30=
+px !important}.wrapper .size-15-l{line-height:45px !important}.wrapper .s=
+ize-16,.wrapper .size-16-m,.wrapper .size-16-l{font-size:16px !important;=
+line-height:24px !important}.wrapper .size-16-m{line-height:32px !importa=
+nt}.wrapper .size-16-l{line-height:48px !important}.wrapper .size-17,.wra=
+pper .size-17-m,.wrapper .size-17-l{font-size:17px !important;line-height=
+:26px !important}.wrapper .size-17-m{line-height:34px !important}.wrapper=
+ .size-17-l{line-height:51px !important}.wrapper .size-18,.wrapper .size-=
+18-m,.wrapper .size-18-l{font-size:18px !important;line-height:26px !impo=
+rtant}.wrapper .size-18-m{line-height:36px !important}.wrapper .size-18-l=
+{line-height:54px !important}.wrapper .size-20,.wrapper .size-20-m,.wrapp=
+er .size-20-l{font-size:20px !important;line-height:28px !important}.wrap=
+per=20
+=2Esize-20-m{line-height:40px !important}.wrapper .size-20-l{line-height:60=
+px !important}.wrapper .size-22,.wrapper .size-22-m,.wrapper .size-22-l{f=
+ont-size:22px !important;line-height:31px !important}.wrapper .size-22-m{=
+line-height:44px !important}.wrapper .size-22-l{line-height:66px !importa=
+nt}.wrapper .size-24,.wrapper .size-24-m,.wrapper .size-24-l{font-size:24=
+px !important;line-height:32px !important}.wrapper .size-24-m{line-height=
+:48px !important}.wrapper .size-24-l{line-height:72px !important}.wrapper=
+ .size-26,.wrapper .size-26-m,.wrapper .size-26-l{font-size:26px !importa=
+nt;line-height:34px !important}.wrapper .size-26-m{line-height:52px !impo=
+rtant}.wrapper .size-26-l{line-height:78px !important}.wrapper .size-28,.=
+wrapper .size-28-m,.wrapper .size-28-l{font-size:28px !important;line-hei=
+ght:36px !important}.wrapper .size-28-m{line-height:56px !important}.wrap=
+per=20
+=2Esize-28-l{line-height:84px !important}.wrapper .size-30,.wrapper .size-3=
+0-m,.wrapper .size-30-l{font-size:30px !important;line-height:38px !impor=
+tant}.wrapper .size-30-m{line-height:60px !important}.wrapper .size-30-l{=
+line-height:90px !important}.wrapper .size-32,.wrapper .size-32-m,.wrappe=
+r .size-32-l{font-size:32px !important;line-height:40px !important}.wrapp=
+er .size-32-m{line-height:64px !important}.wrapper .size-32-l{line-height=
+:96px !important}.wrapper .size-34,.wrapper .size-34-m,.wrapper .size-34-=
+l{font-size:34px !important;line-height:43px !important}.wrapper .size-34=
+-m{line-height:68px !important}.wrapper .size-34-l{line-height:102px !imp=
+ortant}.wrapper .size-36,.wrapper .size-36-m,.wrapper .size-36-l{font-siz=
+e:36px !important;line-height:43px !important}.wrapper .size-36-m{line-he=
+ight:72px !important}.wrapper .size-36-l{line-height:108px !important}.wr=
+apper .size-40,.wrapper=20
+=2Esize-40-m,.wrapper .size-40-l{font-size:40px !important;line-height:47px=
+ !important}.wrapper .size-40-m{line-height:80px !important}.wrapper .siz=
+e-40-l{line-height:120px !important}.wrapper .size-44,.wrapper .size-44-m=
+,.wrapper .size-44-l{font-size:44px !important;line-height:50px !importan=
+t}.wrapper .size-44-m{line-height:88px !important}.wrapper .size-44-l{lin=
+e-height:132px !important}.wrapper .size-48,.wrapper .size-48-m,.wrapper =
+=2Esize-48-l{font-size:48px !important;line-height:54px !important}.wrapper=
+ .size-48-m{line-height:96px !important}.wrapper .size-48-l{line-height:1=
+44px !important}.wrapper .size-56,.wrapper .size-56-m,.wrapper .size-56-l=
+{font-size:56px !important;line-height:60px !important}.wrapper .size-56-=
+m{line-height:112px !important}.wrapper .size-56-l{line-height:168px !imp=
+ortant}.wrapper .size-64,.wrapper .size-64-m,.wrapper .size-64-l{font-siz=
+e:64px=20
+!important;line-height:68px !important}.wrapper .size-64-m{line-height:12=
+8px !important}.wrapper .size-64-l{line-height:192px !important}.wrapper =
+=2Esize-72,.wrapper .size-72-m,.wrapper .size-72-l{font-size:72px !importan=
+t;line-height:76px !important}.wrapper .size-72-m{line-height:144px !impo=
+rtant}.wrapper .size-72-l{line-height:216px !important}.wrapper .size-80,=
+=2Ewrapper .size-80-m,.wrapper .size-80-l{font-size:80px !important;line-he=
+ight:84px !important}.wrapper .size-80-m{line-height:160px !important}.wr=
+apper .size-80-l{line-height:240px !important}.wrapper .size-96,.wrapper =
+=2Esize-96-m,.wrapper .size-96-l{font-size:96px !important;line-height:100p=
+x !important}.wrapper .size-96-m{line-height:192px !important}.wrapper .s=
+ize-96-l{line-height:288px !important}.wrapper .size-112,.wrapper .size-1=
+12-m,.wrapper .size-112-l{font-size:112px !important;line-height:116px !i=
+mportant}.wrapper=20
+=2Esize-112-m{line-height:224px !important}.wrapper .size-112-l{line-height=
+:336px !important}.wrapper .size-128,.wrapper .size-128-m,.wrapper .size-=
+128-l{font-size:128px !important;line-height:132px !important}.wrapper .s=
+ize-128-m{line-height:256px !important}.wrapper .size-128-l{line-height:3=
+84px !important}.wrapper .size-144,.wrapper .size-144-m,.wrapper .size-14=
+4-l{font-size:144px !important;line-height:148px !important}.wrapper .siz=
+e-144-m{line-height:288px !important}.wrapper .size-144-l{line-height:432=
+px !important}}
+</style>
+    <meta name=3D"x-apple-disable-message-reformatting">
+    <style type=3D"text/css">
+=2Emain, .mso {
+  margin: 0;
+  padding: 0;
+}
+table {
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+* {
+  line-height: inherit;
+}
+[x-apple-data-detectors] {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+=2Ewrapper .footer__share-button a:hover,
+=2Ewrapper .footer__share-button a:focus {
+  color: #ffffff !important;
+}
+=2Ewrapper .footer__share-button a.icon-white:hover,
+=2Ewrapper .footer__share-button a.icon-white:focus {
+  color: #ffffff !important;
+}
+=2Ewrapper .footer__share-button a.icon-black:hover,
+=2Ewrapper .footer__share-button a.icon-black:focus {
+  color: #000000 !important;
+}
+=2Ebtn a:hover,
+=2Ebtn a:focus,
+=2Efooter__share-button a:hover,
+=2Efooter__share-button a:focus,
+=2Eemail-footer__links a:hover,
+=2Eemail-footer__links a:focus {
+  opacity: 0.8;
+}
+=2Epreheader,
+=2Eheader,
+=2Elayout,
+=2Ecolumn {
+  transition: width 0.25s ease-in-out, max-width 0.25s ease-in-out;
+}
+=2Epreheader td {
+  padding-bottom: 8px;
+}
+=2Elayout,
+div.header {
+  max-width: 400px !important;
+  -fallback-width: 95% !important;
+  width: calc(100% - 20px) !important;
+}
+div.preheader {
+  max-width: 360px !important;
+  -fallback-width: 90% !important;
+  width: calc(100% - 60px) !important;
+}
+=2Esnippet,
+=2Ewebversion {
+  Float: none !important;
+}
+=2Estack .column {
+  max-width: 400px !important;
+  width: 100% !important;
+}
+=2Efixed-width.has-border {
+  max-width: 402px !important;
+}
+=2Efixed-width.has-border .layout__inner {
+  box-sizing: border-box;
+}
+=2Esnippet,
+=2Ewebversion {
+  width: 50% !important;
+}
+=2Emso .layout__edges {
+  font-size: 0;
+}
+=2Elayout-fixed-width,
+=2Emso .layout-full-width {
+  background-color: #ffffff;
+}
+@media only screen and (min-width: 620px) {
+  .column,
+  .gutter {
+    display: table-cell;
+    Float: none !important;
+    vertical-align: top;
+  }
+  div.preheader,
+  .email-footer {
+    max-width: 560px !important;
+    width: 560px !important;
+  }
+  .snippet,
+  .webversion {
+    width: 280px !important;
+  }
+  div.header,
+  .layout,
+  .one-col .column {
+    max-width: 600px !important;
+    width: 600px !important;
+  }
+  .fixed-width.has-border,
+  .fixed-width.x_has-border,
+  .has-gutter.has-border,
+  .has-gutter.x_has-border {
+    max-width: 602px !important;
+    width: 602px !important;
+  }
+  .two-col .column {
+    max-width: 300px !important;
+    width: 300px !important;
+  }
+  .three-col .column,
+  .column.narrow,
+  .column.x_narrow {
+    max-width: 200px !important;
+    width: 200px !important;
+  }
+  .column.wide,
+  .column.x_wide {
+    width: 400px !important;
+  }
+  .two-col.has-gutter .column,
+  .two-col.x_has-gutter .column {
+    max-width: 290px !important;
+    width: 290px !important;
+  }
+  .three-col.has-gutter .column,
+  .three-col.x_has-gutter .column,
+  .has-gutter .narrow {
+    max-width: 188px !important;
+    width: 188px !important;
+  }
+  .has-gutter .wide {
+    max-width: 394px !important;
+    width: 394px !important;
+  }
+  .two-col.has-gutter.has-border .column,
+  .two-col.x_has-gutter.x_has-border .column {
+    max-width: 292px !important;
+    width: 292px !important;
+  }
+  .three-col.has-gutter.has-border .column,
+  .three-col.x_has-gutter.x_has-border .column,
+  .has-gutter.has-border .narrow,
+  .has-gutter.x_has-border .narrow {
+    max-width: 190px !important;
+    width: 190px !important;
+  }
+  .has-gutter.has-border .wide,
+  .has-gutter.x_has-border .wide {
+    max-width: 396px !important;
+    width: 396px !important;
+  }
+}
+@supports (display: flex) {
+  @media only screen and (min-width: 620px) {
+    .fixed-width.has-border .layout__inner {
+      display: flex !important;
+    }
+  }
+}
+/***
+* Mobile Styles
+*
+* 1. Overriding inline styles
+*/
+@media(max-width: 619px) {
+  .email-flexible-footer .left-aligned-footer .column,
+  .email-flexible-footer .center-aligned-footer,
+  .email-flexible-footer .right-aligned-footer .column {
+    max-width: 100% !important; /* [1] */
+    text-align: center !important; /* [1] */
+    width: 100% !important; /* [1] */
+  }
+  .flexible-footer-logo {
+    margin-left: 0px !important; /* [1] */
+    margin-right: 0px !important; /* [1] */
+  }
+  .email-flexible-footer .left-aligned-footer .flexible-footer__share-but=
+ton__container,
+  .email-flexible-footer .center-aligned-footer .flexible-footer__share-b=
+utton__container,
+  .email-flexible-footer .right-aligned-footer .flexible-footer__share-bu=
+tton__container {
+    display: inline-block;
+    margin-left: 5px !important; /* [1] */
+    margin-right: 5px !important; /* [1] */
+  }
+  .email-flexible-footer__additionalinfo--center {
+    text-align: center !important; /* [1] */
+  }
+ =20
+  .email-flexible-footer .left-aligned-footer table,
+  .email-flexible-footer .center-aligned-footer table,
+  .email-flexible-footer .right-aligned-footer table {
+    display: table !important; /* [1] */
+    width: 100% !important; /* [1] */
+  }
+  .email-flexible-footer .footer__share-button,
+  .email-flexible-footer .email-footer__additional-info {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen a=
+nd (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel=
+-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen an=
+d (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .fblike {
+    background-image: url(http://i7.cmail20.com/static/eb/master/13-the-b=
+lueprint-3/images/fblike@2x.png) !important;
+  }
+  .tweet {
+    background-image: url(http://i8.cmail20.com/static/eb/master/13-the-b=
+lueprint-3/images/tweet@2x.png) !important;
+  }
+  .linkedinshare {
+    background-image: url(http://i9.cmail20.com/static/eb/master/13-the-b=
+lueprint-3/images/lishare@2x.png) !important;
+  }
+  .forwardtoafriend {
+    background-image: url(http://i10.cmail20.com/static/eb/master/13-the-=
+blueprint-3/images/forward@2x.png) !important;
+  }
+}
+@media (max-width: 321px) {
+  .fixed-width.has-border .layout__inner {
+    border-width: 1px 0 !important;
+  }
+  .layout,
+  .stack .column {
+    min-width: 320px !important;
+    width: 320px !important;
+  }
+  .border {
+    display: none;
+  }
+  .has-gutter .border {
+    display: table-cell;
+  }
+}
+=2Ecmctbl--inline table {
+  border-collapse: collapse;
+}
+</style>
+   =20
+  <style type=3D"text/css">
+=2Emain,.mso{background-color:#f2f2f2}.logo a:hover,.logo a:focus{color:#85=
+9bb1 !important}.footer-logo a:hover,.footer-logo a:focus{color:#372d1b !=
+important}.mso .layout-has-border{border-top:1px solid #bfbfbf;border-bot=
+tom:1px solid #bfbfbf}.mso .layout-has-bottom-border{border-bottom:1px so=
+lid #bfbfbf}.mso .border{background-color:#bfbfbf}.mso h1{}.mso h1{font-s=
+ize:26px !important;line-height:34px !important}.mso h2{}.mso h2{font-siz=
+e:20px !important;line-height:28px !important}.mso h3{}.mso .layout__inne=
+r{}.mso .footer__share-button p{}.mso .footer__share-button p{font-family=
+:Avenir,sans-serif}
+</style><!--[if mso]><style type=3D"text/css" emb-not-inline>
+=2Emso div{border:0 none white !important}.mso .w560 .divider{}.mso .w560 .=
+divider{Margin-left:260px !important;Margin-right:260px !important}.mso .=
+w360 .divider{}.mso .w360 .divider{Margin-left:160px !important;Margin-ri=
+ght:160px !important}.mso .w260 .divider{}.mso .w260 .divider{Margin-left=
+:110px !important;Margin-right:110px !important}.mso .w160 .divider{}.mso=
+ .w160 .divider{Margin-left:60px !important;Margin-right:60px !important}=
+=2Emso .w60 .divider{}.mso .w60 .divider{Margin-left:10px !important;Margin=
+-right:10px !important}.mso .w354 .divider{}.mso .w354 .divider{Margin-le=
+ft:157px !important;Margin-right:157px !important}.mso .w250 .divider{}.m=
+so .w250 .divider{Margin-left:105px !important;Margin-right:105px !import=
+ant}.mso .w148 .divider{}.mso .w148 .divider{Margin-left:54px !important;=
+Margin-right:54px !important}.mso .size-8,.mso .size-8-m,.mso .size-8-l{f=
+ont-size:8px=20
+!important;line-height:14px !important}.mso .size-8-m{line-height:16px !i=
+mportant}.mso .size-8-l{line-height:24px !important}.mso .size-9,.mso .si=
+ze-9-m,.mso .size-9-l{font-size:9px !important;line-height:16px !importan=
+t}.mso .size-9-m{line-height:18px !important}.mso .size-9-l{line-height:2=
+7px !important}.mso .size-10,.mso .size-10-m,.mso .size-10-l{font-size:10=
+px !important;line-height:18px !important}.mso .size-10-m{line-height:20p=
+x !important}.mso .size-10-l{line-height:30px !important}.mso .size-11,.m=
+so .size-11-m,.mso .size-11-l{font-size:11px !important;line-height:19px =
+!important}.mso .size-11-m{line-height:22px !important}.mso .size-11-l{li=
+ne-height:33px !important}.mso .size-12,.mso .size-12-m,.mso .size-12-l{f=
+ont-size:12px !important;line-height:19px !important}.mso .size-12-m{line=
+-height:24px !important}.mso .size-12-l{line-height:36px !important}.mso =
+=2Esize-13,.mso=20
+=2Esize-13-m,.mso .size-13-l{font-size:13px !important;line-height:21px !im=
+portant}.mso .size-13-m{line-height:26px !important}.mso .size-13-l{line-=
+height:39px !important}.mso .size-14,.mso .size-14-m,.mso .size-14-l{font=
+-size:14px !important;line-height:21px !important}.mso .size-14-m{line-he=
+ight:28px !important}.mso .size-14-l{line-height:42px !important}.mso .si=
+ze-15,.mso .size-15-m,.mso .size-15-l{font-size:15px !important;line-heig=
+ht:23px !important}.mso .size-15-m{line-height:30px !important}.mso .size=
+-15-l{line-height:45px !important}.mso .size-16,.mso .size-16-m,.mso .siz=
+e-16-l{font-size:16px !important;line-height:24px !important}.mso .size-1=
+6-m{line-height:32px !important}.mso .size-16-l{line-height:48px !importa=
+nt}.mso .size-17,.mso .size-17-m,.mso .size-17-l{font-size:17px !importan=
+t;line-height:26px !important}.mso .size-17-m{line-height:34px !important=
+}.mso=20
+=2Esize-17-l{line-height:51px !important}.mso .size-18,.mso .size-18-m,.mso=
+ .size-18-l{font-size:18px !important;line-height:26px !important}.mso .s=
+ize-18-m{line-height:36px !important}.mso .size-18-l{line-height:54px !im=
+portant}.mso .size-20,.mso .size-20-m,.mso .size-20-l{font-size:20px !imp=
+ortant;line-height:28px !important}.mso .size-20-m{line-height:40px !impo=
+rtant}.mso .size-20-l{line-height:60px !important}.mso .size-22,.mso .siz=
+e-22-m,.mso .size-22-l{font-size:22px !important;line-height:31px !import=
+ant}.mso .size-22-m{line-height:44px !important}.mso .size-22-l{line-heig=
+ht:66px !important}.mso .size-24,.mso .size-24-m,.mso .size-24-l{font-siz=
+e:24px !important;line-height:32px !important}.mso .size-24-m{line-height=
+:48px !important}.mso .size-24-l{line-height:72px !important}.mso .size-2=
+6,.mso .size-26-m,.mso .size-26-l{font-size:26px !important;line-height:3=
+4px !important}.mso=20
+=2Esize-26-m{line-height:52px !important}.mso .size-26-l{line-height:78px !=
+important}.mso .size-28,.mso .size-28-m,.mso .size-28-l{font-size:28px !i=
+mportant;line-height:36px !important}.mso .size-28-m{line-height:56px !im=
+portant}.mso .size-28-l{line-height:84px !important}.mso .size-30,.mso .s=
+ize-30-m,.mso .size-30-l{font-size:30px !important;line-height:38px !impo=
+rtant}.mso .size-30-m{line-height:60px !important}.mso .size-30-l{line-he=
+ight:90px !important}.mso .size-32,.mso .size-32-m,.mso .size-32-l{font-s=
+ize:32px !important;line-height:40px !important}.mso .size-32-m{line-heig=
+ht:64px !important}.mso .size-32-l{line-height:96px !important}.mso .size=
+-34,.mso .size-34-m,.mso .size-34-l{font-size:34px !important;line-height=
+:43px !important}.mso .size-34-m{line-height:68px !important}.mso .size-3=
+4-l{line-height:102px !important}.mso .size-36,.mso .size-36-m,.mso .size=
+-36-l{font-size:36px=20
+!important;line-height:43px !important}.mso .size-36-m{line-height:72px !=
+important}.mso .size-36-l{line-height:108px !important}.mso .size-40,.mso=
+ .size-40-m,.mso .size-40-l{font-size:40px !important;line-height:47px !i=
+mportant}.mso .size-40-m{line-height:80px !important}.mso .size-40-l{line=
+-height:120px !important}.mso .size-44,.mso .size-44-m,.mso .size-44-l{fo=
+nt-size:44px !important;line-height:50px !important}.mso .size-44-m{line-=
+height:88px !important}.mso .size-44-l{line-height:132px !important}.mso =
+=2Esize-48,.mso .size-48-m,.mso .size-48-l{font-size:48px !important;line-h=
+eight:54px !important}.mso .size-48-m{line-height:96px !important}.mso .s=
+ize-48-l{line-height:144px !important}.mso .size-56,.mso .size-56-m,.mso =
+=2Esize-56-l{font-size:56px !important;line-height:60px !important}.mso .si=
+ze-56-m{line-height:112px !important}.mso .size-56-l{line-height:168px !i=
+mportant}.mso=20
+=2Esize-64,.mso .size-64-m,.mso .size-64-l{font-size:64px !important;line-h=
+eight:68px !important}.mso .size-64-m{line-height:128px !important}.mso .=
+size-64-l{line-height:192px !important}.mso .size-72,.mso .size-72-m,.mso=
+ .size-72-l{font-size:72px !important;line-height:76px !important}.mso .s=
+ize-72-m{line-height:144px !important}.mso .size-72-l{line-height:216px !=
+important}.mso .size-80,.mso .size-80-m,.mso .size-80-l{font-size:80px !i=
+mportant;line-height:84px !important}.mso .size-80-m{line-height:160px !i=
+mportant}.mso .size-80-l{line-height:240px !important}.mso .size-96,.mso =
+=2Esize-96-m,.mso .size-96-l{font-size:96px !important;line-height:100px !i=
+mportant}.mso .size-96-m{line-height:192px !important}.mso .size-96-l{lin=
+e-height:288px !important}.mso .size-112,.mso .size-112-m,.mso .size-112-=
+l{font-size:112px !important;line-height:116px !important}.mso .size-112-=
+m{line-height:224px=20
+!important}.mso .size-112-l{line-height:336px !important}.mso .size-128,.=
+mso .size-128-m,.mso .size-128-l{font-size:128px !important;line-height:1=
+32px !important}.mso .size-128-m{line-height:256px !important}.mso .size-=
+128-l{line-height:384px !important}.mso .size-144,.mso .size-144-m,.mso .=
+size-144-l{font-size:144px !important;line-height:148px !important}.mso .=
+size-144-m{line-height:288px !important}.mso .size-144-l{line-height:432p=
+x !important}.mso .cmctbl table td,.mso .cmctbl table th{Margin-left:20px=
+ !important;Margin-right:20px !important}.mso .cmctbl- -inline,.mso .cmct=
+bl{padding-left:20px !important;padding-right:20px !important}.mso .cmctb=
+l- -inline table,.mso .cmctbl=20
+table{mso-table-lspace:0pt;mso-table-rspace:0pt;
+mso-line-height-rule:exactly}.size-8,.size-9{mso-text-raise:9px}.size-34,=
+h1{mso-text-raise:13px}.size-36{mso-text-raise:14px}.size-40{mso-text-rai=
+se:16px}.size-44{mso-text-raise:17px}.size-48{mso-text-raise:18px}.size-5=
+6{mso-text-raise:22px}.size-64{mso-text-raise:25px}.size-72{mso-text-rais=
+e:28px}.size-80{mso-text-raise:32px}.size-96{mso-text-raise:40px}.size-11=
+2{mso-text-raise:46px}.size-128{mso-text-raise:54px}.size-144{mso-text-ra=
+ise:58px}.size-11-m,.size-12-m{mso-text-raise:6px}.size-13-m,.size-14-m{m=
+so-text-raise:7px}.size-15-m,.size-16-m,.size-8-l{mso-text-raise:8px}.siz=
+e-17-m,.size-18-m{mso-text-raise:9px}.size-20-m,.size-10-l{mso-text-raise=
+:10px}.size-22-m,.size-11-l{mso-text-raise:11px}.size-24-m,.size-12-l{mso=
+-text-raise:12px}.size-26-m,.size-13-l{mso-text-raise:13px}.size-28-m,.si=
+ze-14-l{mso-text-raise:14px}.size-30-m,.size-15-l{mso-text-raise:15px}.si=
+ze-32-m,.size-16
+-l{mso-text-raise:16px}.size-34-m,.size-17-l{mso-text-raise:17px}.size-36=
+-m,.size-18-l{mso-text-raise:18px}.size-40-m,.size-20-l{mso-text-raise:20=
+px}.size-44-m,.size-22-l{mso-text-raise:22px}.size-48-m,.size-24-l{mso-te=
+xt-raise:24px}.size-26-l{mso-text-raise:26px}.size-56-m,.size-28-l{mso-te=
+xt-raise:28px}.size-30-l{mso-text-raise:30px}.size-64-m,.size-32-l{mso-te=
+xt-raise:32px}.size-34-l{mso-text-raise:34px}.size-72-m,.size-36-l{mso-te=
+xt-raise:36px}.size-80-m,.size-40-l{mso-text-raise:40px}.size-44-l{mso-te=
+xt-raise:44px}.size-96-m,.size-48-l{mso-text-raise:48px}.size-112-m,.size=
+-56-l{mso-text-raise:56px}.size-128-m,.size-64-l{mso-text-raise:64px}.siz=
+e-144-m,.size-72-l{mso-text-raise:72px}.size-80-l{mso-text-raise:80px}.si=
+ze-96-l{mso-text-raise:96px}.size-112-l{mso-text-raise:112px}.size-128-l{=
+mso-text-raise:128px}.size-144-l{mso-text-raise:144px}
+</style><![endif]--></head>
+<!--[if mso]>
+  <body class=3D"mso">
+<![endif]-->
+<!--[if !mso]><!-->
+  <body class=3D"main full-padding" style=3D"margin: 0;padding: 0;-webkit=
+-text-size-adjust: 100%;">
+<!--<![endif]-->
+    <table class=3D"wrapper" style=3D"border-collapse: collapse;table-lay=
+out: fixed;min-width: 320px;width: 100%;background-color: #f2f2f2;" cellp=
+adding=3D"0" cellspacing=3D"0" role=3D"presentation"><tbody><tr><td>
+      <div role=3D"banner">
+        <div class=3D"preheader" style=3D"Margin: 0 auto;max-width: 560px=
+;min-width: 280px; width: 280px;width: calc(28000% - 167440px);">
+          <div style=3D"border-collapse: collapse;display: table;width: 1=
+00%;">
+          <!--[if mso]><table align=3D"center" class=3D"preheader" cellp=
+adding=3D"0" cellspacing=3D"0" role=3D"presentation"><tr><td style=3D"wid=
+th: 280px" valign=3D"top"><![endif]-->
+            <div class=3D"snippet" style=3D"display: table-cell;Float: le=
+ft;font-size: 12px;line-height: 19px;max-width: 280px;min-width: 140px; w=
+idth: 140px;width: calc(14000% - 78120px);padding: 10px 0 5px 0;color: #9=
+48f94;font-family: Avenir,sans-serif;">
+             =20
+            </div>
+          <!--[if mso]></td><td style=3D"width: 280px" valign=3D"top"><!=
+[endif]-->
+            <div class=3D"webversion" style=3D"display: table-cell;Float:=
+ left;font-size: 12px;line-height: 19px;max-width: 280px;min-width: 139px=
+; width: 139px;width: calc(14100% - 78680px);padding: 10px 0 5px 0;text-a=
+lign: right;color: #948f94;font-family: Avenir,sans-serif;">
+             =20
+            </div>
+          <!--[if mso]></td></tr></table><![endif]-->
+          </div>
+        </div>
+       =20
+      </div>
+      <div>
+      <div class=3D"layout one-col fixed-width stack" style=3D"Margin: 0 =
+auto;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% -=
+ 167400px);overflow-wrap: break-word;word-wrap: break-word;word-break: br=
+eak-word;">
+        <div class=3D"layout__inner" style=3D"border-collapse: collapse;d=
+isplay: table;width: 100%;background-color: #ffffff;">
+        <!--[if mso]><table align=3D"center" cellpadding=3D"0" cellspaci=
+ng=3D"0" role=3D"presentation"><tr class=3D"layout-fixed-width" style=3D"=
+background-color: #ffffff;"><td style=3D"width: 600px" class=3D"w560"><![=
+endif]-->
+          <div class=3D"column" style=3D"text-align: left;color: #8e8e8e;=
+font-size: 14px;line-height: 21px;font-family: Avenir,sans-serif;">
+       =20
+        <div style=3D"font-size: 12px;font-style: normal;font-weight: nor=
+mal;line-height: 19px;" align=3D"center">
+          <a style=3D"text-decoration: underline;transition: opacity 0.1s=
+ ease-in;color: #fff;" href=3D"https://siliconhighway.cmail20.com/t/d-l-v=
+djyhdk-idtjiykhuu-r/"><img class=3D"gnd-corner-image gnd-corner-i=
+mage-center gnd-corner-image-top gnd-corner-image-bottom" style=3D"border=
+: 0;display: block;height: auto;width: 100%;max-width: 688px;" alt=3D"" w=
+idth=3D"600" src=3D"http://i1.cmail20.com/ei/d/4E/2F1/D13/222745/csfinal/=
+sili_eshot-logo_head-9900000000079e3c.jpg"></a>
+        </div>
+     =20
+          </div>
+        <!--[if mso]></td></tr></table><![endif]-->
+        </div>
+      </div>
+ =20
+      <div style=3D"mso-line-height-rule: exactly;line-height: 3px;font-s=
+ize: 3px;">&nbsp;</div>
+ =20
+      <div class=3D"layout one-col fixed-width stack" style=3D"Margin: 0 =
+auto;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% -=
+ 167400px);overflow-wrap: break-word;word-wrap: break-word;word-break: br=
+eak-word;">
+        <div class=3D"layout__inner" style=3D"border-collapse: collapse;d=
+isplay: table;width: 100%;background-color: #ffffff;">
+        <!--[if mso]><table align=3D"center" cellpadding=3D"0" cellspaci=
+ng=3D"0" role=3D"presentation"><tr class=3D"layout-fixed-width" style=3D"=
+background-color: #ffffff;"><td style=3D"width: 600px" class=3D"w560"><![=
+endif]-->
+          <div class=3D"column" style=3D"text-align: left;color: #8e8e8e;=
+font-size: 14px;line-height: 21px;font-family: Avenir,sans-serif;">
+       =20
+        <div style=3D"font-size: 12px;font-style: normal;font-weight: nor=
+mal;line-height: 19px;" align=3D"center">
+          <img class=3D"gnd-corner-image gnd-corner-image-center gnd-corn=
+er-image-top" style=3D"border: 0;display: block;height: auto;width: 100%;=
+max-width: 831px;" alt=3D"" width=3D"600" src=3D"http://i2.cmail20.com/ei=
+/d/4E/2F1/D13/222745/csfinal/jetson_family-9900000000079e3c.jpg">
+        </div>
+     =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-top=
+: 20px;">
+      <div style=3D"mso-line-height-rule: exactly;line-height: 10px;font-=
+size: 1px;">&nbsp;</div>
+    </div>
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;">
+      <div style=3D"mso-line-height-rule: exactly;mso-text-raise: 11px;ve=
+rtical-align: middle;">
+        <h1 class=3D"size-18" style=3D"Margin-top: 0;Margin-bottom: 20px;=
+font-style: normal;font-weight: normal;color: #fff;font-size: 17px;line-h=
+eight: 26px;text-align: left;" lang=3D"x-size-18"><span style=3D"text-dec=
+oration: inherit;color: #000000;">NVIDIA Jetson Orin PCN PCN210341/PCN210=
+361 </span></h1>
+      </div>
+    </div>
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;">
+      <div style=3D"mso-line-height-rule: exactly;line-height: 20px;font-=
+size: 1px;">&nbsp;</div>
+    </div>
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;">
+      <div style=3D"mso-line-height-rule: exactly;mso-text-raise: 11px;ve=
+rtical-align: middle;">
+        <div><p style=3D"Margin-top: 0;Margin-bottom: 20px;"><span style=3D=
+"text-decoration: inherit;">PCN210341 &#8211; Jetson Orin Family Marking =
+Update</span></p></div>
+      </div>
+    </div>
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;">
+      <div style=3D"mso-line-height-rule: exactly;line-height: 20px;font-=
+size: 1px;">&nbsp;</div>
+    </div>
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;">
+      <div class=3D"btn btn--flat fullwidth btn--large" style=3D"Margin-b=
+ottom: 20px;text-align: center;">
+        <!--[if !mso]><!--><a style=3D"border-radius: 4px;display: block=
+;font-size: 14px;font-weight: bold;line-height: 24px;padding: 12px 24px;t=
+ext-align: center;text-decoration: none !important;transition: opacity 0.=
+1s ease-in;color: #ffffff !important;background-color: #76b900;font-famil=
+y: Avenir, sans-serif;" href=3D"https://siliconhighway.cmail20.com/t/d-l-=
+vdjyhdk-idtjiykhuu-y/">PCN210341</a><!--<![endif]-->
+      <!--[if mso]><p style=3D"line-height:0;margin:0;">&nbsp;</p><v:rou=
+ndrect xmlns:v=3D"urn:schemas-microsoft-com:vml" href=3D"https://siliconh=
+ighway.cmail20.com/t/d-l-vdjyhdk-idtjiykhuu-y/" style=3D"width:42=
+0pt" arcsize=3D"9%" fillcolor=3D"#76B900" stroke=3D"f"><v:textbox style=3D=
+"mso-fit-shape-to-text:t" inset=3D"0pt,8.25pt,0pt,8.25pt"><center style=3D=
+"font-size:14px;line-height:24px;color:#FFFFFF;font-family:Avenir,sans-se=
+rif;font-weight:bold;mso-line-height-rule:exactly;mso-text-raise:1.5px">P=
+CN210341</center></v:textbox></v:roundrect><![endif]--></div>
+    </div>
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;">
+      <div style=3D"mso-line-height-rule: exactly;line-height: 20px;font-=
+size: 1px;">&nbsp;</div>
+    </div>
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;">
+      <div style=3D"mso-line-height-rule: exactly;mso-text-raise: 11px;ve=
+rtical-align: middle;">
+        <p style=3D"Margin-top: 0;Margin-bottom: 20px;"><span style=3D"te=
+xt-decoration: inherit;">PCN210361 &#8211; Jetson Orin NX 8GB and Jetson =
+Orin Nano series &#8211; Addition of Manufacturing BOM Components: Samsun=
+g DRAM</span></p>
+      </div>
+    </div>
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;">
+      <div style=3D"mso-line-height-rule: exactly;line-height: 20px;font-=
+size: 1px;">&nbsp;</div>
+    </div>
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;">
+      <div class=3D"btn btn--flat fullwidth btn--large" style=3D"Margin-b=
+ottom: 20px;text-align: center;">
+        <!--[if !mso]><!--><a style=3D"border-radius: 4px;display: block=
+;font-size: 14px;font-weight: bold;line-height: 24px;padding: 12px 24px;t=
+ext-align: center;text-decoration: none !important;transition: opacity 0.=
+1s ease-in;color: #ffffff !important;background-color: #76b900;font-famil=
+y: Avenir, sans-serif;" href=3D"https://siliconhighway.cmail20.com/t/d-l-=
+vdjyhdk-idtjiykhuu-j/">PCN210361</a><!--<![endif]-->
+      <!--[if mso]><p style=3D"line-height:0;margin:0;">&nbsp;</p><v:rou=
+ndrect xmlns:v=3D"urn:schemas-microsoft-com:vml" href=3D"https://siliconh=
+ighway.cmail20.com/t/d-l-vdjyhdk-idtjiykhuu-j/" style=3D"width:42=
+0pt" arcsize=3D"9%" fillcolor=3D"#76B900" stroke=3D"f"><v:textbox style=3D=
+"mso-fit-shape-to-text:t" inset=3D"0pt,8.25pt,0pt,8.25pt"><center style=3D=
+"font-size:14px;line-height:24px;color:#FFFFFF;font-family:Avenir,sans-se=
+rif;font-weight:bold;mso-line-height-rule:exactly;mso-text-raise:1.5px">P=
+CN210361</center></v:textbox></v:roundrect><![endif]--></div>
+    </div>
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;">
+      <div style=3D"mso-line-height-rule: exactly;line-height: 1px;font-s=
+ize: 1px;">&nbsp;</div>
+    </div>
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;">
+      <div style=3D"mso-line-height-rule: exactly;line-height: 20px;font-=
+size: 1px;">&nbsp;</div>
+    </div>
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-bot=
+tom: 24px;">
+      <div style=3D"mso-line-height-rule: exactly;mso-text-raise: 11px;ve=
+rtical-align: middle;">
+        <p class=3D"size-15" style=3D"Margin-top: 0;Margin-bottom: 0;font=
+-family: Arial,sans-serif;font-size: 15px;line-height: 23px;" lang=3D"x-s=
+ize-15"><span class=3D"font-arial" style=3D"text-decoration: inherit;"><s=
+pan style=3D"text-decoration: inherit;"><span style=3D"text-decoration: i=
+nherit;">NV</span><span style=3D"text-decoration: inherit;">I</span><span=
+ style=3D"text-decoration: inherit;">DIA is committed to providing high q=
+uality products to our customers. The qualification of this revision adhe=
+res to the same</span><span style=3D"text-decoration: inherit;"> stringen=
+t standards and procedures as those used for all NVIDIA products</span></=
+span></span></p>
+      </div>
+    </div>
+       =20
+          </div>
+        <!--[if mso]></td></tr></table><![endif]-->
+        </div>
+      </div>
+ =20
+      </div>
+      <table style=3D"border-collapse: collapse;table-layout: fixed;" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"100%"><tbody><tr><td style=3D"b=
+ackground-color: #f2f2f2"><div role=3D"contentinfo"><div style=3D"line-he=
+ight:4px;font-size:4px;" id=3D"footer-top-spacing">&nbsp;</div><div class=
+=3D"layout email-flexible-footer email-footer" style=3D"Margin: 0 auto;ma=
+x-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400=
+px);overflow-wrap: break-word;word-wrap: break-word;word-break: break-wor=
+d;" id=3D"footer-content">
+      <div class=3D"layout__inner center-aligned-footer" style=3D"border-=
+collapse: collapse;display: table;width: 100%;">
+        <!--[if mso]><table style=3D"width: 600px;" align=3D"center" cel=
+lpadding=3D"0" cellspacing=3D"0" role=3D"presentation"><![endif]-->
+        <!--[if mso]><tr class=3D"layout-email-footer"><![endif]-->
+          <div class=3D"column" style=3D"text-align: center;font-size: 12=
+px;line-height: 19px;color: #948f94;font-family: Avenir,sans-serif;displa=
+y: none;" align=3D"center">
+      <div class=3D"footer-logo emb-logo-margin-box" style=3D"font-size: =
+26px;line-height: 32px;Margin-top: 10px;Margin-bottom: 20px;color: #7b663=
+d;font-family: Roboto,Tahoma,sans-serif;" align=3D"center">
+        <div emb-flexible-footer-logo align=3D"center"></div>
+      </div>
+    </div>
+        <!--[if mso]></tr><![endif]-->
+        <!--[if mso]><tr class=3D"layout-email-footer"><![endif]-->
+          <div class=3D"column" style=3D"text-align: center;font-size: 12=
+px;line-height: 19px;color: #948f94;font-family: Avenir,sans-serif;displa=
+y: inline;" align=3D"center">
+      <div style=3D"margin-left: 0;margin-right: 0;Margin-top: 10px;Margi=
+n-bottom: 10px;">
+        <div class=3D"footer__share-button">
+         =20
+         =20
+         =20
+         =20
+        <table style=3D"border-collapse: collapse;table-layout: fixed;dis=
+play: inline;" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D=
+"flexible-footer__share-button__container" style=3D"margin-bottom: 10px;m=
+so-line-height-rule: exactly;display: inline-block;margin-left: 5px;margi=
+n-right: 5px;">
+            <a class=3D"icon-white" style=3D"text-decoration: none;transi=
+tion: opacity 0.1s ease-in;color: white;border-radius: 2px;display: inlin=
+e-block;font-size: 11px;font-weight: bold;line-height: 19px;text-align: l=
+eft;border-style: solid;border-width: 4px 0 4px 4px;mso-border-width-alt:=
+ 4px 8px 8px 8px;background-color: #797979;border-color: #797979;mso-bord=
+er-color-alt: #797979;width: 81px;box-sizing: content-box;" href=3D"https=
+://siliconhighway.cmail20.com/t/d-tw-vdjyhdk-idtjiykhuu-t/">
+              &nbsp;<img style=3D"border: 0;display: inline-block;margin-=
+right: 2px;vertical-align: -3px;" src=3D"http://i2.cmail20.com//static/eb=
+/master/13-the-blueprint-3/images/tweet-white-flex@2x.png" width=3D"16" h=
+eight=3D"16" border=3D"0" alt=3D"">
+              <span style=3D"font-size: 11px;mso-text-raise: 3px;">Tweet&=
+nbsp;</span>
+            </a>
+          </td><td class=3D"flexible-footer__share-button__container" sty=
+le=3D"margin-bottom: 10px;mso-line-height-rule: exactly;display: inline-b=
+lock;margin-left: 5px;margin-right: 5px;">
+            <a class=3D"icon-white" style=3D"text-decoration: none;transi=
+tion: opacity 0.1s ease-in;color: white;border-radius: 2px;display: inlin=
+e-block;font-size: 11px;font-weight: bold;line-height: 19px;text-align: l=
+eft;border-style: solid;border-width: 4px 0 4px 4px;mso-border-width-alt:=
+ 4px 8px 8px 8px;background-color: #797979;border-color: #797979;mso-bord=
+er-color-alt: #797979;width: 81px;box-sizing: content-box;" href=3D"https=
+://siliconhighway.forwardtomyfriend.com/d-idtjiykhuu-=
+257367DE-vdjyhdk-l-i" lang=3D"en">
+              &nbsp;<img style=3D"border: 0;display: inline-block;margin-=
+right: 2px;vertical-align: -3px;" src=3D"http://i4.cmail20.com//static/eb=
+/master/13-the-blueprint-3/images/forwardtoafriend-white-flex@2x.png" wid=
+th=3D"16" height=3D"16" border=3D"0" alt=3D"">
+              <span style=3D"font-size: 11px;mso-text-raise: 3px;">Forwar=
+d&nbsp;</span>
+            </a>
+          </td></tr></tbody></table></div>
+      </div>
+    </div>
+        <!--[if mso]></tr><![endif]-->
+        <!--[if mso]><tr class=3D"layout-email-footer"><![endif]-->
+          <table style=3D"border-collapse: collapse;table-layout: fixed;w=
+idth: 100%;" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td><div clas=
+s=3D"column js-footer-additional-info" style=3D"text-align: center;font-s=
+ize: 12px;line-height: 19px;color: #948f94;font-family: Avenir,sans-serif=
+;display: inline;width: 100%;" align=3D"center">
+      <div style=3D"margin-left: 0;margin-right: 0;Margin-top: 10px;Margi=
+n-bottom: 10px;">
+        <div class=3D"email-footer__additional-info" style=3D"font-size: =
+12px;line-height: 19px;margin-bottom: 18px;margin-top: 0px;">
+          <div bind-to=3D"address"><p class=3D"email-flexible-footer__add=
+itionalinfo--center" style=3D"Margin-top: 0;Margin-bottom: 0;">http://www=
+=2Esiliconhighwaydirect.com</p></div>
+        </div>
+       =20
+        <div class=3D"email-footer__additional-info" style=3D"font-size: =
+12px;line-height: 19px;margin-bottom: 15px;Margin-top: 18px;">
+          <div bind-to=3D"permission"><p class=3D"email-flexible-footer__=
+additionalinfo--center" style=3D"Margin-top: 0;Margin-bottom: 0;">On beha=
+lf of Silicon Highway Ltd</p></div>
+        </div>
+        <div class=3D"email-footer__additional-info" style=3D"font-size: =
+12px;line-height: 19px;margin-bottom: 15px;">
+          <span><a style=3D"text-decoration: underline;transition: opacit=
+y 0.1s ease-in;color: #948f94;" href=3D"https://siliconhighway.updatemypr=
+ofile.com/d-vdjyhdk-257367DE-idtjiykhuu-d" lang=3D"en"=
+>Preferences</a>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a style=3D"text-decorati=
+on: underline;transition: opacity 0.1s ease-in;color: #948f94;" href=3D"h=
+ttps://siliconhighway.cmail20.com/t/d-u-vdjyhdk-idtjiykhuu-b/" la=
+ng=3D"en">Unsubscribe</a>
+        </div>
+        <!--[if mso]>&nbsp;<![endif]-->
+      </div>
+    </div></td></tr></tbody></table>
+        <!--[if mso]></tr></table><![endif]-->
+      </div>
+    </div><div style=3D"line-height:16px;font-size:16px;" id=3D"footer-bo=
+ttom-spacing">&nbsp;</div></div></td></tr></tbody></table>
+     =20
+    </td></tr></tbody></table>
+  <style type=3D"text/css">
+@media (max-width:619px){.email-flexible-footer .left-aligned-footer .col=
+umn,.email-flexible-footer .center-aligned-footer,.email-flexible-footer =
+=2Eright-aligned-footer .column{max-width:100% !important;text-align:center=
+ !important;width:100% !important}.flexible-footer-logo{margin-left:0px !=
+important;margin-right:0px !important}.email-flexible-footer .left-aligne=
+d-footer .flexible-footer__share-button__container,.email-flexible-footer=
+ .center-aligned-footer .flexible-footer__share-button__container,.email-=
+flexible-footer .right-aligned-footer .flexible-footer__share-button__con=
+tainer{display:inline-block;margin-left:5px !important;margin-right:5px !=
+important}.email-flexible-footer__additionalinfo--center{text-align:cente=
+r !important}.email-flexible-footer .left-aligned-footer table,.email-fle=
+xible-footer .center-aligned-footer table,.email-flexible-footer .right-a=
+ligned-footer=20
+table{display:table !important;width:100% !important}.email-flexible-foot=
+er .footer__share-button,.email-flexible-footer .email-footer__additional=
+-info{margin-left:20px;margin-right:20px}}
+</style><img style=3D"visibility: hidden !important; display: block !impo=
+rtant; height:1px !important; width:1px !important; border: 0 !important;=
+ margin: 0 !important; padding: 0 !important" src=3D"https://siliconhighw=
+ay.cmail20.com/t/d-o-vdjyhdk-idtjiykhuu/o.gif" width=3D"1" height=
+=3D"1" border=3D"0" alt=3D"">
+</body></html>=
+
+
+
+
+--_385a94dd-b079-4fd4-beef-a2da7ff851c3_--

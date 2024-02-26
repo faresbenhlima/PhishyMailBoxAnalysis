@@ -1,0 +1,2270 @@
+Return-Path: <01010185965289a4-ace6afa4-79f7-4caa-af2b-76f49fc6a40e-000000@us-west-2.amazonses.com>
+Received: from server.cpprotect3.de
+	by server.cpprotect3.de with LMTP
+	id YJpxIJb8u2P9yzIAQhmUyQ
+	(envelope-from <01010185965289a4-ace6afa4-79f7-4caa-af2b-76f49fc6a40e-000000@us-west-2.amazonses.com>); Mon, 09 Jan 2023 12:37:58 +0100
+Return-path: <01010185965289a4-ace6afa4-79f7-4caa-af2b-76f49fc6a40e-000000@us-west-2.amazonses.com>
+Envelope-to: work@luhbots.de
+Delivery-date: Mon, 09 Jan 2023 12:37:58 +0100
+Received: from a27-89.smtp-out.us-west-2.amazonses.com ([54.240.27.89]:58215)
+	by server.cpprotect3.de with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+	(Exim 4.95)
+	(envelope-from <01010185965289a4-ace6afa4-79f7-4caa-af2b-76f49fc6a40e-000000@us-west-2.amazonses.com>)
+	id 1pEqTQ-00ECtf-BP
+	for work@luhbots.de;
+	Mon, 09 Jan 2023 12:37:58 +0100
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=euu4v4xociisga47riplbvs2m5bzkerw; d=amazonbusiness.de;
+	t=1673264269;
+	h=Message-ID:Date:Subject:From:To:MIME-Version:Content-Type:List-Unsubscribe-Post:List-Unsubscribe;
+	bh=/nVOLbhU6ofa+TfL/NFx5HLzryPu1IJQBZKkbqAxCV4=;
+	b=j7T/R48ZbmzOG63H3LIFTM6XjHlKo4Yq4Iy9AqrN7c2+KK5LQU5YfEMYol9IS7dW
+	sMj/9tJl862YOAiZoTapgblukMp7eWcNpWauiP84xEdCte6YeH/3Gz4F9arfvXlatmI
+	TI5/HAYjWJo5PvUjE51oRR5BsEwOxfmxmQGxY030=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=gdwg2y3kokkkj5a55z2ilkup5wp5hhxx; d=amazonses.com; t=1673264269;
+	h=Message-ID:Date:Subject:From:To:MIME-Version:Content-Type:List-Unsubscribe-Post:List-Unsubscribe:Feedback-ID;
+	bh=/nVOLbhU6ofa+TfL/NFx5HLzryPu1IJQBZKkbqAxCV4=;
+	b=BDfVo2ieo2zxHiJyJkWb0VxYeTsvJ4DkgJ4Z9Zty+hY3hyww16yMlF/NaxupiTtq
+	9RyFI6RdjGeIXVvrwFxFxnK8cd6hR9S6Ahy64xf1SJx75uFUYpHEe83iLVFRDG5ixg8
+	LFxCqszYTj7EE9S0FWwH0MW1nGKV1zwLNnxageUU=
+Message-ID: <01010185965289a4-ace6afa4-79f7-4caa-af2b-76f49fc6a40e-000000@us-west-2.amazonses.com>
+Date: Mon, 9 Jan 2023 11:37:49 +0000
+Subject: =?utf-8?Q?F=C3=BCge?= Personen hinzu, um beim
+ =?utf-8?Q?Gesch=C3=A4ftseinkauf?= zusammenzuarbeiten
+From: Amazon Business <no-reply@amazonbusiness.de>
+To: work@luhbots.de
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1673264269_7eb5abf8966ab56078bd7bb82a648f92_=_"
+X-Pardot-Route: 162:317391:3505972598
+X-Source-Ref-Id: 3505972598
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-Unsubscribe: <https://www.amazonbusiness.eu/listUnsubscribeHeader/u/317391/fbd272c61766aff2d79e9d0097f588e21281da2ffa67fe940c7d0605ecee6010/3505972598>
+X-Report-Abuse-To: abuse@amazonaws.com
+Feedback-ID: 1.us-west-2.Rop6pjtMsVdLjzruIX9tRNsvBlt3lD2FxfAZbqNqxS0=:AmazonSES
+X-SES-Outgoing: 2023.01.09-54.240.27.89
+X-Spam-Status: No, score=0.1
+X-Spam-Score: 1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "server.cpprotect3.de",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Füge Personen hinzu und lege Einkaufsrichtlinien fest Spare
+    Zeit, indem du den Einkauf mit Ausgabenlimits und Richtlinien an dein Team
+    delegierst. So kannst du Benutzer:innen zu deinem Konto hinzufügen: 1. Logge
+    dich mit deinem Geschäftskonto ein 2. Gib die E-Mail-Adressen deiner Kolleg:innen
+    ein 3. Weise eine Rolle zu („Anforderer“ oder � [...] 
+ Content analysis details:   (0.1 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: amazonbusiness.eu]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+
+--_=_swift_v4_1673264269_7eb5abf8966ab56078bd7bb82a648f92_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+F=C3=BCge Personen hinzu und lege Einkaufsrichtlinien fest
+Spare Zeit, in=
+dem du den Einkauf mit Ausgabenlimits und Richtlinien an dein Team delegier=
+st.
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=20
+So kannst d=
+u Benutzer:innen zu deinem Konto hinzuf=C3=BCgen:=20
+1. Logge dich mit dein=
+em Gesch=C3=A4ftskonto ein
+2. Gib die E-Mail-Adressen deiner Kolleg:innen=
+ ein
+3. Weise eine Rolle zu (=E2=80=9EAnforderer=E2=80=9C oder =E2=80=
+=9EAdministrator=E2=80=9C)
+4. Klicke auf =E2=80=9EHinzuf=C3=BCgen=
+=E2=80=9C
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=20
+Der Vorgang=
+ dauert nur wenige Minuten und eingeladene Kolleg:innen werden deinem Konto=
+ hinzugef=C3=BCgt, sobald sie deine Einladung annehmen.
+F=C3=BCge Persone=
+n hinzu: https://www.amazonbusiness.eu/e/317391/b-life-a-e-mua-acqseries-de=
+-t2/k3f2bt/3505972598?h=3DTnJ_B-pfezvMrKJd9-H6rD2sPN1iPNvQ4mnMD1-WURk
+
+=
+Au=C3=9Ferdem kannst du den Gesch=C3=A4ftseinkauf folgenderma=C3=9Fen optim=
+ieren:
+=09=09=09=09=09=09=09=09=09=09=09=09=09=20
+Erstelle Einkaufsgruppe=
+n=20
+Auf diese Weise kannst du Benutzer:innen einfach verwalten und die Ein=
+kaufseinstellungen an die Anforderungen deines Unternehmens anpassen.
+
+=
+ F=C3=BCge einen Genehmigungs-Workflow hinzu=20
+Verbessere die Kontrolle =
+=C3=BCber die Ausgaben deines Teams, indem du Ausgabenlimits und Genehmigun=
+gsrichtlinien hinzuf=C3=BCgst
+
+Gemeinsame Zahlungsarten
+Du kannst meh=
+rere gemeinsam genutzte Zahlungsmethoden hinzuf=C3=BCgen, damit dein Team d=
+ie Zahlungsoption w=C3=A4hrend des Bestellvorgangs ausw=C3=A4hlen kann
+=
+
+Amazon Beschaffungsanalysen=20
+Verwende integrierte Berichte, um Ausgabe=
+n mit anpassbaren Bestellungen, Abstimmungen und R=C3=BCckerstattungsberich=
+ten zu verfolgen und zu analysieren
+
+https://www.amazonbusiness.eu/e/31=
+7391/AmazonBusiness-/k31q5h/3505972598?h=3DTnJ_B-pfezvMrKJd9-H6rD2sPN1iPNvQ=
+4mnMD1-WURk
+https://www.amazonbusiness.eu/e/317391/AmazonBusiness/k31q5l/=
+3505972598?h=3DTnJ_B-pfezvMrKJd9-H6rD2sPN1iPNvQ4mnMD1-WURk
+https://www.am=
+azonbusiness.eu/e/317391/company-amazon-business-/k31q5p/3505972598?h=3DTnJ=
+_B-pfezvMrKJd9-H6rD2sPN1iPNvQ4mnMD1-WURk
+Kontakt: https://www.amazonbusin=
+ess.eu/e/317391/de-kontakt/k31q5s/3505972598?h=3DTnJ_B-pfezvMrKJd9-H6rD2sPN=
+1iPNvQ4mnMD1-WURk
+Konto verwalten: https://www.amazonbusiness.eu/e/317391=
+/ab-manage-account-/k31q5w/3505972598?h=3DTnJ_B-pfezvMrKJd9-H6rD2sPN1iPNvQ4=
+mnMD1-WURk
+Wir hoffen, dass diese Nachricht f=C3=BCr dich von Nutzen war.=
+ Falls du jedoch in Zukunft keine E-Mails dieser Art von Amazon Business er=
+halten m=C3=B6chtest, teile uns bitte deine E-Mail-Pr=C3=A4ferenzen mit htt=
+ps://www.amazonbusiness.eu/Email_Preference_Center?ehash=3Dfbd272c61766aff2=
+d79e9d0097f588e21281da2ffa67fe940c7d0605ecee6010&email_id=3D3505972598&epc_=
+hash=3DqbPOz-m2B2MCu32K6Ka0BAYcFATde7JR93rUciPbCoo
+Bitte beachte unseren =
+Datenschutzhinweis: https://www.amazonbusiness.eu/e/317391/ivacy-ie-UTF8-no=
+deId-201909010/k31q5z/3505972598?h=3DTnJ_B-pfezvMrKJd9-H6rD2sPN1iPNvQ4mnMD1=
+-WURk
+=C2=A9 2023 Amazon.de ist ein Handelsname f=C3=BCr Amazon Europe Co=
+re S.=C3=A0 r.l, Amazon EU S.=C3=A0 r.l, Amazon Business EU S.=C3=A0 r.l un=
+d/oder deren Tochtergesellschaften. 38 avenue John F. Kennedy, L-1855 Luxem=
+burg, eingetragen in Luxemburg.=20
+
+
+
+--_=_swift_v4_1673264269_7eb5abf8966ab56078bd7bb82a648f92_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+    <!doctype html>
+    <html lang=3D"en" xmlns=3D"http://www.w3.or=
+g/1999/xhtml" xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:sche=
+mas-microsoft-com:office:office">
+      <head>
+        <title>
+      =
+    F=C3=BCge Personen hinzu, um beim Gesch=C3=A4ftseinkauf zusammenzuarbei=
+ten
+        </title>
+        <!--[if !mso]><!-- -->
+        <meta htt=
+p-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+        <!--<![endif]-=
+->
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charse=
+t=3DUTF-8">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-wid=
+th, initial-scale=3D1">
+        <style type=3D"text/css">
+          #ou=
+tlook a { padding:0; }
+          .ReadMsgBody { width:100%; }
+         =
+ .ExternalClass { width:100%; }
+          .ExternalClass * { line-height:=
+100%; }
+          body { margin:0;padding:0;-webkit-text-size-adjust:100%=
+;-ms-text-size-adjust:100%; }
+          table, td { border-collapse:colla=
+pse;mso-table-lspace:0pt;mso-table-rspace:0pt; }
+          img { border:0=
+;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interp=
+olation-mode:bicubic; }
+          p { display:block;margin:13px 0; }
+  =
+      </style>
+        <!--[if !mso]><!-->
+        <style type=3D"text/=
+css">
+          @media only screen and (max-width:480px) {
+            =
+@-ms-viewport { width:320px; }
+            @viewport { width:320px; }
+ =
+         }
+        </style>
+        <!--<![endif]-->
+        <!--[if =
+mso]>
+        <xml>
+        <o:OfficeDocumentSettings>
+          <o:A=
+llowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:O=
+fficeDocumentSettings>
+        </xml>
+        <![endif]-->
+        <!=
+--[if lte mso 11]>
+        <style type=3D"text/css">
+          .outlook=
+-group-fix { width:100% !important; }
+        </style>
+        <![endif=
+]-->
+       =20
+       =20
+    <style type=3D"text/css">
+      @media o=
+nly screen and (min-width:640px) {
+        .mj-column-per-100 { width:100=
+% !important; max-width: 100%; }
+.mj-column-per-50 { width:50% !important=
+; max-width: 50%; }
+.mj-column-per-25 { width:25% !important; max-width: =
+25%; }
+.mj-column-per-75 { width:75% !important; max-width: 75%; }
+.mj-=
+column-per-15 { width:15% !important; max-width: 15%; }
+.mj-column-per-85=
+ { width:85% !important; max-width: 85%; }
+.mj-column-per-49 { width:49% =
+!important; max-width: 49%; }
+.mj-column-per-48 { width:48% !important; m=
+ax-width: 48%; }
+.mj-column-per-4 { width:4% !important; max-width: 4%; }=
+
+.mj-column-per-2 { width:2% !important; max-width: 2%; }
+.mj-column-pe=
+r-32 { width:32% !important; max-width: 32%; }
+.mj-column-per-66 { width:=
+66% !important; max-width: 66%; }
+.mj-column-per-34 { width:34% !importan=
+t; max-width: 34%; }
+.mj-column-per-33 { width:33.333333333333336% !impor=
+tant; max-width: 33.333333333333336%; }
+      }
+    </style>
+    <sty=
+le type=3D"text/css">
+[owa] .mj-column-per-100 { width:100% !important; m=
+ax-width: 100%; }
+[owa] .mj-column-per-50 { width:50% !important; max-wid=
+th: 50%; }
+[owa] .mj-column-per-25 { width:25% !important; max-width: 25%=
+; }
+[owa] .mj-column-per-75 { width:75% !important; max-width: 75%; }
+[=
+owa] .mj-column-per-15 { width:15% !important; max-width: 15%; }
+[owa] .m=
+j-column-per-85 { width:85% !important; max-width: 85%; }
+[owa] .mj-colum=
+n-per-49 { width:49% !important; max-width: 49%; }
+[owa] .mj-column-per-4=
+8 { width:48% !important; max-width: 48%; }
+[owa] .mj-column-per-4 { widt=
+h:4% !important; max-width: 4%; }
+[owa] .mj-column-per-2 { width:2% !impo=
+rtant; max-width: 2%; }
+[owa] .mj-column-per-32 { width:32% !important; m=
+ax-width: 32%; }
+[owa] .mj-column-per-66 { width:66% !important; max-widt=
+h: 66%; }
+[owa] .mj-column-per-34 { width:34% !important; max-width: 34%;=
+ }
+[owa] .mj-column-per-33 { width:33.333333333333336% !important; max-wi=
+dth: 33.333333333333336%; }
+</style>
+ =20
+        <style type=3D"text/c=
+ss">
+       =20
+       =20
+
+    @media only screen and (max-width:640px=
+) {
+      table.full-width-mobile { width: 100% !important; }
+      td.=
+full-width-mobile { width: auto !important; }
+    }
+ =20
+        </styl=
+e>
+        <style type=3D"text/css">p {
+    margin: 0 !important;
+   =
+ }
+
+    ul {
+      padding: 0;
+      margin: 0 0 0 40px;
+    }
+=
+
+    li {
+      margin: 10px 0;
+    }
+
+    .preheader a {
+    c=
+olor: #fff !important;
+    }
+
+    .intro-copy p a {
+    color: #007=
+CB6 !important;
+    text-decoration: none !important;
+    }
+
+    .c=
+opy-helper p a {
+    color: #007CB6 !important;
+    text-decoration: no=
+ne !important;
+    }
+
+    .invite-inset p a {
+    color: #007CB6 !i=
+mportant;
+    text-decoration: none !important;
+    }
+
+   .invite p=
+ a {
+    color: #007CB6 !important;
+    text-decoration: none !importan=
+t;
+    }
+
+    .question-copy p a {
+      color: #ffffff !important;=
+
+      text-decoration: underline !important;
+    }
+
+    .product-t=
+ri {
+    min-height: 280px !important;
+    background: #fff;
+    }
+=
+
+    .product-tri table {
+    text-align: center !important;
+    }
+=
+
+    .product-tri img {
+    margin: auto !important;
+    width: 140px=
+ !important;
+    }
+
+    .product-tri p {
+    line-height: 18px;
+ =
+   }
+
+    .product-copy {
+    min-height: 205px !important;
+    bac=
+kground: #fff;
+    }
+
+    .product-copy img {
+    margin: 0 auto !i=
+mportant;
+    width: 80px !important;
+    padding-bottom: 10px;
+    }=
+
+
+    .product-copy p {
+    line-height: 16px;
+    }
+
+    .foot=
+er a {
+    color: #fff !important;
+    text-decoration: underline;
+  =
+  }
+
+    .clear {
+    clear: both;
+    }
+
+    .text-font {
+  =
+  font-family: Arial, sans-serif;
+    }
+
+    .text-size {
+    font-=
+family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;=
+
+    }
+
+    .stretch {}
+
+    .show-mob {
+    display: none !imp=
+ortant;
+    }
+
+    .hide-mob {
+    display: block !important;
+   =
+ }
+
+    .quality-container {
+    text-align: center !important;
+   =
+ }
+
+    .table-stackers {
+    width: 100% !important;
+    max-width=
+: 100% !important;
+    }
+
+    .block-img {
+    float: left !importa=
+nt;
+    }
+
+    @media only screen and (max-width: 639px) {
+    .res=
+p-img img {
+    height: auto !important;
+    width: 100% !important;
+=
+    max-width: 100% !important;
+    }
+
+    .question-bg {
+    backg=
+round-image: url('http://go.pardot.com/l/29682/2019-02-28/6j4k4h/29682/8021=
+6/footer_mob.jpg') !important;
+    }
+
+    .question-copy {
+    padd=
+ing: 20px 30px !important;
+    }
+
+    .social {
+    max-width: 90px=
+ !important;
+    }
+
+    .block-img {
+    float: none !important;
+=
+    }
+
+    .block-img img {
+    height: auto !important;
+    width:=
+ 100% !important;
+    max-width: 110px !important;
+    margin: auto;
+=
+    }
+
+    .rail-mob-img {
+    height: 0 !important;
+    display: n=
+one !important;
+    width: 0 !important;
+    height: 0 !important;
+  =
+  padding: 0 !important;
+    }
+
+    .rail-mob-img img {
+    height:=
+ 0 !important;
+    display: none !important;
+    width: 0 !important;=
+
+    height: 0 !important;
+    }
+
+    .rail-round-img img {
+    h=
+eight: auto !important;
+    width: 100% !important;
+    max-width: 180p=
+x !important;
+    margin: auto;
+    }
+
+    .rail-rect-img img {
+ =
+   height: auto !important;
+    width: 100% !important;
+    max-width: =
+300px !important;
+    margin: auto;
+    }
+
+    .product-tri img {=
+
+    width: 160px !important;
+    }
+
+    .product-tri p {
+    fon=
+t-size: 16px !important;
+    line-height: 28px !important;
+    }
+
+ =
+   .center-mob p {
+    text-align: center !important;
+    }
+
+    .q=
+uote-wrap > table > tbody > tr > td {
+    padding: 40px 30px 10px !import=
+ant;
+    }
+
+    .webinar-wrap > table > tbody > tr > td {
+    /* pa=
+dding: 0 15px !important; */
+    }
+
+    .invite-inset > table > tbody=
+ > tr > td {
+    padding: 0px !important;
+    }
+
+    .show-mob {
+=
+    display: block !important;
+    max-height: none !important;
+    ove=
+rflow: auto !important;
+    }
+
+    .hide-mob {
+    display: none !i=
+mportant;
+    }
+
+    .center-mob {
+    text-align: center !importan=
+t;
+    }
+
+    .stretch {
+    width: 600px !important;
+    text-al=
+ign: center !important;
+    }
+
+    .txt {
+    font-size: 20px;
+  =
+  line-height: 32px;
+    }
+
+    #templateColumns {
+    width: 100% =
+!important;
+    }
+
+    .templateColumnContainer {
+    display: bloc=
+k !important;
+    width: 94.5% !important;
+    }
+
+    .location-hea=
+der {
+    font-size: 47px !important;
+    }
+
+    .block-img img {=
+
+    padding-bottom: 10px !important;
+    }
+
+    .copy-pad {
+    =
+padding-left: 15px !important;
+    padding-right: 15px !important;
+    =
+}
+
+    .outer-title {
+    padding: 0 !important;
+    }
+
+    }=
+
+
+    @media only screen and (min-device-width: 414px) and (max-device-=
+width: 736px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: por=
+trait) {
+    .stretch {
+    width: 600px !important;
+    text-align: =
+center !important;
+    }
+    }
+
+    @media screen yahoo {
+      *=
+ {
+        overflow: visible!important
+      }
+      .y-overflow-hidd=
+en {
+        overflow: hidden!important
+      }
+    }</style>
+     =
+  =20
+      </head>
+      <body style=3D"background-color:#F4F4F5;">
+<d=
+iv style=3D"display:none;font-size:1px;color:#ffffff;line-height:1px;max-he=
+ight:0px;max-width:0px;opacity:0;overflow:hidden;">Preview</div>
+
+<div =
+style=3D"background-color:#F4F4F5;"><!--[if mso | IE]>
+      <table
+   =
+      align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"" style=3D"width:640px;" width=3D"640"
+      >
+        <tr>
+   =
+       <td style=3D"line-height:0px;font-size:0px;mso-line-height-rule:exac=
+tly;">
+      <![endif]-->
+<div style=3D"background:#ffffff;background-c=
+olor:#ffffff;Margin:0px auto;max-width:640px;">
+<table role=3D"presentati=
+on" style=3D"background:#ffffff;background-color:#ffffff;width:100%;" cells=
+pacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+=09<tbody>=
+
+=09=09<tr>
+=09=09=09<td style=3D"direction:ltr;font-size:0px;padding:0=
+;text-align:center;vertical-align:top;"><!--[if mso | IE]>
+              =
+    <table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0">
+                <![endif]--><!-- Preheader --><!-- Preheader -->=
+
+=09=09=09<div pardot-removable=3D"" pardot-repeatable=3D""><!--[if mso |=
+ IE]>
+            <tr>
+              <td
+                 class=3D"" =
+width=3D"640px"
+              >
+         =20
+      <table
+         al=
+ign=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"" =
+style=3D"width:640px;" width=3D"640"
+      >
+        <tr>
+          <=
+td style=3D"line-height:0px;font-size:0px;mso-line-height-rule:exactly;">=
+
+      <![endif]-->
+=09=09=09<div style=3D"background:#001F3C;backgroun=
+d-color:#001F3C;Margin:0px auto;max-width:640px;">
+=09=09=09<table role=
+=3D"presentation" style=3D"background:#001F3C;background-color:#001F3C;widt=
+h:100%;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">=
+
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td style=
+=3D"direction:ltr;font-size:0px;padding:15px 30px;text-align:center;vertica=
+l-align:top;"><!--[if mso | IE]>
+                  <table role=3D"present=
+ation" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                =
+
+        <tr>
+     =20
+            <td
+               class=3D"" styl=
+e=3D"width:580px;"
+            >
+          <![endif]-->
+=09=09=09=09=
+=09=09<div class=3D"mj-column-per-100 outlook-group-fix" style=3D"font-size=
+:0;line-height:0;text-align:left;display:inline-block;width:100%;direction:=
+ltr;"><!--[if mso | IE]>
+        <table  role=3D"presentation" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0">
+          <tr>
+       =20
+     =
+         <td
+                 style=3D"vertical-align:top;width:290px;"=
+
+              >
+              <![endif]-->
+=09=09=09=09=09=09<div cl=
+ass=3D"mj-column-per-50 outlook-group-fix" style=3D"font-size:13px;text-ali=
+gn:left;direction:ltr;display:inline-block;vertical-align:top;width:50%;">=
+
+=09=09=09=09=09=09<table role=3D"presentation" width=3D"100%" cellspacin=
+g=3D"0" cellpadding=3D"0" border=3D"0">
+=09=09=09=09=09=09=09<tbody>
+=
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td style=3D"vert=
+ical-align:top;padding:0;">
+=09=09=09=09=09=09=09=09=09<table role=3D"pre=
+sentation" style=3D"" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" bo=
+rder=3D"0">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=
+=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-si=
+ze:0px;padding:0;word-break:break-word;" align=3D"left">
+=09=09=09=09=09=
+=09=09=09=09=09=09=09<table role=3D"presentation" style=3D"border-collapse:=
+collapse;border-spacing:0px;" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<td style=3D"width:150px;"><img alt=3D"Amazon Business" src=3D"http://go=
+.pardot.com/l/29682/2019-02-26/6hxsfh/29682/80008/amzn_biz.png" style=3D"bo=
+rder:0;display:block;outline:none;text-decoration:none;height:auto;width:10=
+0%;" width=3D"150" height=3D"auto"></td>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=
+=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=
+=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=
+=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</div>
+=09=
+=09=09=09=09=09<!--[if mso | IE]>
+              </td>
+             =20
+=
+              <td
+                 style=3D"vertical-align:top;width:290p=
+x;"
+              >
+              <![endif]-->
+
+=09=09=09=09=09=09<=
+div class=3D"mj-column-per-50 outlook-group-fix" style=3D"font-size:13px;te=
+xt-align:left;direction:ltr;display:inline-block;vertical-align:top;width:5=
+0%;">
+=09=09=09=09=09=09<table role=3D"presentation" width=3D"100%" cells=
+pacing=3D"0" cellpadding=3D"0" border=3D"0">
+=09=09=09=09=09=09=09<tbody>=
+
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td style=3D"v=
+ertical-align:top;padding:0;">
+=09=09=09=09=09=09=09=09=09<table role=3D"=
+presentation" style=3D"" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0"=
+ border=3D"0">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font=
+-size:0px;padding:0;word-break:break-word;" align=3D"right">
+=09=09=09=09=
+=09=09=09=09=09=09=09=09<div style=3D"font-family:Arial, sans-serif;font-si=
+ze:14px;font-weight:400;line-height:26px;text-align:right;color:white;">
+=
+=09=09=09=09=09=09=09=09=09=09=09=09<div pardot-region=3D""><a href=3D"http=
+s://www.amazonbusiness.eu/webmail/317391/3505972598/fbd272c61766aff2d79e9d0=
+097f588e21281da2ffa67fe940c7d0605ecee6010" style=3D"color: #fff;" target=3D=
+"_blank">Online-Ansicht</a></div>
+=09=09=09=09=09=09=09=09=09=09=09=09</d=
+iv>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=
+=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=
+=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=
+=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>=
+
+=09=09=09=09=09=09</div>
+=09=09=09=09=09=09<!--[if mso | IE]>
+      =
+        </td>
+             =20
+          </tr>
+          </table>
+   =
+     <![endif]--></div>
+=09=09=09=09=09=09<!--[if mso | IE]>
+          =
+  </td>
+         =20
+        </tr>
+     =20
+                  </table>=
+
+                <![endif]--></td>
+=09=09=09=09=09</tr>
+=09=09=09=09<=
+/tbody>
+=09=09=09</table>
+=09=09=09</div>
+=09=09=09<!--[if mso | IE]>=
+
+          </td>
+        </tr>
+      </table>
+     =20
+            =
+  </td>
+            </tr>
+          <![endif]--></div>
+=09=09=09<!-- =
+/Preheader --><!-- /Preheader --><!-- Spacers --><!-- Spacer --><!-- /Space=
+r --><!-- Spacer --><!-- /Spacer --><!-- /Spacers --><!-- Hero --><!-- Hero=
+ -->
+
+=09=09=09<div pardot-removable=3D"" pardot-repeatable=3D""><!--[i=
+f mso | IE]>
+            <tr>
+              <td
+                 clas=
+s=3D"" width=3D"640px"
+              >
+         =20
+      <table
+    =
+     align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"" style=3D"width:640px;" width=3D"640"
+      >
+        <tr>
+    =
+      <td style=3D"line-height:0px;font-size:0px;mso-line-height-rule:exact=
+ly;">
+      <![endif]-->
+=09=09=09<div style=3D"Margin:0px auto;max-wid=
+th:640px;">
+=09=09=09<table role=3D"presentation" style=3D"width:100%;" c=
+ellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+=09=09=
+=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td style=3D"direct=
+ion:ltr;font-size:0px;padding:0;text-align:center;vertical-align:top;"><!--=
+[if mso | IE]>
+                  <table role=3D"presentation" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0">
+               =20
+        <tr>
+=
+     =20
+            <td
+               class=3D"" style=3D"vertical-alig=
+n:top;width:640px;"
+            >
+          <![endif]-->
+=09=09=09=09=
+=09=09<div class=3D"mj-column-per-100 outlook-group-fix" style=3D"font-size=
+:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;">
+=09=09=09=09=09=09<table role=3D"presentation" width=3D"10=
+0%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+=09=09=09=09=09=09=
+=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td =
+style=3D"vertical-align:top;padding:0;">
+=09=09=09=09=09=09=09=09=09<tabl=
+e role=3D"presentation" style=3D"" width=3D"100%" cellspacing=3D"0" cellpad=
+ding=3D"0" border=3D"0">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td c=
+lass=3D"resp-img" style=3D"font-size:0px;padding:0 0 15px;word-break:break-=
+word;" align=3D"left">
+=09=09=09=09=09=09=09=09=09=09=09=09<table role=3D=
+"presentation" style=3D"border-collapse:collapse;border-spacing:0px;" cells=
+pacing=3D"0" cellpadding=3D"0" border=3D"0">
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"width:640px;"><a hre=
+f=3D"https://www.amazonbusiness.eu/e/317391/b-life-a-e-mua-acqseries-de-t2/=
+k3f2bt/3505972598?h=3DTnJ_B-pfezvMrKJd9-H6rD2sPN1iPNvQ4mnMD1-WURk"><img alt=
+=3D"Hero Image" pardot-height=3D"110" pardot-region=3D"" pardot-width=3D"64=
+0" src=3D"https://business.amazon.com/assets/global/images/hero/1566-short-=
+hero-cobranding-lifestyle-text-left-2880x480-3.png" style=3D"border: 0px no=
+ne; display: block; outline: currentcolor none medium; text-decoration: non=
+e; height: 110px; width: 640px; max-width: 640px; max-height: 110px;" class=
+=3D"" width=3D"640" height=3D"110"></a></td>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=
+=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=
+=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</div>
+=
+=09=09=09=09=09=09<!--[if mso | IE]>
+            </td>
+         =20
+   =
+     </tr>
+     =20
+                  </table>
+                <![endif=
+]--></td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>=
+
+=09=09=09</div>
+=09=09=09<!--[if mso | IE]>
+          </td>
+      =
+  </tr>
+      </table>
+     =20
+              </td>
+            </tr>=
+
+          <![endif]--><!-- /Hero --></div>
+=09=09=09<!-- /Hero --><!--=
+ Intro -->
+
+=09=09=09<div pardot-removable=3D"" pardot-repeatable=3D"" =
+class=3D""><!--[if mso | IE]>
+            <tr>
+              <td
+    =
+             class=3D"" width=3D"640px"
+              >
+         =20
+  =
+    <table
+         align=3D"center" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" class=3D"" style=3D"width:640px;" width=3D"640"
+      >
+  =
+      <tr>
+          <td style=3D"line-height:0px;font-size:0px;mso-line-=
+height-rule:exactly;">
+      <![endif]-->
+=09=09=09<div style=3D"Margin=
+:0px auto;max-width:640px;">
+=09=09=09<table role=3D"presentation" style=
+=3D"width:100%;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"=
+center">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<t=
+d style=3D"direction:ltr;font-size:0px;padding:0;text-align:center;vertical=
+-align:top;"><!--[if mso | IE]>
+                  <table role=3D"presenta=
+tion" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                =
+
+            <tr>
+              <td
+                 class=3D"" width=
+=3D"640px"
+              >
+         =20
+      <table
+         align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"" sty=
+le=3D"width:640px;" width=3D"640"
+      >
+        <tr>
+          <td =
+style=3D"line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+  =
+    <![endif]-->
+=09=09=09=09=09=09<div style=3D"Margin:0px auto;max-widt=
+h:640px;">
+=09=09=09=09=09=09<table role=3D"presentation" style=3D"width:=
+100%;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">=
+
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=
+=09=09=09=09=09=09<td style=3D"direction:ltr;font-size:0px;padding:0;text-a=
+lign:center;vertical-align:top;"><!--[if mso | IE]>
+                  <ta=
+ble role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=
+
+               =20
+        <tr>
+     =20
+            <td
+           =
+    class=3D"" style=3D"vertical-align:top;width:640px;"
+            >
+=
+          <![endif]-->
+=09=09=09=09=09=09=09=09=09<div class=3D"mj-column=
+-per-100 outlook-group-fix" style=3D"font-size:13px;text-align:left;directi=
+on:ltr;display:inline-block;vertical-align:top;width:100%;">
+=09=09=09=09=
+=09=09=09=09=09<table role=3D"presentation" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0">
+=09=09=09=09=09=09=09=09=09=09<tbody>=
+
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09<td style=3D"vertical-align:top;padding:15px 30px;">
+=09=09=09=09=
+=09=09=09=09=09=09=09=09<table role=3D"presentation" style=3D"" width=3D"10=
+0%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<t=
+r>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-size:0p=
+x;padding:10px 0 0;word-break:break-word;" align=3D"left">
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<div style=3D"font-family:Arial, sans-seri=
+f;font-size:26px;font-weight:700;line-height:31px;text-align:left;color:#22=
+2D3A;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div pardot-region=
+=3D"">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"text-alig=
+n: center;">F=C3=BCge Personen hinzu und lege Einkaufsrichtlinien fest</p>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=
+=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</div>
+=09=09=
+=09=09=09=09=09=09=09<!--[if mso | IE]>
+            </td>
+         =20
+=
+        </tr>
+     =20
+                  </table>
+                <![en=
+dif]--></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody=
+>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</div>
+=09=09=09=09=09=
+=09<!--[if mso | IE]>
+          </td>
+        </tr>
+      </table>
+=
+     =20
+              </td>
+            </tr>
+         =20
+           =
+       </table>
+                <![endif]--></td>
+=09=09=09=09=09</tr>=
+
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</div>
+=09=09=09<!=
+--[if mso | IE]>
+          </td>
+        </tr>
+      </table>
+     =
+=20
+              </td>
+            </tr>
+          <![endif]--></div>=
+
+
+=09=09=09<div pardot-removable=3D"" pardot-repeatable=3D"" class=3D""=
+><!--[if mso | IE]>
+            <tr>
+              <td
+              =
+   class=3D"intro-copy-outlook" width=3D"640px"
+              >
+       =
+  =20
+      <table
+         align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" class=3D"intro-copy-outlook" style=3D"width:640px;" wi=
+dth=3D"640"
+      >
+        <tr>
+          <td style=3D"line-height:0=
+px;font-size:0px;mso-line-height-rule:exactly;">
+      <![endif]-->
+=09=
+=09=09<div class=3D"intro-copy" style=3D"Margin:0px auto;max-width:640px;">=
+
+=09=09=09<table role=3D"presentation" style=3D"width:100%;" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+=09=09=09=09<tbod=
+y>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td style=3D"direction:ltr;fon=
+t-size:0px;padding:0;text-align:center;vertical-align:top;"><!--[if mso | I=
+E]>
+                  <table role=3D"presentation" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0">
+               =20
+            <tr>
+       =
+       <td
+                 class=3D"" width=3D"640px"
+              >=
+
+         =20
+      <table
+         align=3D"center" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" class=3D"" style=3D"width:640px;" width=3D"6=
+40"
+      >
+        <tr>
+          <td style=3D"line-height:0px;font-=
+size:0px;mso-line-height-rule:exactly;">
+      <![endif]-->
+=09=09=09=
+=09=09=09<div style=3D"Margin:0px auto;max-width:640px;">
+=09=09=09=09=09=
+=09<table role=3D"presentation" style=3D"width:100%;" cellspacing=3D"0" cel=
+lpadding=3D"0" border=3D"0" align=3D"center">
+=09=09=09=09=09=09=09<tbody=
+>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td style=3D"=
+direction:ltr;font-size:0px;padding:0;text-align:center;vertical-align:top;=
+"><!--[if mso | IE]>
+                  <table role=3D"presentation" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+               =20
+        <=
+tr>
+     =20
+            <td
+               class=3D"" style=3D"vertica=
+l-align:top;width:640px;"
+            >
+          <![endif]-->
+=09=09=
+=09=09=09=09=09=09=09<div class=3D"mj-column-per-100 outlook-group-fix" sty=
+le=3D"font-size:13px;text-align:left;direction:ltr;display:inline-block;ver=
+tical-align:top;width:100%;">
+=09=09=09=09=09=09=09=09=09<table role=3D"p=
+resentation" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0=
+">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=
+=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"vertical-align:t=
+op;padding:15px 30px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<table role=
+=3D"presentation" style=3D"" width=3D"100%" cellspacing=3D"0" cellpadding=
+=3D"0" border=3D"0">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<td style=3D"font-size:0px;padding:10px 0 0;word-break:br=
+eak-word;" align=3D"left">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+div style=3D"font-family:'Amazon Ember', Arial, sans-serif;font-size:16px;l=
+ine-height:26px;text-align:left;color:#222D3A;">
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<div pardot-region=3D"" class=3D""><table>
+=09<tbody=
+>
+=09=09<tr>
+=09=09=09<td><span style=3D"font-family:Arial,Helvetica,sa=
+ns-serif;">Spare Zeit, indem du den Einkauf mit Ausgabenlimits und Richtlin=
+ien an dein Team delegierst.</span></td>
+=09=09</tr>
+=09=09<tr>
+=09=
+=09=09<td>&nbsp;</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td><span style=
+=3D"font-family:Arial,Helvetica,sans-serif;"><strong>So kannst du Benutzer:=
+innen zu deinem Konto hinzuf=C3=BCgen: </strong></span></td>
+=09=09</tr>=
+
+=09=09<tr>
+=09=09=09<td><span style=3D"font-family:Arial,Helvetica,san=
+s-serif;">1. Logge dich mit deinem Gesch=C3=A4ftskonto ein</span></td>
+=
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td><span style=3D"font-family:Arial,He=
+lvetica,sans-serif;">2. Gib die E-Mail-Adressen deiner Kolleg:innen ein</sp=
+an></td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td><span style=3D"font-fami=
+ly:Arial,Helvetica,sans-serif;">3. Weise eine Rolle zu (=E2=80=9EAnforderer=
+=E2=80=9C oder =E2=80=9EAdministrator=E2=80=9C)</span></td>
+=09=09</tr>=
+
+=09=09<tr>
+=09=09=09<td><span style=3D"font-family:Arial,Helvetica,san=
+s-serif;">4. Klicke auf =E2=80=9EHinzuf=C3=BCgen=E2=80=9C</span></td>
+=09=
+=09</tr>
+=09=09<tr>
+=09=09=09<td>&nbsp;</td>
+=09=09</tr>
+=09=09<tr>=
+
+=09=09=09<td><span style=3D"font-family:Arial,Helvetica,sans-serif;">Der=
+ Vorgang dauert nur wenige Minuten und eingeladene Kolleg:innen werden dein=
+em Konto hinzugef=C3=BCgt, sobald sie deine Einladung annehmen.</span></td>=
+
+=09=09</tr>
+=09</tbody>
+</table>
+</div>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</ta=
+ble>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=
+=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=
+=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=
+=09=09=09=09<!--[if mso | IE]>
+            </td>
+         =20
+        <=
+/tr>
+     =20
+                  </table>
+                <![endif]--></=
+td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=
+=09=09=09=09=09</table>
+=09=09=09=09=09=09</div>
+=09=09=09=09=09=09<!--=
+[if mso | IE]>
+          </td>
+        </tr>
+      </table>
+      =
+
+              </td>
+            </tr>
+         =20
+                 =
+ </table>
+                <![endif]--></td>
+=09=09=09=09=09</tr>
+=09=
+=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</div>
+=09=09=09<!--[if =
+mso | IE]>
+          </td>
+        </tr>
+      </table>
+     =20
+  =
+            </td>
+            </tr>
+          <![endif]--></div>
+
+=
+=09=09=09<div pardot-removable=3D"" pardot-repeatable=3D""><!--[if mso | IE=
+]>
+            <tr>
+              <td
+                 class=3D"" wid=
+th=3D"640px"
+              >
+         =20
+      <table
+         align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"" sty=
+le=3D"width:640px;" width=3D"640"
+      >
+        <tr>
+          <td =
+style=3D"line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+  =
+    <![endif]-->
+=09=09=09<div style=3D"Margin:0px auto;max-width:640px;"=
+>
+=09=09=09<table role=3D"presentation" style=3D"width:100%;" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+=09=09=09=09<tbod=
+y>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td style=3D"direction:ltr;fon=
+t-size:0px;padding:0;text-align:center;vertical-align:top;"><!--[if mso | I=
+E]>
+                  <table role=3D"presentation" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0">
+               =20
+            <tr>
+       =
+       <td
+                 class=3D"" width=3D"640px"
+              >=
+
+         =20
+      <table
+         align=3D"center" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" class=3D"" style=3D"width:640px;" width=3D"6=
+40"
+      >
+        <tr>
+          <td style=3D"line-height:0px;font-=
+size:0px;mso-line-height-rule:exactly;">
+      <![endif]-->
+=09=09=09=
+=09=09=09<div style=3D"Margin:0px auto;max-width:640px;">
+=09=09=09=09=09=
+=09<table role=3D"presentation" style=3D"width:100%;" cellspacing=3D"0" cel=
+lpadding=3D"0" border=3D"0" align=3D"center">
+=09=09=09=09=09=09=09<tbody=
+>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td style=3D"=
+direction:ltr;font-size:0px;padding:0;text-align:center;vertical-align:top;=
+"><!--[if mso | IE]>
+                  <table role=3D"presentation" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+               =20
+        <=
+tr>
+     =20
+            <td
+               class=3D"" style=3D"vertica=
+l-align:top;width:640px;"
+            >
+          <![endif]-->
+=09=09=
+=09=09=09=09=09=09=09<div class=3D"mj-column-per-100 outlook-group-fix" sty=
+le=3D"font-size:13px;text-align:left;direction:ltr;display:inline-block;ver=
+tical-align:top;width:100%;">
+=09=09=09=09=09=09=09=09=09<table role=3D"p=
+resentation" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0=
+">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=
+=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"vertical-align:t=
+op;padding:15px 30px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<table role=
+=3D"presentation" style=3D"" width=3D"100%" cellspacing=3D"0" cellpadding=
+=3D"0" border=3D"0">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<td style=3D"font-size:0px;padding:0;word-break:break-wor=
+d;" vertical-align=3D"middle" align=3D"center">
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<table role=3D"presentation" style=3D"border-collapse:=
+separate;width:180px;line-height:100%;" cellspacing=3D"0" cellpadding=3D"0"=
+ border=3D"0">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td role=3D"presentation" style=3D"b=
+order:none;border-radius:3px;cursor:auto;padding:10px 25px;background:#FF8F=
+00;" valign=3D"middle" bgcolor=3D"#FF8F00" align=3D"center"><a href=3D"http=
+s://www.amazonbusiness.eu/e/317391/b-life-a-e-mua-acqseries-de-t2/k3f2bt/35=
+05972598?h=3DTnJ_B-pfezvMrKJd9-H6rD2sPN1iPNvQ4mnMD1-WURk" pardot-region=3D"=
+" style=3D"background:#FF8F00;color:#222D3A;font-family:'Amazon Ember', Ari=
+al, sans-serif;font-size:15px;font-weight:400;line-height:120%;Margin:0;tex=
+t-decoration:none;text-transform:none;" target=3D"_blank">F=C3=BCge Persone=
+n hinzu</a></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>=
+
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</div>=
+
+=09=09=09=09=09=09=09=09=09<!--[if mso | IE]>
+            </td>
+    =
+     =20
+        </tr>
+     =20
+                  </table>
+            =
+    <![endif]--></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=
+=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</div>
+=09=
+=09=09=09=09=09<!--[if mso | IE]>
+          </td>
+        </tr>
+     =
+ </table>
+     =20
+              </td>
+            </tr>
+          =
+
+                  </table>
+                <![endif]--></td>
+=09=09=
+=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</div>=
+
+=09=09=09<!--[if mso | IE]>
+          </td>
+        </tr>
+      </=
+table>
+     =20
+              </td>
+            </tr>
+          <![en=
+dif]--></div>
+
+=09=09=09<div pardot-removable=3D"" pardot-repeatable=3D=
+""><!--[if mso | IE]>
+            <tr>
+              <td
+            =
+     class=3D"intro-copy-outlook" width=3D"640px"
+              >
+     =
+    =20
+      <table
+         align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"intro-copy-outlook" style=3D"width:640px;=
+" width=3D"640"
+      >
+        <tr>
+          <td style=3D"line-heig=
+ht:0px;font-size:0px;mso-line-height-rule:exactly;">
+      <![endif]-->=
+
+=09=09=09<div class=3D"intro-copy" style=3D"Margin:0px auto;max-width:64=
+0px;">
+=09=09=09<table role=3D"presentation" style=3D"width:100%;" cellsp=
+acing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+=09=09=09=09=
+<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td style=3D"direction:lt=
+r;font-size:0px;padding:0;text-align:center;vertical-align:top;"><!--[if ms=
+o | IE]>
+                  <table role=3D"presentation" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0">
+               =20
+            <tr>
+  =
+            <td
+                 class=3D"" width=3D"640px"
+           =
+   >
+         =20
+      <table
+         align=3D"center" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" class=3D"" style=3D"width:640px;" width=
+=3D"640"
+      >
+        <tr>
+          <td style=3D"line-height:0px;=
+font-size:0px;mso-line-height-rule:exactly;">
+      <![endif]-->
+=09=09=
+=09=09=09=09<div style=3D"Margin:0px auto;max-width:640px;">
+=09=09=09=09=
+=09=09<table role=3D"presentation" style=3D"width:100%;" cellspacing=3D"0" =
+cellpadding=3D"0" border=3D"0" align=3D"center">
+=09=09=09=09=09=09=09<tb=
+ody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td style=
+=3D"direction:ltr;font-size:0px;padding:0;text-align:center;vertical-align:=
+top;"><!--[if mso | IE]>
+                  <table role=3D"presentation" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+               =20
+     =
+   <tr>
+     =20
+            <td
+               class=3D"" style=3D"ver=
+tical-align:top;width:640px;"
+            >
+          <![endif]-->
+=
+=09=09=09=09=09=09=09=09=09<div class=3D"mj-column-per-100 outlook-group-fi=
+x" style=3D"font-size:13px;text-align:left;direction:ltr;display:inline-blo=
+ck;vertical-align:top;width:100%;">
+=09=09=09=09=09=09=09=09=09<table rol=
+e=3D"presentation" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" borde=
+r=3D"0">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=
+=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"vertical-a=
+lign:top;padding:15px 30px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<table =
+role=3D"presentation" style=3D"" width=3D"100%" cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<td style=3D"font-size:0px;padding:10px 0 0;word-break=
+:break-word;" align=3D"left">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<div style=3D"font-family:'Amazon Ember', Arial, sans-serif;font-size:16=
+px;line-height:26px;text-align:left;color:#222D3A;">
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<div pardot-region=3D"" class=3D""><table>
+=09=
+<tbody>
+=09=09<tr>
+=09=09=09<td><span style=3D"font-family:Arial,Helvet=
+ica,sans-serif;">Au=C3=9Ferdem kannst du den Gesch=C3=A4ftseinkauf folgende=
+rma=C3=9Fen optimieren:</span></td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<=
+td>&nbsp;</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td><span style=3D"fon=
+t-family:Arial,Helvetica,sans-serif;"><strong>Erstelle Einkaufsgruppen </st=
+rong></span></td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td><span style=3D"=
+font-family:Arial,Helvetica,sans-serif;">Auf diese Weise kannst du Benutzer=
+:innen einfach verwalten und die Einkaufseinstellungen an die</span></td>=
+
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td><span style=3D"font-family:Arial=
+,Helvetica,sans-serif;">Anforderungen deines Unternehmens anpassen.</span><=
+/td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td>&nbsp;</td>
+=09=09</tr>
+=
+=09=09<tr>
+=09=09=09<td><span style=3D"font-family:Arial,Helvetica,sans-s=
+erif;"><strong>F=C3=BCge einen Genehmigungs-Workflow hinzu </strong></span>=
+</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td><span style=3D"font-family:=
+Arial,Helvetica,sans-serif;">Verbessere die Kontrolle =C3=BCber die Ausgabe=
+n deines Teams, indem du Ausgabenlimits und Genehmigungsrichtlinien hinzuf=
+=C3=BCgst</span></td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td>&nbsp;</td>=
+
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td><span style=3D"font-family:Arial=
+,Helvetica,sans-serif;"><strong>Gemeinsame Zahlungsarten</strong></span></t=
+d>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td><span style=3D"font-family:Ari=
+al,Helvetica,sans-serif;">Du kannst mehrere gemeinsam genutzte Zahlungsmeth=
+oden hinzuf=C3=BCgen, damit dein Team die Zahlungsoption w=C3=A4hrend des B=
+estellvorgangs ausw=C3=A4hlen kann</span></td>
+=09=09</tr>
+=09=09<tr>=
+
+=09=09=09<td>&nbsp;</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td><span=
+ style=3D"font-family:Arial,Helvetica,sans-serif;"><strong>Amazon Beschaffu=
+ngsanalysen </strong></span></td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td=
+><span style=3D"font-family:Arial,Helvetica,sans-serif;">Verwende integrier=
+te Berichte, um Ausgaben mit anpassbaren Bestellungen, Abstimmungen und R=
+=C3=BCckerstattungsberichten zu verfolgen und zu analysieren</span></td>
+=
+=09=09</tr>
+=09</tbody>
+</table>
+</div>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</t=
+d>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=
+=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=
+=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=
+=09=09=09<!--[if mso | IE]>
+            </td>
+         =20
+        </tr=
+>
+     =20
+                  </table>
+                <![endif]--></td>=
+
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=
+=09=09=09=09</table>
+=09=09=09=09=09=09</div>
+=09=09=09=09=09=09<!--[if=
+ mso | IE]>
+          </td>
+        </tr>
+      </table>
+     =20
+ =
+             </td>
+            </tr>
+         =20
+                  </t=
+able>
+                <![endif]--></td>
+=09=09=09=09=09</tr>
+=09=09=
+=09=09</tbody>
+=09=09=09</table>
+=09=09=09</div>
+=09=09=09<!--[if mso=
+ | IE]>
+          </td>
+        </tr>
+      </table>
+     =20
+     =
+         </td>
+            </tr>
+          <![endif]--></div>
+=09=09=
+=09<!-- /Intro --><!-- Blocks --><!-- /Blocks --><!-- Text Blocks --><!-- /=
+Text Blocks --><!-- Quotes --><!-- /Quotes --><!-- Callout Banner --><!-- /=
+Callout Banner --><!-- Webinar --><!-- /Webinar --><!-- Rails --><!-- /Rail=
+s --><!-- Side by side --><!-- /Side by side --><!-- Products --><!-- /Prod=
+ucts --><!-- Intro --><!-- /Intro --><!-- Contact --><!-- /Contact --><!-- =
+Invite --><!-- /Invite --><!--[if mso | IE]>
+                  </table>=
+
+                <![endif]--></td>
+=09=09</tr>
+=09</tbody>
+</table>=
+
+</div>
+<!--[if mso | IE]>
+          </td>
+        </tr>
+      </=
+table>
+     =20
+      <table
+         align=3D"center" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" class=3D"" style=3D"width:640px;" width=3D=
+"640"
+      >
+        <tr>
+          <td style=3D"line-height:0px;fon=
+t-size:0px;mso-line-height-rule:exactly;">
+      <![endif]-->
+
+<div s=
+tyle=3D"Margin:0px auto;max-width:640px;">
+<table role=3D"presentation" s=
+tyle=3D"width:100%;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=
+=3D"center">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td style=3D"direction:lt=
+r;font-size:0px;padding:0;text-align:center;vertical-align:top;"><!--[if ms=
+o | IE]>
+                  <table role=3D"presentation" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0">
+                <![endif]--><!-- Questio=
+ns? --><!-- NOTE: Add class of 'question-bg' to output bg TD for mobile ove=
+rride --><!-- /Questions? --><!-- Footer --><!--[if mso | IE]>
+          =
+  <tr>
+              <td
+                 class=3D"footer-outlook" widt=
+h=3D"640px"
+              >
+         =20
+      <table
+         align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"foote=
+r-outlook" style=3D"width:640px;" width=3D"640"
+      >
+        <tr>
+=
+          <td style=3D"line-height:0px;font-size:0px;mso-line-height-rule:e=
+xactly;">
+      <![endif]-->
+=09=09=09<div class=3D"footer" style=3D"ba=
+ckground:#001F3C;background-color:#001F3C;Margin:0px auto;max-width:640px;"=
+>
+=09=09=09<table role=3D"presentation" style=3D"background:#001F3C;backg=
+round-color:#001F3C;width:100%;" cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" align=3D"center">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=
+=09=09=09=09=09<td style=3D"direction:rtl;font-size:0px;padding:30px 0;text=
+-align:center;vertical-align:top;"><!--[if mso | IE]>
+                  <=
+table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+">
+               =20
+        <tr>
+     =20
+            <td
+         =
+      class=3D"" style=3D"vertical-align:top;width:160px;"
+            >=
+
+          <![endif]-->
+=09=09=09=09=09=09<div class=3D"mj-column-per-2=
+5 outlook-group-fix" style=3D"font-size:13px;text-align:left;direction:ltr;=
+display:inline-block;vertical-align:top;width:100%;">
+=09=09=09=09=09=09<=
+table role=3D"presentation" width=3D"100%" cellspacing=3D"0" cellpadding=3D=
+"0" border=3D"0">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=
+<tr>
+=09=09=09=09=09=09=09=09=09<td style=3D"vertical-align:top;padding:0=
+ 30px 20px;">
+=09=09=09=09=09=09=09=09=09<table role=3D"presentation" sty=
+le=3D"" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+=
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<t=
+r>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"social" style=3D"font=
+-size:0px;padding:0;word-break:break-word;">
+=09=09=09=09=09=09=09=09=09=
+=09=09=09<div class=3D"mj-column-per-100 outlook-group-fix social" style=3D=
+"font-size:0;line-height:0;text-align:left;display:inline-block;width:100%;=
+direction:ltr;"><!--[if mso | IE]>
+        <table  role=3D"presentation" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+          <tr>
+      =
+ =20
+              <td
+                 style=3D"vertical-align:top;width=
+:33px;"
+              >
+              <![endif]-->
+=09=09=09=09=09=09=
+=09=09=09=09=09=09<div class=3D"mj-column-per-33 outlook-group-fix" style=
+=3D"font-size:13px;text-align:left;direction:ltr;display:inline-block;verti=
+cal-align:top;width:33%;">
+=09=09=09=09=09=09=09=09=09=09=09=09<table rol=
+e=3D"presentation" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" borde=
+r=3D"0">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<td style=3D"vertical-align:top;padding:0;">
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<table role=3D"presentation" style=3D"" width=3D"10=
+0%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<td style=3D"font-size:0px;padding:0;word-break:break-word;" align=3D=
+"center">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table ro=
+le=3D"presentation" style=3D"border-collapse:collapse;border-spacing:0px;" =
+cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<td style=3D"width:24px;"><a href=3D"https://=
+www.amazonbusiness.eu/e/317391/AmazonBusiness-/k31q5h/3505972598?h=3DTnJ_B-=
+pfezvMrKJd9-H6rD2sPN1iPNvQ4mnMD1-WURk" pardot-region=3D"" target=3D"_blank"=
+><img alt=3D"Facebook" src=3D"http://go.pardot.com/l/29682/2019-02-28/6j4kk=
+1/29682/80224/fb.png" style=3D"border:0;display:block;outline:none;text-dec=
+oration:none;height:24px;width:100%;" width=3D"24" height=3D"24"> </a></td>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09=09<!--[if mso | IE]>=
+
+              </td>
+             =20
+              <td
+             =
+    style=3D"vertical-align:top;width:33px;"
+              >
+          =
+    <![endif]-->
+
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"mj-=
+column-per-33 outlook-group-fix" style=3D"font-size:13px;text-align:left;di=
+rection:ltr;display:inline-block;vertical-align:top;width:33%;">
+=09=09=
+=09=09=09=09=09=09=09=09=09=09<table role=3D"presentation" width=3D"100%" c=
+ellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"vertical-align:to=
+p;padding:0;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table role=
+=3D"presentation" style=3D"" width=3D"100%" cellspacing=3D"0" cellpadding=
+=3D"0" border=3D"0">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbo=
+dy>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-size:0px;pad=
+ding:0;word-break:break-word;" align=3D"center">
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<table role=3D"presentation" style=3D"border-=
+collapse:collapse;border-spacing:0px;" cellspacing=3D"0" cellpadding=3D"0" =
+border=3D"0">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<t=
+body>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D=
+"width:24px;"><a href=3D"https://www.amazonbusiness.eu/e/317391/AmazonBusin=
+ess/k31q5l/3505972598?h=3DTnJ_B-pfezvMrKJd9-H6rD2sPN1iPNvQ4mnMD1-WURk" pard=
+ot-region=3D"" target=3D"_blank"><img alt=3D"Twitter" src=3D"http://go.pard=
+ot.com/l/29682/2019-02-28/6j4kjy/29682/80220/twitter.png" style=3D"border:0=
+;display:block;outline:none;text-decoration:none;height:24px;width:100%;" w=
+idth=3D"24" height=3D"24"> </a></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+/td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09<!--[if mso | IE]>
+              </td>
+             =20
+   =
+           <td
+                 style=3D"vertical-align:top;width:33px;"=
+
+              >
+              <![endif]-->
+
+=09=09=09=09=09=09=09=
+=09=09=09=09=09<div class=3D"mj-column-per-33 outlook-group-fix" style=3D"f=
+ont-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-a=
+lign:top;width:33%;">
+=09=09=09=09=09=09=09=09=09=09=09=09<table role=3D"=
+presentation" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"=
+0">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<td style=3D"vertical-align:top;padding:0;">
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<table role=3D"presentation" style=3D"" width=3D"100%"=
+ cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<td style=3D"font-size:0px;padding:0;word-break:break-word;" align=3D"ce=
+nter">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table role=
+=3D"presentation" style=3D"border-collapse:collapse;border-spacing:0px;" ce=
+llspacing=3D"0" cellpadding=3D"0" border=3D"0">
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<td style=3D"width:24px;"><a href=3D"https://www=
+.amazonbusiness.eu/e/317391/company-amazon-business-/k31q5p/3505972598?h=3D=
+TnJ_B-pfezvMrKJd9-H6rD2sPN1iPNvQ4mnMD1-WURk" pardot-region=3D"" target=3D"_=
+blank"><img alt=3D"LinkedIn" src=3D"http://go.pardot.com/l/29682/2019-02-28=
+/6j4kk3/29682/80222/linkedin.png" style=3D"border:0;display:block;outline:n=
+one;text-decoration:none;height:24px;width:100%;" width=3D"24" height=3D"24=
+"> </a></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</ta=
+ble>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+/tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09=09<!--[if mso =
+| IE]>
+              </td>
+             =20
+          </tr>
+         =
+ </table>
+        <![endif]--></div>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=
+=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=
+=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</=
+tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</div>
+=09=09=09=
+=09=09=09<!--[if mso | IE]>
+            </td>
+         =20
+            =
+<td
+               class=3D"" style=3D"vertical-align:top;width:480px;"=
+
+            >
+          <![endif]-->
+
+=09=09=09=09=09=09<div class=
+=3D"mj-column-per-75 outlook-group-fix" style=3D"font-size:13px;text-align:=
+left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+=
+=09=09=09=09=09=09<table role=3D"presentation" width=3D"100%" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0">
+=09=09=09=09=09=09=09<tbody>
+=09=
+=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td style=3D"vertica=
+l-align:top;padding:0;">
+=09=09=09=09=09=09=09=09=09<table role=3D"presen=
+tation" style=3D"" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" borde=
+r=3D"0">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=
+=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-size:=
+0px;padding:0 30px 10px;word-break:break-word;" align=3D"left">
+=09=09=09=
+=09=09=09=09=09=09=09=09=09<div style=3D"font-family:Arial, sans-serif;font=
+-size:12px;line-height:14px;text-align:left;color:#ffffff;">
+=09=09=09=09=
+=09=09=09=09=09=09=09=09<div pardot-region=3D"">
+=09=09=09=09=09=09=09=09=
+=09=09=09=09<p><a href=3D"https://www.amazonbusiness.eu/e/317391/de-kontakt=
+/k31q5s/3505972598?h=3DTnJ_B-pfezvMrKJd9-H6rD2sPN1iPNvQ4mnMD1-WURk" style=
+=3D"color: #fff;" target=3D"_blank">Kontakt</a> | <a href=3D"https://www.am=
+azonbusiness.eu/e/317391/ab-manage-account-/k31q5w/3505972598?h=3DTnJ_B-pfe=
+zvMrKJd9-H6rD2sPN1iPNvQ4mnMD1-WURk" style=3D"color: #fff;" target=3D"_blank=
+">Konto verwalten </a></p>
+=09=09=09=09=09=09=09=09=09=09=09=09</div>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font=
+-size:0px;padding:0 30px 10px;word-break:break-word;" align=3D"left">
+=09=
+=09=09=09=09=09=09=09=09=09=09=09<div style=3D"font-family:Arial, sans-seri=
+f;font-size:12px;line-height:14px;text-align:left;color:#ffffff;">
+=09=09=
+=09=09=09=09=09=09=09=09=09=09<div pardot-region=3D"">
+=09=09=09=09=09=09=
+=09=09=09=09=09=09<p><span style=3D"font-family:tahoma,geneva,sans-serif;">=
+<span style=3D"font-size:11px;">Wir hoffen, dass diese Nachricht f=C3=BCr d=
+ich von Nutzen war. Falls du jedoch in Zukunft keine E-Mails dieser Art von=
+ Amazon Business erhalten m=C3=B6chtest, teile uns bitte deine <a href=3D"h=
+ttps://www.amazonbusiness.eu/Email_Preference_Center?ehash=3Dfbd272c61766af=
+f2d79e9d0097f588e21281da2ffa67fe940c7d0605ecee6010&email_id=3D3505972598&ep=
+c_hash=3DqbPOz-m2B2MCu32K6Ka0BAYcFATde7JR93rUciPbCoo">E-Mail-Pr=C3=A4ferenz=
+en mit</a>.<br>
+=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09Bitte beachte unseren <a href=3D"https://www.amazon=
+business.eu/e/317391/ivacy-ie-UTF8-nodeId-201909010/k31q5z/3505972598?h=3DT=
+nJ_B-pfezvMrKJd9-H6rD2sPN1iPNvQ4mnMD1-WURk
+" style=3D"color:#333f2e;text-=
+decoration:underline;">Datenschutzhinweis</a>.</span></span></p>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+</div>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=
+=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09<td style=3D"font-size:0px;padding:0 30px 10px;word-br=
+eak:break-word;" align=3D"left">
+=09=09=09=09=09=09=09=09=09=09=09=09<div=
+ style=3D"font-family:Arial, sans-serif;font-size:12px;line-height:14px;tex=
+t-align:left;color:#ffffff;">
+=09=09=09=09=09=09=09=09=09=09=09=09<div pa=
+rdot-region=3D"">
+=09=09=09=09=09=09=09=09=09=09=09=09<p><span style=3D"f=
+ont-family:tahoma,geneva,sans-serif;"><span style=3D"font-size:11px;">=
+=C2=A9 2023 <a href=3D"https://www.amazonbusiness.eu/e/317391/2022-09-29/k3=
+fhnf/3505972598?h=3DTnJ_B-pfezvMrKJd9-H6rD2sPN1iPNvQ4mnMD1-WURk">Amazon.de<=
+/a> ist ein Handelsname f=C3=BCr Amazon Europe Core S.=C3=A0 r.l, Amazon EU=
+ S.=C3=A0 r.l, Amazon Business EU S.=C3=A0 r.l und/oder deren Tochtergesell=
+schaften. 38 avenue John F. Kennedy, L-1855 Luxemburg, eingetragen in Luxem=
+burg. </span></span></p>
+=09=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=
+=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=
+=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</=
+tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</div>
+=09=09=09=
+=09=09=09<!--[if mso | IE]>
+            </td>
+         =20
+        </tr=
+>
+     =20
+                  </table>
+                <![endif]--></td>=
+
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=
+=09</div>
+=09=09=09<!--[if mso | IE]>
+          </td>
+        </tr>=
+
+      </table>
+     =20
+              </td>
+            </tr>
+    =
+      <![endif]--><!-- /Footer --><!--[if mso | IE]>
+                  </=
+table>
+                <![endif]--></td>
+=09=09</tr>
+=09</tbody>
+</=
+table>
+</div>
+<!--[if mso | IE]>
+          </td>
+        </tr>
+  =
+    </table>
+      <![endif]--></div>
+<img alt=3D"" src=3D"https://www.=
+amazonbusiness.eu/r/317391/1/3505972598/open/1" /></body>
+    </html>
+ =
+=20
+
+--_=_swift_v4_1673264269_7eb5abf8966ab56078bd7bb82a648f92_=_--

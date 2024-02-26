@@ -1,0 +1,163 @@
+Return-Path: <Andy.Didelet@ac-orleans-tours.fr>
+Delivered-To: fares.benhalima@luhbots.de
+Received: from server.cpprotect3.de
+	by server.cpprotect3.de with LMTP
+	id uG0wGG1MWmMefAoAQhmUyQ
+	(envelope-from <Andy.Didelet@ac-orleans-tours.fr>)
+	for <fares.benhalima@luhbots.de>; Thu, 27 Oct 2022 11:16:29 +0200
+Return-path: <Andy.Didelet@ac-orleans-tours.fr>
+Envelope-to: work@luhbots.de
+Delivery-date: Thu, 27 Oct 2022 11:16:29 +0200
+Received: from smtp-slow-4.ac-orleans-tours.fr ([195.83.90.207]:47760 helo=smtp-slow-1.ac-orleans-tours.fr)
+	by server.cpprotect3.de with esmtp (Exim 4.95)
+	(envelope-from <Andy.Didelet@ac-orleans-tours.fr>)
+	id 1onyzy-009HTH-AI
+	for work@luhbots.de;
+	Thu, 27 Oct 2022 11:16:29 +0200
+Received: from imsva-smtp-1.ac-orleans-tours.fr (imsva-smtp-1.in.ac-orleans-tours.fr [192.168.68.54])
+	by smtp-slow-1.ac-orleans-tours.fr (Postfix) with ESMTP id 2EDAF10C9857;
+	Thu, 27 Oct 2022 11:16:22 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by IMSVA (Postfix) with SMTP id 0B92F120303;
+	Thu, 27 Oct 2022 11:16:22 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=ac-orleans-tours.fr;
+	s=dkim1; t=1666862182;
+	bh=cEfwK3RMmHWYPLlwLOWZiuliK4IN2GnstX5+52HPRe8=; h=From:To:Date;
+	b=QG4KE6nPye6zrZ+pftv+B96D+FQ+xTiI3ZHV3RHu5xJaTrom/W+M4bHCyZN7BjaNz
+	 CdNnGH/AmzH3Sge4f/iHRzPeb3ubyQ05M7PamLeQ4KaUy0aNh6Y/lQx9cxINiaoQyO
+	 8aAHT6sxzdYTRnD3gi7F3ZFLsMEcnMG4B7dJ+mUw=
+X-IMSS-HAND-OFF-DIRECTIVE: smtp-slow-4.ac-orleans-tours.fr:25
+Received: from imsva-smtp-1.ac-orleans-tours.fr (localhost [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id 24E30120303;
+	Thu, 27 Oct 2022 11:16:20 +0200 (CEST)
+Received: from haproxy-pdmz.in.ac-orleans-tours.fr (haproxy-pdmz.in.ac-orleans-tours.fr [192.168.68.22])
+	by imsva-smtp-1.ac-orleans-tours.fr (Postfix) with ESMTPS;
+	Thu, 27 Oct 2022 11:16:20 +0200 (CEST)
+Received: from smtp-relai-webmail.in.ac-orleans-tours.fr (unknown [192.168.68.23])
+	by haproxy-pdmz.in.ac-orleans-tours.fr (Postfix) with ESMTP id EBF665F752;
+	Thu, 27 Oct 2022 11:16:19 +0200 (CEST)
+Received: from ac-orleans-tours.fr (mta-1.in.ac-orleans-tours.fr [172.30.144.159])
+	by smtp-relai-webmail.in.ac-orleans-tours.fr (Postfix) with ESMTP id CAC7E80551E;
+	Thu, 27 Oct 2022 11:16:19 +0200 (CEST)
+Received: from [192.168.68.22] (Forwarded-For: 192.168.68.26) by
+ mta-1.in.ac-orleans-tours.fr (mshttpd); Thu, 27 Oct 2022 10:16:19
+ +0100
+From: "Didelet Andy" <Andy.Didelet@ac-orleans-tours.fr>
+To: Didelet@ac-orleans-tours.fr
+Reply-To: carolineerobert29@gmail.com
+Message-ID: <cae6b006477df9fa.635a5a73@ac-orleans-tours.fr>
+Date: Thu, 27 Oct 2022 10:16:19 +0100
+X-Mailer: Oracle Communications Messenger Express 8.0.1.0.0 64bit (built
+ Sep  4 2015)
+MIME-Version: 1.0
+Content-Language: fr
+Subject: BITTE ES IST DRINGEND
+X-Accept-Language: fr
+Priority: normal
+In-Reply-To: <ba7d4caa4e43f5a2.635a4c62@ac-orleans-tours.fr>
+References: <ba7d4caa4e43f5a2.635a4c62@ac-orleans-tours.fr>
+Content-Type: multipart/alternative;
+ boundary="--9630380a1784e69331a63ed31c6b932e"
+X-TM-AS-GCONF: 11111111
+X-TM-AS-SMTP: 1.0 aGFwcm94eS1wZG16LmluLmFjLW9ybGVhbnMtdG91cnMuZnI= 
+	QW5keS5EaWRlbGV0QGFjLW9ybGVhbnMtdG91cnMuZnI=
+X-TM-AS-ERS: 192.168.68.22-127.9.0.1
+X-TM-AS-Product-Ver: IMSVA-9.1.0.2105-9.0.0.1002-27130.005
+X-TMASE-Version: IMSVA-9.1.0.2105-9.0.1002-27130.005
+X-TMASE-Result: 11-11.173200-10.000000
+X-TMASE-MatchedRID: Vr2mVEPLd+gyZHO3zEU2D0U3CAkyT2aGMXxfNWLKRAeNZ8n+69ZUptQu
+	rUpHSbtbP7Ycaaqu7wQ1UgA174frNmKDc6q2SrWJg2x73PdNJioP+6r5ZM/caT/lXsqrjxv9s32
+	R3Vz7cib80klS6vnbwAG0Op2aarjkY+APLHzF/T/26xI2QxLCn+M14oirFh4fx4BjyE/ZrFZYBP
+	xwgvYNWuLzNWBegCW2oVvDMl8ujDbS77Co4bNJXdTHX+rg7MGtyVQ8PYJc7CH/sgSf34TjK2aAe
+	DdzNT8pOGNED88l/MDZs3HUcS/scH4gKq42LRYkwHfFUuoI0ehmBlQpF4mq84x+EE2QU6glzkYn
+	okjTfiZ+3BndfXUhXQ==
+X-TMASE-SNAP-Result: 1.821001.0001-0-1-22:0,33:0,34:0-0
+X-TMASE-XGENCLOUD: dcd0e1eb-877c-4406-bf42-4453cd348b8c-0-0-200-0
+X-Spam-Status: No, score=3.1
+X-Spam-Score: 31
+X-Spam-Bar: +++
+X-Ham-Report: Spam detection software, running on the system "server.cpprotect3.de",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Wie geht es dir mein Schatz, Mein Name ist Frau Caroline Didelet
+    Robert, ich möchte durch Ihre Hilfe für die Bildung und die weniger Privilegierten
+    spenden. Ich schreibe in Bezug auf meine Pläne, im Gedenken an meinen verstorb
+    [...] 
+ Content analysis details:   (3.1 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: ac-orleans-tours.fr]
+  0.5 SUBJ_ALL_CAPS          Subject is all capitals
+  0.2 FREEMAIL_REPLYTO_END_DIGIT Reply-To freemail username ends in
+                             digit
+                             [carolineerobert29[at]gmail.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+
+----9630380a1784e69331a63ed31c6b932e
+Content-Type: text/plain; charset=utf-8
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+Wie geht es dir mein Schatz=2C
+
+Mein Name ist Frau Caroline Didelet Robert=2C ich m=C3=B6chte durch Ihre=
+ Hilfe f=C3=BCr die Bildung und die weniger Privilegierten spenden=2E Ic=
+h schreibe in Bezug auf meine Pl=C3=A4ne=2C im Gedenken an meinen versto=
+rbenen Ehemann zu spenden=2C ich m=C3=B6chte f=C3=BCr die Bildung und di=
+e weniger Privilegierten spenden und bitte um Ihre Unterst=C3=BCtzung=2E=
+ Wie Sie vielleicht wissen=2C leide ich an Darmkrebs=2C laut meinem arzt=
+=2E
+
+Ich brauche Ihre Hilfe=2C um diesen Betrag auf Ihrem Konto zu erhalten=2C=
+ und ich m=C3=B6chte=2C dass Sie den Betrag in ein Wohlt=C3=A4tigkeitspr=
+ojekt investieren=2E Senden Sie mir Ihren vollst=C3=A4ndigen Namen und I=
+hre Wohnadresse und Ihre direkte Telefonnummer=2E Wenn du kann diesen Fo=
+nds im Rahmen eines Wohlt=C3=A4tigkeitsprojekts verwalten=2E der Betrag =
+betr=C3=A4gt 3=2E500=2E000=2C00 =E2=82=AC
+
+Ich brauche Ihre Ehrlichkeit und Sie werden 30=25 f=C3=BCr Ihren Service=
+ abziehen=2E
+Aufrichtig
+Frau Caroline Didelet Robert
+
+----9630380a1784e69331a63ed31c6b932e
+Content-Type: text/html; charset=utf-8
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+Wie geht es dir mein Schatz=2C=3Cbr /=3E=3Cbr /=3EMein Name ist Frau Car=
+oline Didelet Robert=2C ich m=C3=B6chte durch Ihre Hilfe f=C3=BCr die Bi=
+ldung und die weniger Privilegierten spenden=2E Ich schreibe in Bezug au=
+f meine Pl=C3=A4ne=2C im Gedenken an meinen verstorbenen Ehemann zu spen=
+den=2C ich m=C3=B6chte f=C3=BCr die Bildung und die weniger Privilegiert=
+en spenden und bitte um Ihre Unterst=C3=BCtzung=2E Wie Sie vielleicht wi=
+ssen=2C leide ich an Darmkrebs=2C laut meinem arzt=2E=3Cbr /=3E=3Cbr /=3E=
+Ich brauche Ihre Hilfe=2C um diesen Betrag auf Ihrem Konto zu erhalten=2C=
+ und ich m=C3=B6chte=2C dass Sie den Betrag in ein Wohlt=C3=A4tigkeitspr=
+ojekt investieren=2E Senden Sie mir Ihren vollst=C3=A4ndigen Namen und I=
+hre Wohnadresse und Ihre direkte Telefonnummer=2E Wenn du kann diesen Fo=
+nds im Rahmen eines Wohlt=C3=A4tigkeitsprojekts verwalten=2E der Betrag =
+betr=C3=A4gt 3=2E500=2E000=2C00 =E2=82=AC=3Cbr /=3E=3Cbr /=3EIch brauche=
+ Ihre Ehrlichkeit und Sie werden 30=25 f=C3=BCr Ihren Service abziehen=2E=
+=3Cbr /=3EAufrichtig=3Cbr /=3EFrau Caroline Didelet Robert
+
+----9630380a1784e69331a63ed31c6b932e--
+

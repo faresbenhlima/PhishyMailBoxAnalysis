@@ -1,0 +1,119 @@
+Return-Path: <mitchmmary7800@gmail.com>
+Delivered-To: fares.benhalima@luhbots.de
+Received: from server.cpprotect3.de
+	by server.cpprotect3.de with LMTP
+	id aAMSHp0QdWSvogEAQhmUyQ
+	(envelope-from <mitchmmary7800@gmail.com>)
+	for <fares.benhalima@luhbots.de>; Mon, 29 May 2023 22:52:45 +0200
+Return-path: <mitchmmary7800@gmail.com>
+Envelope-to: mail@luhbots.de
+Delivery-date: Mon, 29 May 2023 22:52:45 +0200
+Received: from mail-oo1-f66.google.com ([209.85.161.66]:48372)
+	by server.cpprotect3.de with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.96)
+	(envelope-from <mitchmmary7800@gmail.com>)
+	id 1q3jr6-000Yne-30
+	for mail@luhbots.de;
+	Mon, 29 May 2023 22:52:45 +0200
+Received: by mail-oo1-f66.google.com with SMTP id 006d021491bc7-5566347e73bso1897331eaf.0
+        for <mail@luhbots.de>; Mon, 29 May 2023 13:52:20 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20221208; t=1685393519; x=1687985519;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=oYa02EXb5rjO3A/62rAEZQb4VZHV/h2NRiRO6SBzVVU=;
+        b=PunKOtcqIAuMrjoTzbeFdUgUpst1ftZgMIx30vhiC5Q9L56sVGhNB4WWKR/VcLeFDl
+         BhkZDHS0D/F8zdFhKq8qxdPgU1iNN8wKPGkck8DBRHDymkZt5ugVZdqfkpxrr2ckXNyH
+         bSkiCIgC6KI/SFrtmEkxvD6WG5UpN+l5dUqbp2AXCV8uUh7VxXF4yWL9jDS0OEla0rwm
+         YlL0bkodHfh3NHspETyIWzMLxAdmvdpq1WYKjdJspWZuUYS57NJkqqY6WDa05xZFxzKE
+         7wEodMUmL0/4OX4CsUQrhIAfxa45i3hF431PNWyXkY+k0ZHyqzZWxWa/SbT3ZSCxfL6E
+         Dzvw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20221208; t=1685393519; x=1687985519;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=oYa02EXb5rjO3A/62rAEZQb4VZHV/h2NRiRO6SBzVVU=;
+        b=QZlDDjgBiC4uvLqIOOH9G6BtfNsjLc5WVDRqhoLi8xSlNUU8dGF8lHp/d09IzrDc+j
+         LNOtY092bomm/Tfkxyc4M/xBs2b7O0Rc6dSiRDC/ptj5gbIXpgL3Fziswbx5FlGQze+y
+         92BNs/J1JrqEWcwLW9atTxnWp5YZsq7b/o//GpwHcizVux/cunUBPh50Hsq2J/DNv7B1
+         EXJbQ36Tuau9q0MRdHHllZbcyCc+p5mys7ucg03aMfSveH8sfjLz4Ra8oA+CEGzy+zJx
+         WAmW11SpL+3TlHrF/ohYgqtrgry7DlnFJ4alWc8zFg3GagmHyIR6Td/kMT8u+O+tDw58
+         SKyQ==
+X-Gm-Message-State: AC+VfDxWu4nhXW/0eS0LujJJHb1AvSElz6TAWbciJiwA8sXYABZCzcpc
+	/XWAnOxbBlYH9m/xucwsZ5efemvp7Xbkjs6ag1Y=
+X-Google-Smtp-Source: ACHHUZ6ypdZLO8GgiFSrsY/zi3lTjF2Z2UDyXZhf08wnJqCZXUxXWjs4PBVILl5ry6jHLQ/ChGxmCD7mt/MyIBAo5wM=
+X-Received: by 2002:a05:6808:1489:b0:398:58f5:720e with SMTP id
+ e9-20020a056808148900b0039858f5720emr89618oiw.58.1685393518784; Mon, 29 May
+ 2023 13:51:58 -0700 (PDT)
+MIME-Version: 1.0
+From: Aleksandr Kovalenko <mitchmmary7800@gmail.com>
+Date: Mon, 29 May 2023 21:51:47 +0100
+Message-ID: <CABdNNk47PFH3_PZ971TqU7ZL11iS2VNh5-fJ=tNdUa9iO5Lx=A@mail.gmail.com>
+Subject: LGBT I NEED YOUR HELP
+To: Aleksandr0@aol.de
+Content-Type: multipart/alternative; boundary="000000000000fe769905fcdb4108"
+Bcc: mail@luhbots.de
+X-Spam-Status: No, score=2.3
+X-Spam-Score: 23
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "server.cpprotect3.de",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  How are you today I am Mr Aleksandr from Ukraine, Army General
+    in the battle war. i come from LGBT FAMILY I am looking for help from you
+    i have a huge amount of money we found in oil company here I will be glad
+    to part [...] 
+ Content analysis details:   (2.3 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider
+                             [mitchmmary7800[at]gmail.com]
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends
+                             in digit
+                             [mitchmmary7800[at]gmail.com]
+  0.5 SUBJ_ALL_CAPS          Subject is all capitals
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.0 T_SCC_BODY_TEXT_LINE   No description available.
+  1.8 ADVANCE_FEE_3_NEW      Appears to be advance fee fraud (Nigerian 419)
+X-Spam-Flag: NO
+
+--000000000000fe769905fcdb4108
+Content-Type: text/plain; charset="UTF-8"
+
+How are you today
+
+I am Mr Aleksandr from Ukraine, Army General in the battle war. i come from
+LGBT FAMILY I am looking for help from you i have a huge amount of money we
+found in oil company here  I will be glad to partner with you i want you to
+help me and receive it in your country for a business partnership am not
+happy with my life here fighting with other ganders who do not respect me
+because am GAY i need your help
+
+Best Regard,
+Mr Aleksandr
+
+--000000000000fe769905fcdb4108
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">How are you today<div><br>I am Mr Aleksandr from Ukraine, =
+Army General in the battle war. i come from LGBT FAMILY I am looking for he=
+lp from you i have a huge amount of money we found in oil company here=C2=
+=A0 I will be glad to partner with you i want you to help me and receive=C2=
+=A0it in your country for a business partnership am not happy with my life =
+here fighting with other ganders who do not respect=C2=A0me because=C2=A0am=
+ GAY i need your help=C2=A0</div><div><br>Best Regard,<br>Mr Aleksandr=C2=
+=A0</div></div>
+
+--000000000000fe769905fcdb4108--

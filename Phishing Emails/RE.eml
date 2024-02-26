@@ -1,0 +1,107 @@
+Return-Path: <support@promptpost.com>
+Delivered-To: fares.benhalima@luhbots.de
+Received: from server.cpprotect3.de
+	by server.cpprotect3.de with LMTP
+	id iJwVERTrgWWf7wMAQhmUyQ
+	(envelope-from <support@promptpost.com>)
+	for <fares.benhalima@luhbots.de>; Tue, 19 Dec 2023 20:12:20 +0100
+Return-path: <support@promptpost.com>
+Envelope-to: work@luhbots.de
+Delivery-date: Tue, 19 Dec 2023 20:12:20 +0100
+Received: from mail.promptpost.com ([223.27.247.89]:51558 helo=tdh-mta01.beenets.com)
+	by server.cpprotect3.de with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.96.2)
+	(envelope-from <support@promptpost.com>)
+	id 1rFfVn-000BXE-1a
+	for work@luhbots.de;
+	Tue, 19 Dec 2023 20:12:20 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by tdh-mta01.beenets.com (Postfix) with ESMTP id 9BB773A414C;
+	Tue, 19 Dec 2023 22:48:45 +0700 (+07)
+Received: from tdh-mta01.beenets.com ([127.0.0.1])
+	by localhost (tdh-mta01.beenets.com [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id K91fHEv1Focq; Tue, 19 Dec 2023 22:48:45 +0700 (+07)
+Received: from localhost (localhost [127.0.0.1])
+	by tdh-mta01.beenets.com (Postfix) with ESMTP id EB66A34812B;
+	Tue, 19 Dec 2023 20:52:08 +0700 (+07)
+DKIM-Filter: OpenDKIM Filter v2.10.3 tdh-mta01.beenets.com EB66A34812B
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=promptpost.com;
+	s=promptpost; t=1702993930;
+	bh=l6/3kGK9T/2l+B3zSHCQ/dgSUtfP1fSeQ8NMnxVwqi8=;
+	h=MIME-Version:To:From:Date:Message-Id;
+	b=M6O3NZcjprYgw/KgaeRQDfXOX6meSPw2TXKX7AW2PnjHEeqHtk+o4AblKt05f2iN2
+	 QVBeZDzr6/r4sB38zybB/4vbSjfvTc3sWpFpDf88LtNU9DAy1X88o+2IS38KRpacHC
+	 dtiVMzzPXgkv9wcDTzbJJ4Nc8flwAR5okVfUv0e8=
+X-Virus-Scanned: amavisd-new at tdh-mta01.beenets.com
+Received: from tdh-mta01.beenets.com ([127.0.0.1])
+	by localhost (tdh-mta01.beenets.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id TvsAuGZv3QwK; Tue, 19 Dec 2023 20:52:08 +0700 (+07)
+Received: from DESKTOP-PVBP1UK.local (unknown [191.96.227.169])
+	by tdh-mta01.beenets.com (Postfix) with ESMTPA id 9221F340EB6;
+	Tue, 19 Dec 2023 19:18:32 +0700 (+07)
+Content-Type: multipart/alternative; boundary="===============0745566712=="
+MIME-Version: 1.0
+Subject: RE
+To: Recipients <support@promptpost.com>
+From: "Charls" <support@promptpost.com>
+Date: Tue, 19 Dec 2023 15:18:22 +0300
+Reply-To: mscristydavis58@gmail.com
+Message-Id: <20231219121832.9221F340EB6@tdh-mta01.beenets.com>
+X-Spam-Status: No, score=3.7
+X-Spam-Score: 37
+X-Spam-Bar: +++
+X-Ham-Report: Spam detection software, running on the system "server.cpprotect3.de",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  IHR E-MAIL-KONTO WURDE FÜR EINE SPENDE VON 3.500.000,00 $
+   FÜR WOHNFÜHRENDE ZWECKE AUSGEWÄHLT. BITTE KONTAKTIEREN SIE UNS FÜR WEITERE
+    INFORMATIONEN IHR E-MAIL-KONTO WURDE FÃœR EINE SPENDE VON 3.500.000 [...]
+    
+ Content analysis details:   (3.7 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: promptpost.com]
+  0.2 FREEMAIL_REPLYTO_END_DIGIT Reply-To freemail username ends in
+                             digit
+                             [mscristydavis58[at]gmail.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  1.2 UPPERCASE_75_100       message body is 75-100% uppercase
+ -0.0 T_SCC_BODY_TEXT_LINE   No description available.
+  2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+X-Spam-Flag: NO
+
+You will not see this in a MIME-aware mail reader.
+--===============0745566712==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+IHR E-MAIL-KONTO WURDE F=DCR EINE SPENDE VON 3.500.000,00 $ F=DCR WOHNF=DCH=
+RENDE ZWECKE AUSGEW=C4HLT. BITTE KONTAKTIEREN SIE UNS F=DCR WEITERE INFORMA=
+TIONEN
+--===============0745566712==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head>IHR E-MAIL-KONTO WURDE F=DCR EINE SPENDE VON 3.500.0=
+00,00 $ F=DCR WOHNF=DCHRENDE ZWECKE AUSGEW=C4HLT. BITTE KONTAKTIEREN SIE UN=
+S F=DCR WEITERE INFORMATIONEN</html>
+--===============0745566712==--

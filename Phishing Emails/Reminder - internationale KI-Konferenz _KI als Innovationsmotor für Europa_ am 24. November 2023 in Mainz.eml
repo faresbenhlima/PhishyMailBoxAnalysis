@@ -1,0 +1,687 @@
+Return-Path: <artificial-intelligence@bmdv.bund.de>
+Delivered-To: fares.benhalima@luhbots.de
+Received: from server.cpprotect3.de
+	by server.cpprotect3.de with LMTP
+	id MKT7AjBAXmUHVgAAQhmUyQ
+	(envelope-from <artificial-intelligence@bmdv.bund.de>)
+	for <fares.benhalima@luhbots.de>; Wed, 22 Nov 2023 18:53:52 +0100
+Return-path: <artificial-intelligence@bmdv.bund.de>
+Envelope-to: mail@luhbots.de
+Delivery-date: Wed, 22 Nov 2023 18:53:52 +0100
+Received: from m4-bn.bund.de ([77.87.228.76]:42559)
+	by server.cpprotect3.de with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.96.2)
+	(envelope-from <artificial-intelligence@bmdv.bund.de>)
+	id 1r5rQ4-0009DH-1X;
+	Wed, 22 Nov 2023 18:53:51 +0100
+Received: from m4-bn.bund.de (localhost [127.0.0.1])
+	by m4-bn.bund.de (Postfix) with ESMTP id DF2CF280D84;
+	Wed, 22 Nov 2023 18:52:25 +0100 (CET)
+Received: (from localhost) by m4-bn.bund.de (MSCAN) id 2/m4-bn.bund.de/smtp-gw/mscan;
+     Wed Nov 22 18:52:25 2023
+X-NdB-Source: NdB
+DKIM-Signature: v=1; a=ed25519-sha256; c=relaxed/simple; d=bmdv.bund.de;
+	s=230306-6011-ed25519; t=1700675541;
+	bh=lBCUUvRC8LlbhUbbybzINzivh9gvDRKigxl5m6JQig0=;
+	h=From:To:Subject:Date:Content-Type:MIME-Version:Autocrypt:Cc:
+	 Content-Transfer-Encoding:Content-Type:Date:From:In-Reply-To:
+	 Mime-Version:Openpgp:References:Reply-To:Resent-To:Sender:Subject:
+	 To;
+	b=9fglmB7yDhLq/2Kj9k5xj9zPN+fCoxOJ8s06wE1q6R4+EazUyduMx7VvHbpi0KwAg
+	 fSfA6u7HU0i53lNAH2hAg==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=bmdv.bund.de;
+	s=230306-6011-rsa; t=1700675541;
+	bh=lBCUUvRC8LlbhUbbybzINzivh9gvDRKigxl5m6JQig0=;
+	h=From:To:Subject:Date:Content-Type:MIME-Version:Autocrypt:Cc:
+	 Content-Transfer-Encoding:Content-Type:Date:From:In-Reply-To:
+	 Mime-Version:Openpgp:References:Reply-To:Resent-To:Sender:Subject:
+	 To;
+	b=U/Bw66AY/7P7vXEyrZStTWQzjc5S1P/c2BmJH2Jsk7ksqfwaqB6fMtRxTdtc0OHId
+	 MvtdL5xuNUl5bKkI9W1S9hUlxLsGxNdTfzcsqnL8UF4BAr2ZprRz56vOqPZm3OBWea
+	 qfwq9dn/vRul77iiLMtpVvxEABVjHSca4sM0u+PwQOkgEIcsyzjCyJFE8E21fWlBlQ
+	 vnSQhwJKe7T6ZLsaNm1ME80pex/wZ+Ax0LX7EaB6U2uLXM043pNKHQIzX5GYSXn3+x
+	 Dw3DD0QZ0oI7jQf78bbgI38delcNIvA6THGRMxvjxBUq8ofeC3z0Tv9pTs8LEoXHa0
+	 X9unMFy8Fxi3g==
+X-P350-Id: 2af1feaa27e51ffc
+From: artificial-intelligence <artificial-intelligence@bmdv.bund.de>
+To: artificial-intelligence <artificial-intelligence@bmdv.bund.de>
+Subject: =?iso-8859-1?Q?Reminder_-_internationale_KI-Konferenz_"KI_als_Innovations?=
+ =?iso-8859-1?Q?motor_f=FCr_Europa"_am_24._November_2023_in_Mainz?=
+Thread-Topic: =?iso-8859-1?Q?Reminder_-_internationale_KI-Konferenz_"KI_als_Innovations?=
+ =?iso-8859-1?Q?motor_f=FCr_Europa"_am_24._November_2023_in_Mainz?=
+Thread-Index: AdodJAzu4kaAQDaIRXqv5PMIfrpF6A==
+Date: Wed, 22 Nov 2023 17:46:05 +0000
+Message-ID: <9623877c4df341c0b63bbde46e4e1e1c@bmdv.bund.de>
+Accept-Language: de-DE, en-US
+Content-Language: de-DE
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-tm-as-product-ver: SMEX-14.0.0.3092-9.0.1002-28014.001
+x-tm-as-result: No-10--10.494800-5.000000
+x-tmase-matchedrid: OLBeFNwEv5aJYap0rLccA4eyu7r3hnUg42/HbSbnQnW7V+mXEzZcN97z
+	COURqnn1RO9zn4oBVznBumJQ6fgX7ywX8pKdDpsZ32mPO5tnascD/dHyT/Xh7Q==
+x-tm-as-user-approved-sender: Yes
+x-tm-as-user-blocked-sender: No
+x-tmase-result: 10--10.494800-5.000000
+x-tmase-version: SMEX-14.0.0.3092-9.0.1002-28014.001
+x-tm-snts-smtp: 7C96ABC30921C20B2BFDF2A92B481E4706EA5F845B56C66B95103B6C5468059A2002:9
+Content-Type: multipart/related;
+	boundary="_004_9623877c4df341c0b63bbde46e4e1e1cbmdvbundde_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+X-Rusd: domwl, Pass through domain bmdv.bund.de
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "server.cpprotect3.de",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Sehr geehrte Damen und Herren, diesen Freitag findet die internationale
+    hybride KI-Konferenz "Fueling European Innovation with AI"/ "KI als Innovationsmotor
+    für Europa" des Bundesministeriums für Digi [...] 
+ Content analysis details:   (-0.1 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: bmdv-ki-konferenz.de]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.0 T_SCC_BODY_TEXT_LINE   No description available.
+  0.0 UNPARSEABLE_RELAY      Informational: message has unparseable relay
+                             lines
+X-Spam-Flag: NO
+
+--_004_9623877c4df341c0b63bbde46e4e1e1cbmdvbundde_
+Content-Type: multipart/alternative;
+	boundary="_000_9623877c4df341c0b63bbde46e4e1e1cbmdvbundde_"
+
+--_000_9623877c4df341c0b63bbde46e4e1e1cbmdvbundde_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrte Damen und Herren,
+diesen Freitag findet die internationale hybride KI-Konferenz "Fueling Euro=
+pean Innovation with AI"/ "KI als Innovationsmotor f=FCr Europa" des Bundes=
+ministeriums f=FCr Digitales und Verkehr statt. Diese Konferenz bietet eine=
+ einzigartige Gelegenheit, aktuelle Entwicklungen, Herausforderungen und Ch=
+ancen im Bereich der K=FCnstlichen Intelligenz zu diskutieren und zu erkund=
+en, sowie wertvolle Kontakte zu kn=FCpfen.
+Details der Konferenz:
+
+=A7  Datum: 24. November 2023
+
+=A7  Ort: Parkhotel Favorite, Karl-Weiser-Stra=DFe 1, 55131 Mainz
+
+=A7  Uhrzeit: 09:30 - 16:15 Uhr
+
+=A7  Format: Hybrid
+
+Das aktuelle Programm, Hinweise zur Anfahrt, die Links zur virtuellen Teiln=
+ahme und weitere Informationen finden Sie unter: https://www.bmdv-ki-konfer=
+enz.de<https://www.bmdv-ki-konferenz.de/>
+Wichtige Hinweise zur Anmeldung:
+
+  *   Die Anmeldung f=FCr die Teilnahme vor Ort ist bereits geschlossen. We=
+nn Sie sich auf die Warteliste setzen lassen m=F6chte, dann senden Sie bitt=
+e eine kurze E-Mail mit dem Betreff "Warteliste" an artificial-intelligence=
+@bmdv.bund.de<mailto:artificial-intelligence@bmdv.bund.de>.
+  *   Die virtuelle Teilnahme bedarf keiner Anmeldung.
+  *   Wenn Sie sich f=FCr die Pr=E4senzteilnahme angemeldet haben und nun d=
+och nicht vor Ort sein k=F6nnen, bitten wir Sie um einen entsprechenden Hin=
+weis an die E-Mail-Adresse artificial-intelligence@bmdv.bund.de<mailto:arti=
+ficial-intelligence@bmdv.bund.de>. Da die Pl=E4tze der auf der Konferenz be=
+gehrt sind und es eine Warteliste gibt, k=F6nnen Sie so anderen Personen di=
+e Pr=E4senzteilnahme erm=F6glichen. Vielen Dank!
+Wir freuen uns sehr, Sie bei unserer Veranstaltung begr=FC=DFen zu d=FCrfen=
+ und gemeinsam die M=F6glichkeiten und Herausforderungen der K=FCnstlichen =
+Intelligenz f=FCr den Wirtschaftsstandort Deutschland und Europa zu erkunde=
+n.
+
+Vielen Dank!
+
+Mit freundlichen Gr=FC=DFen
+Im Auftrag
+
+[cid:image001.gif@01D9204A.328165B0]
+
+
+
+Theresa K=F6sters, lic. en droit | Referat DP 20 - Grunds=E4tze KI und Date=
+n=F6konomie
+
+Bundesministerium f=FCr Digitales und Verkehr (BMDV) | Invalidenstra=DFe 44=
+ | 10115 Berlin
+
+artificial-intelligence@bmdv.bund.de<mailto:artificial-intelligence@bmdv.bu=
+nd.de> | www.bmdv.bund.de<http://www.bmdv.bund.de>
+
+
+
+
+Der Schutz Ihrer Daten ist uns wichtig. N=E4here Informationen zum Umgang
+mit personenbezogenen Daten im BMDV k=F6nnen Sie der Datenschutzerkl=E4rung
+auf www.bmdv.bund.de/DE/Meta/Datenschutz/datenschutz.html<http://www.bmdv.b=
+und.de/DE/Meta/Datenschutz/datenschutz.html> entnehmen.
+
+
+
+
+--_000_9623877c4df341c0b63bbde46e4e1e1cbmdvbundde_
+Content-Type: text/html; charset="iso-8859-1"
+Content-ID: <1B31629B5988814793574D0E545947C8@bm-ad.inside>
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel" xmlns:m=3D"http://schema=
+s.microsoft.com/office/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html=
+40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Arial Narrow";
+	panose-1:2 11 6 6 2 2 2 3 2 4;}
+@font-face
+	{font-family:"BundesSans Office";
+	panose-1:2 11 0 2 3 5 0 0 2 3;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.Aufzhlung1, li.Aufzhlung1, div.Aufzhlung1
+	{mso-style-name:"Aufz=E4hlung 1";
+	margin-top:3.0pt;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:14.2pt;
+	text-indent:-14.2pt;
+	mso-list:l0 level1 lfo2;
+	font-size:12.0pt;
+	font-family:"Arial Narrow",sans-serif;}
+span.E-MailFormatvorlage19
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:888153656;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1121829078 -1728131980 67567619 67567621 67567617 6=
+7567619 67567621 67567617 67567619 418692832;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-style-link:"Aufz=E4hlung 1";
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:54.0pt;
+	mso-level-number-position:left;
+	margin-left:54.0pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:90.0pt;
+	mso-level-number-position:left;
+	margin-left:90.0pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:126.0pt;
+	mso-level-number-position:left;
+	margin-left:126.0pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:162.0pt;
+	mso-level-number-position:left;
+	margin-left:162.0pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:198.0pt;
+	mso-level-number-position:left;
+	margin-left:198.0pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:234.0pt;
+	mso-level-number-position:left;
+	margin-left:234.0pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level9
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:-;
+	mso-level-tab-stop:270.0pt;
+	mso-level-number-position:left;
+	margin-left:270.0pt;
+	text-indent:-18.0pt;
+	font-family:"Arial Narrow",sans-serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+@list l1
+	{mso-list-id:1157845726;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1459321440 67567617 67567619 67567621 67567617 6756=
+7619 67567621 67567617 67567619 67567621;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"DE" link=3D"blue" vlink=3D"purple" style=3D"word-wrap:break-w=
+ord">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">Sehr geehrte Damen und Herren,<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">diesen Freitag findet die internationale hybride KI-Konferenz &quo=
+t;Fueling European Innovation with AI&quot;/ &#8222;KI als Innovationsmotor=
+ f=FCr Europa&#8220; des Bundesministeriums f=FCr Digitales und
+ Verkehr statt. Diese Konferenz bietet eine einzigartige Gelegenheit, aktue=
+lle Entwicklungen, Herausforderungen und Chancen im Bereich der K=FCnstlich=
+en Intelligenz zu diskutieren und zu erkunden, sowie wertvolle Kontakte zu =
+kn=FCpfen.<o:p></o:p></p>
+<p class=3D"MsoNormal"><b>Details der Konferenz:<o:p></o:p></b></p>
+<p class=3D"Aufzhlung1CxSpFirst" style=3D"mso-margin-top-alt:0cm;margin-rig=
+ht:0cm;margin-bottom:0cm;margin-left:14.2pt;margin-bottom:.0001pt;mso-add-s=
+pace:auto;mso-list:l0 level1 lfo2">
+<![if !supportLists]><span style=3D"font-size:11.0pt;font-family:Wingdings"=
+><span style=3D"mso-list:Ignore">=A7<span style=3D"font:7.0pt &quot;Times N=
+ew Roman&quot;">&nbsp;
+</span></span></span><![endif]><b><span style=3D"font-size:11.0pt;font-fami=
+ly:&quot;Calibri&quot;,sans-serif">Datum:</span></b><span style=3D"font-siz=
+e:11.0pt;font-family:&quot;Calibri&quot;,sans-serif"> 24. November 2023<o:p=
+></o:p></span></p>
+<p class=3D"Aufzhlung1CxSpMiddle" style=3D"mso-margin-top-alt:0cm;margin-ri=
+ght:0cm;margin-bottom:0cm;margin-left:14.2pt;margin-bottom:.0001pt;mso-add-=
+space:auto;mso-list:l0 level1 lfo2">
+<![if !supportLists]><span style=3D"font-size:11.0pt;font-family:Wingdings"=
+><span style=3D"mso-list:Ignore">=A7<span style=3D"font:7.0pt &quot;Times N=
+ew Roman&quot;">&nbsp;
+</span></span></span><![endif]><b><span style=3D"font-size:11.0pt;font-fami=
+ly:&quot;Calibri&quot;,sans-serif">Ort:
+</span></b><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,=
+sans-serif">Parkhotel Favorite, Karl-Weiser-Stra=DFe 1, 55131 Mainz<o:p></o=
+:p></span></p>
+<p class=3D"Aufzhlung1CxSpMiddle" style=3D"mso-margin-top-alt:0cm;margin-ri=
+ght:0cm;margin-bottom:0cm;margin-left:14.2pt;margin-bottom:.0001pt;mso-add-=
+space:auto;mso-list:l0 level1 lfo2">
+<![if !supportLists]><span style=3D"font-size:11.0pt;font-family:Wingdings"=
+><span style=3D"mso-list:Ignore">=A7<span style=3D"font:7.0pt &quot;Times N=
+ew Roman&quot;">&nbsp;
+</span></span></span><![endif]><b><span style=3D"font-size:11.0pt;font-fami=
+ly:&quot;Calibri&quot;,sans-serif">Uhrzeit:</span></b><span style=3D"font-s=
+ize:11.0pt;font-family:&quot;Calibri&quot;,sans-serif"> 09:30 &#8211; 16:15=
+ Uhr<o:p></o:p></span></p>
+<p class=3D"Aufzhlung1CxSpLast" style=3D"mso-margin-top-alt:0cm;margin-righ=
+t:0cm;margin-bottom:0cm;margin-left:14.2pt;margin-bottom:.0001pt;mso-add-sp=
+ace:auto;mso-list:l0 level1 lfo2">
+<![if !supportLists]><span style=3D"font-size:11.0pt;font-family:Wingdings"=
+><span style=3D"mso-list:Ignore">=A7<span style=3D"font:7.0pt &quot;Times N=
+ew Roman&quot;">&nbsp;
+</span></span></span><![endif]><b><span style=3D"font-size:11.0pt;font-fami=
+ly:&quot;Calibri&quot;,sans-serif">Format:
+</span></b><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,=
+sans-serif">Hybrid
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Das aktuelle <b>Programm</b>, Hinweise zur <b>Anfahr=
+t</b>, die
+<b>Links zur</b> <b>virtuellen Teilnahme</b> und weitere Informationen find=
+en Sie unter:
+<a href=3D"https://www.bmdv-ki-konferenz.de/">https://www.bmdv-ki-konferenz=
+.de</a><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><b><u>Wichtige Hinweise zur Anmeldung:</u></b><u>
+<o:p></o:p></u></p>
+<ul type=3D"disc">
+<li class=3D"MsoListParagraph" style=3D"mso-margin-top-alt:auto;mso-margin-=
+bottom-alt:auto;margin-left:0cm;mso-list:l1 level1 lfo3">
+Die Anmeldung f=FCr die Teilnahme vor Ort ist bereits geschlossen. Wenn Sie=
+ sich auf die Warteliste setzen lassen m=F6chte, dann senden Sie bitte eine=
+ kurze E-Mail mit dem Betreff &#8222;Warteliste&#8220; an
+<a href=3D"mailto:artificial-intelligence@bmdv.bund.de">artificial-intellig=
+ence@bmdv.bund.de</a>.<o:p></o:p></li><li class=3D"MsoListParagraph" style=
+=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;margin-left:0cm;mso-=
+list:l1 level1 lfo3">
+Die <b>virtuelle Teilnahme</b> bedarf keiner Anmeldung. <o:p></o:p></li><li=
+ class=3D"MsoListParagraph" style=3D"mso-margin-top-alt:auto;mso-margin-bot=
+tom-alt:auto;margin-left:0cm;mso-list:l1 level1 lfo3">
+Wenn Sie sich f=FCr die Pr=E4senzteilnahme angemeldet haben und nun doch ni=
+cht vor Ort sein k=F6nnen, bitten wir Sie um einen entsprechenden Hinweis a=
+n die E-Mail-Adresse
+<a href=3D"mailto:artificial-intelligence@bmdv.bund.de">artificial-intellig=
+ence@bmdv.bund.de</a><span style=3D"color:black">.</span> Da die Pl=E4tze d=
+er auf der Konferenz begehrt sind und es eine Warteliste gibt, k=F6nnen Sie=
+ so anderen Personen die Pr=E4senzteilnahme
+ erm=F6glichen. Vielen Dank!<o:p></o:p></li></ul>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">Wir freuen uns sehr, Sie bei unserer Veranstaltung begr=FC=DFen zu=
+ d=FCrfen und gemeinsam die M=F6glichkeiten und Herausforderungen der K=FCn=
+stlichen Intelligenz f=FCr den Wirtschaftsstandort
+ Deutschland und Europa zu erkunden.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;BundesSans Office&q=
+uot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE">Vielen Dank!<o:=
+p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;BundesSans Office&q=
+uot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE"><o:p>&nbsp;</o:=
+p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;BundesSans Office&q=
+uot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE">Mit freundliche=
+n Gr=FC=DFen<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;BundesSans Office&q=
+uot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE">Im Auftrag<o:p>=
+</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;BundesSans Office&q=
+uot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE"><o:p>&nbsp;</o:=
+p></span></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"border-collapse:collapse">
+<tbody>
+<tr>
+<td width=3D"47" rowspan=3D"5" style=3D"width:35.05pt;padding:0cm 5.4pt 0cm=
+ 5.4pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"mso-ligatures:none;mso-fareast-language:DE"><img border=3D"0" width=
+=3D"168" height=3D"104" style=3D"width:1.75in;height:1.0833in" id=3D"Bild_x=
+0020_1" src=3D"cid:image001.gif@01DA1D2E.673D9080" alt=3D"cid:image001.gif@=
+01D9204A.328165B0"></span><span style=3D"font-family:&quot;BundesSans Offic=
+e&quot;,sans-serif;mso-ligatures:none"><o:p></o:p></span></p>
+</td>
+<td width=3D"1446" valign=3D"top" style=3D"width:1084.4pt;padding:0cm 5.4pt=
+ 0cm 5.4pt">
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;BundesSans Office&q=
+uot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE"><o:p>&nbsp;</o:=
+p></span></p>
+</td>
+</tr>
+<tr>
+<td width=3D"1446" valign=3D"top" style=3D"width:1084.4pt;padding:0cm 5.4pt=
+ 0cm 5.4pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><b><span style=3D"font-fa=
+mily:&quot;BundesSans Office&quot;,sans-serif;mso-ligatures:none;mso-fareas=
+t-language:DE">Theresa K=F6sters,</span></b><b><span style=3D"mso-ligatures=
+:none;mso-fareast-language:DE"> lic. en droit</span></b><span style=3D"font=
+-family:&quot;BundesSans Office&quot;,sans-serif;mso-ligatures:none;mso-far=
+east-language:DE">
+ | Referat DP 20 &#8211; Grunds=E4tze KI und Daten=F6konomie<o:p></o:p></sp=
+an></p>
+</td>
+</tr>
+<tr>
+<td width=3D"1446" valign=3D"top" style=3D"width:1084.4pt;padding:0cm 5.4pt=
+ 0cm 5.4pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-famil=
+y:&quot;BundesSans Office&quot;,sans-serif;mso-ligatures:none;mso-fareast-l=
+anguage:DE">Bundesministerium f=FCr Digitales und Verkehr (BMDV) | Invalide=
+nstra=DFe 44 | 10115 Berlin<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td width=3D"1446" valign=3D"top" style=3D"width:1084.4pt;padding:0cm 5.4pt=
+ 0cm 5.4pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-famil=
+y:&quot;BundesSans Office&quot;,sans-serif;mso-ligatures:none;mso-fareast-l=
+anguage:DE"><a href=3D"mailto:artificial-intelligence@bmdv.bund.de">artific=
+ial-intelligence@bmdv.bund.de</a> |
+<u><span style=3D"color:blue"><a href=3D"http://www.bmdv.bund.de">www.bmdv.=
+bund.de</a></span></u><o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td width=3D"1446" valign=3D"top" style=3D"width:1084.4pt;padding:0cm 5.4pt=
+ 0cm 5.4pt">
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;BundesSans Office&q=
+uot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE"><o:p>&nbsp;</o:=
+p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;BundesSans Office&q=
+uot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE"><o:p>&nbsp;</o:=
+p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;BundesSans Office&q=
+uot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE">Der Schutz Ihre=
+r Daten ist uns wichtig. N=E4here Informationen zum Umgang<o:p></o:p></span=
+></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;BundesSans Office&q=
+uot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE">mit personenbez=
+ogenen Daten im BMDV k=F6nnen Sie der Datenschutzerkl=E4rung<o:p></o:p></sp=
+an></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;BundesSans Office&q=
+uot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE">auf
+<a href=3D"http://www.bmdv.bund.de/DE/Meta/Datenschutz/datenschutz.html"><s=
+pan style=3D"color:blue">www.bmdv.bund.de/DE/Meta/Datenschutz/datenschutz.h=
+tml</span></a> entnehmen.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-ligatures:none"><o:p>&nbsp;</o:p>=
+</span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_9623877c4df341c0b63bbde46e4e1e1cbmdvbundde_--
+
+--_004_9623877c4df341c0b63bbde46e4e1e1cbmdvbundde_
+Content-Type: image/gif; name="image001.gif"
+Content-Description: image001.gif
+Content-Disposition: inline; filename="image001.gif"; size=2494;
+	creation-date="Wed, 22 Nov 2023 09:26:49 GMT";
+	modification-date="Wed, 22 Nov 2023 09:26:49 GMT"
+Content-ID: <image001.gif@01DA1D2E.673D9080>
+Content-Transfer-Encoding: base64
+
+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
+
+--_004_9623877c4df341c0b63bbde46e4e1e1cbmdvbundde_--
+

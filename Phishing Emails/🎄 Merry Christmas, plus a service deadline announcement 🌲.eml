@@ -1,0 +1,271 @@
+Return-Path: <pm_bounces@pm-bounces.aisler.net>
+Received: from server.cpprotect3.de
+	by server.cpprotect3.de with LMTP
+	id KC9XBtxZk2OpYioAQhmUyQ
+	(envelope-from <pm_bounces@pm-bounces.aisler.net>); Fri, 09 Dec 2022 16:53:00 +0100
+Return-path: <pm_bounces@pm-bounces.aisler.net>
+Envelope-to: work@luhbots.de
+Delivery-date: Fri, 09 Dec 2022 16:53:00 +0100
+Received: from mta15-ab1.mtasv.net ([50.31.205.15]:58269)
+	by server.cpprotect3.de with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.95)
+	(envelope-from <pm_bounces@pm-bounces.aisler.net>)
+	id 1p3fgD-00DWLj-8n
+	for work@luhbots.de;
+	Fri, 09 Dec 2022 16:53:00 +0100
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=ab20220416; d=ab.mtasv.net;
+ h=From:Date:Subject:Message-Id:To:List-Unsubscribe:MIME-Version:Content-Type:Content-Transfer-Encoding:Date:From:Message-ID:Reply-To:Sender:Subject:To:CC;
+ bh=tevtp9VYLrWfBdi4QxYHmUxrwQo=;
+ b=AQj6TQOHQRs/dGigi2PX8k4mz/D1niUsMn4IebnusoFtEPvbluHRKtQxgx4opw+HtJE56ywo+5jF
+   enuPfYXoHO1dvWTbh/Zvbuwait84hmbTsBZV+C0DN6IGj0VW88KMKItTKAJKjhethxMsFsUYtKCA
+   Sy1YmgQ7RmtCWd850mc=
+Received: by mta15-ab1.mtasv.net id hidct427tk4j for <work@luhbots.de>; Fri, 9 Dec 2022 10:52:48 -0500 (envelope-from <pm_bounces@pm-bounces.aisler.net>)
+X-PM-IP: 50.31.205.15
+X-IADB-IP: 50.31.205.15
+X-IADB-IP-REVERSE: 15.205.31.50
+DKIM-Signature: v=1; a=rsa-sha256; d=aisler.net; s=20170320115258pm;
+	c=relaxed/relaxed; i=felix-announce@aisler.net; t=1670601168;
+	h=date:date:from:from:message-id:reply-to:sender:subject:subject:to:to:cc:
+	list-unsubscribe:feedback-id:mime-version:content-type:
+	content-transfer-encoding;
+	bh=zT0QdnjikcHnYXdOFZx6l5J8CJFKMro2jyxF8ei+tOE=;
+	b=pFAEFu8TJBoV5DseXeBOGFxj06UbsdylzAj3S6tX8/5dfdMggT1P9/fvB3/n0//kqgDnSkRy9Ad
+	46NHd0yQD5iGPuglcBND02E4cbInQwA/1AX94qJvW1ow03Mj4ksoMy4wbbeU422c5ph/yIoKBllqB
+	ADtTlw5OK2kIjsqQR7E=
+From: Felix from AISLER <felix-announce@aisler.net>
+Date: Fri, 09 Dec 2022 15:52:48 +0000
+Subject: =?utf-8?b?8J+OhA==?= Merry Christmas, plus a service deadline
+ announcement =?utf-8?b?8J+Msg==?=
+Message-Id: <9c86f32f-2020-4fba-aae3-82d2bb5b55fb@mtasv.net>
+To: work@luhbots.de
+List-Unsubscribe: =?utf-8?q?=3Chttps=3A=2F=2Fsubscriptions=2Epstmrk=2Eit=2Funsubscribe=2FpRGK9lmgcoBs2n95?=
+ =?utf-8?q?wvWuirT39fPyQ0ilmJm-s=5F1TI8qBCur6J0fTXzKvi82Sm6IOvg0ruT4=5Fz=5Fe5u?=
+ =?utf-8?q?5jqMj41P1d7jYVd38RroVRKXQxnk4stlEKWO-AfFUbTZntHT1ji-hm5jdw885?=
+ =?utf-8?q?aiAxXgqnFmlJaUK8yq7=5FwEJWn3kPyJOuZv=5FvtaRPC3sUCXY=5Fk=5FUWjlESsgvt2?=
+ =?utf-8?q?p-IYFJXm-rimjd4mSAbdpsPTrxyWWGaBnuPXMX8y3PkyYKK5rP5GhuC4zqetq?=
+ =?utf-8?q?sBeiZkzDy3atYLBZhAOfFuse6r0HJ7F=5FMCK=5FS1GXd0May2EdoQB9KOMZXcKQN?=
+ =?utf-8?q?o9WxPTf-t-gRLbnOCXxAniS6hS-NjszJ1VL9DihRZrc6L2mWFudoWnOSSkoFJ?=
+ =?utf-8?q?fv2SqCC3T9OT5dIDEyIvDvrwARjg7n2oGTSynedpGFqc9UH7bi0jVRw3B5Hv2?=
+ =?utf-8?q?S3D1nyrYhrqmvcTrGXT-0er0h=5FCMknke8oxfMuO-SDHieu5JIt8l43=5FxLGRhK?=
+ =?utf-8?q?eYQZPPVCTUL9zebq80X-PauAWSYwTP3xPgfLM44dZHCxxsmVW4uePQSj5IHqb?=
+ =?utf-8?q?ELj3sFw5gokQ71JCzKfGevtHutctbNkTLddXcm9Dc69lHTH9zhmvDQA7BCN0U?=
+ =?utf-8?q?Ge1ckMYrYg3BhL=3E?=
+X-Listmonk-Campaign: 349710c1-061d-41b6-bf36-8b700c831db2
+X-Listmonk-Subscriber: d0e4ad77-1575-4880-b875-255937d95977
+X-Pm-Message-Stream: broadcast
+Feedback-ID: s8320872-_:s8320872:a136991:postmark
+X-Complaints-To: abuse@postmarkapp.com
+X-PM-Message-Id: 9c86f32f-2020-4fba-aae3-82d2bb5b55fb
+X-PM-RCPT: |bTB8MTM2OTkxfDgzMjA4NzJ8d29ya0BsdWhib3RzLmRl|
+X-PM-Message-Options: v1;9Hcc_PIAriBnYBOfaIwCc5PONa73aRzXmxqIrNLHP3RJJTCZDxNScE_Lf79fZEhss7DZgJTgDTvnTxKF2pqhk9UKflskb_UkJ7CqadYPDYc
+MIME-Version: 1.0
+X-PM-MTA-Pool: application-bulk-1
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "server.cpprotect3.de",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hey Marc, tldr; While we still take orders, we will briefly
+    be closing manufacturing after Christmas, however, this year it'll be the
+    shortest break in our history. Just wanted to send you a mail to let you
+   know the deadlines for our PCB service. As machines will need to be cleaned,
+    our partners use this short timeframe after christmas to get their machines
+    up to [...] 
+ Content analysis details:   (-0.1 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: aisler.net]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+X-Spam-Flag: NO
+
+<!doctype html>
+<html>
+    <head>
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charse=
+t=3Dutf-8">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initi=
+al-scale=3D1, minimum-scale=3D1">
+        <base target=3D"_blank">
+
+        <style>
+            body {
+                background-color: #F0F1F3;
+                font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, =
+sans-serif;
+                font-size: 15px;
+                line-height: 26px;
+                margin: 0;
+                color: #0a0a0a;
+            }
+
+            pre {
+                background: #f4f4f4f4;
+                padding: 2px;
+            }
+
+            table {
+                width: 100%;
+                border: 1px solid #ddd;
+            }
+            table td {
+                border-color: #ddd;
+                padding: 5px;
+            }
+
+            .wrap {
+                background-color: #fff;
+                padding: 30px;
+                max-width: 525px;
+                margin: 0 auto;
+            }
+
+            .button {
+                background: #0055d4;
+                border-radius: 3px;
+                text-decoration: none !important;
+                color: #fff !important;
+                font-weight: bold;
+                padding: 10px 30px;
+                display: inline-block;
+            }
+            .button:hover {
+                background: #111;
+            }
+
+            .footer {
+                text-align: center;
+                font-size: 12px;
+                color: #888;
+            }
+                .footer a {
+                    color: #888;
+                }
+
+            .gutter {
+                padding: 30px;
+            }
+
+            img {
+                max-width: 100%;
+                height: auto;
+            }
+
+            a {
+                color: #0055d4;
+            }
+                a:hover {
+                    color: #111;
+                }
+            @media screen and (max-width: 600px) {
+                .wrap {
+                    max-width: auto;
+                }
+                .gutter {
+                    padding: 10px;
+                }
+            }
+        </style>
+    </head>
+<body style=3D"background-color: #F0F1F3;font-family: 'Helvetica Neue'=
+, 'Segoe UI', Helvetica, sans-serif;font-size: 15px;line-height: 26px;=
+margin: 0;color: #444;">
+    <div class=3D"wrap" style=3D"background-color: #fafafc;">
+      <img src=3D"https://cm.aisler.net/assets/logo_medium.png" style=3D=
+"width: 250px;">
+    </div>
+    <div class=3D"wrap">
+        <p>Hey Marc,</p>
+        <p>
+          <p><strong>tldr; While we still take orders, we will briefly=
+ be closing manufacturing after Christmas, however, this year it'll be=
+ the shortest break in our history.</strong></p>
+<p>Just wanted to send you a mail to let you know the deadlines for ou=
+r PCB service. As machines will need to be cleaned, our partners use t=
+his short timeframe after christmas to get their machines up to speed =
+for the next year! Hence manufacturing will be paused for a short peri=
+od between <strong>21-12-2022 and 02-01-2023</strong>.</p>
+<p>If you want to receive your order this year, be aware of the follow=
+ing deadlines</p>
+<ul>
+<li>2 Layer Budget: will be delivered next year</li>
+<li>2 Layer Blitz: order until 18-12-2022</li>
+<li>2 Layer HD: order until 16-12-2022</li>
+<li>4 Layer HD: order until 14-12-2022</li>
+<li>6 Layer HD: order until 14-12-2022</li>
+</ul>
+<p>Again, thank you very much for being our customer =E2=80=93 you are=
+ the reason we exist and continue making hardware less hard everyday! =
+We are very much looking forward to next year where we have plenty of =
+new stuff in store for you!</p>
+<p>Wanna rush before the end of the year? Here's a tiny christmas gift=
+ for you: use coupon code "<strong>YearEndRun2022</strong>" for a 10 E=
+uro discount on your PCB.</p>
+<p>=C2=A0</p>
+<p>=C2=A0</p>
+<p>=C2=A0</p>
+        </p>
+        <p style=3D"line-height: 2rem;">
+          Cheers,
+        </p>
+        <img src=3D"https://cm.aisler.net/assets/signature_felix.png" =
+style=3D"width: 180px;">
+        <table style=3D"border:0px solid black; color: #000000;">
+          <tr>
+            <td style=3D"width: 25%;">
+              <img src=3D"https://cm.aisler.net/assets/felix.png" styl=
+e=3D"width: 100px;">
+            </td>
+            <td style=3D"width: 75%;">
+              <b>Felix</b>
+              <br>
+              <small style=3D"color: #cacaca;">Co-Founder of AISLER</s=
+mall>
+            </td>
+           </tr>
+        </table>
+
+    </div>
+    <div class=3D"wrap" style=3D"background-color: #fafafc; text-align=
+:center; line-height: 1.5rem; font-size: 12px; color: #656565;">
+      Copyright =C2=A9 2021 AISLER B.V., All rights reserved.<br>
+      <b>Our mailing address is:</b><br>
+      AISLER B.V.<br>
+      Schoolstraat 2<br>
+      Lemiers, Limburg 6295AV<br>
+      Netherlands<br>
+    </div>
+    <img src=3D"https://cm.aisler.net/campaign/349710c1-061d-41b6-bf36=
+-8b700c831db2/d0e4ad77-1575-4880-b875-255937d95977/px.png" alt=3D"" />
+<p style=3D"text-align:center;margin:1em 0 3em;"><a href=3D"https://su=
+bscriptions.pstmrk.it/unsubscribe/pRGK9lmgcoBs2n95wvWuirT39fPyQ0ilmJm-=
+s_1TI8qBCur6J0fTXzKvi82Sm6IOvg0ruT4_z_e5u5jqMj41P1d7jYVd38RroVRKXQxnk4=
+stlEKWO-AfFUbTZntHT1ji-hm5jdw885aiAxXgqnFmlJaUK8yq7_wEJWn3kPyJOuZv_vta=
+RPC3sUCXY_k_UWjlESsgvt2p-IYFJXm-rimjd4mSAbdpsPTrxyWWGaBnuPXMX8y3PkyYKK=
+5rP5GhuC4zqetqsBeiZkzDy3atYLBZhAOfFuse6r0HJ7F_MCK_S1GXd0May2EdoQB9KOMZ=
+XcKQNo9WxPTf-t-gRLbnOCXxAniS6hS-NjszJ1VL9DihRZrc6L2mWFudoWnOSSkoFJfv2S=
+qCC3T9OT5dIDEyIvDvrwARjg7n2oGTSynedpGFqc9UH7bi0jVRw3B5Hv2S3D1nyrYhrqmv=
+cTrGXT-0er0h_CMknke8oxfMuO-SDHieu5JIt8l43_xLGRhKeYQZPPVCTUL9zebq80X-Pa=
+uAWSYwTP3xPgfLM44dZHCxxsmVW4uePQSj5IHqbELj3sFw5gokQ71JCzKfGevtHutctbNk=
+TLddXcm9Dc69lHTH9zhmvDQA7BCN0UGe1ckMYrYg3BhL" style=3D"color:#A8AAAF;f=
+ont-family:Helvetica,Arial,sans-serif;font-size:12px;">Unsubscribe</a>=
+</p></body>
+</html>

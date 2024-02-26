@@ -1,0 +1,106 @@
+Return-Path: <birgit345655@gmail.com>
+Received: from server.cpprotect3.de
+	by server.cpprotect3.de with LMTP
+	id WF61G15AcGUKXwIAQhmUyQ
+	(envelope-from <birgit345655@gmail.com>); Wed, 06 Dec 2023 10:35:26 +0100
+Return-path: <birgit345655@gmail.com>
+Envelope-to: mail@luhbots.de
+Delivery-date: Wed, 06 Dec 2023 10:35:26 +0100
+Received: from mail-wm1-f52.google.com ([209.85.128.52]:46354)
+	by server.cpprotect3.de with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.96.2)
+	(envelope-from <birgit345655@gmail.com>)
+	id 1rAoJO-0010f7-1X
+	for mail@luhbots.de;
+	Wed, 06 Dec 2023 10:35:26 +0100
+Received: by mail-wm1-f52.google.com with SMTP id 5b1f17b1804b1-40c09d62b70so39053885e9.1
+        for <mail@luhbots.de>; Wed, 06 Dec 2023 01:35:01 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1701855280; x=1702460080; darn=luhbots.de;
+        h=content-transfer-encoding:subject:to:from:mime-version:date
+         :message-id:from:to:cc:subject:date:message-id:reply-to;
+        bh=Zy3L8xo+i2DkM2R02nTZrFOtrTZZKqftVXzwg/ha6g0=;
+        b=SLRlv1wJgnndZDYpFfm1+NFe6aP4ERMzNgbpeKQduutEj2vO75jCr8vuO6q/renBwc
+         40olBSHEMH6liAB+LudLsu3XRRBN2vFEvIcoiqJokSWHsDmKbMPASXig0zyOfX1d/lGt
+         byFFEflylCZj0xxEekdUvhZnaycjOvgS5XYPUacZZNT6ZhovBQSmgNi6Bsva1K2rBI3F
+         Ew0UaBEJEMnZEtvEhKP3Beh2mZ5IlrZN7vX0sFK23jkPSHAQA8rOKs+IrnAEkzfjlQXL
+         4lt+q87+H8E+WzukjPWwm3bNd8M+F7musZzeWP/oW1HT3JPnBqGrJZqJq4B+ALQC20fD
+         6cwQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1701855280; x=1702460080;
+        h=content-transfer-encoding:subject:to:from:mime-version:date
+         :message-id:x-gm-message-state:from:to:cc:subject:date:message-id
+         :reply-to;
+        bh=Zy3L8xo+i2DkM2R02nTZrFOtrTZZKqftVXzwg/ha6g0=;
+        b=MN3QFxpT7/DkMcmE+8hzXP4UExIuOZXOXkrtXLeXCz02FzcqST0R6UI/o6b5RjkTZN
+         SXWP1X/p7c3F44zCU6uGD4OclrUyqg7dZRDrzCMQg+bYiXH6CYnaGgcmrJeK8y3oX4iN
+         D6qSSJZc4s+/t8c72+jHXq/Ho6N5ssMoDbNN+9DCNtltSBrZOMx33rZR9K8sUNMPJpIP
+         76kgmjiePOytjGA3tDWvG/cecASE1HnpzPfFwl0S6YYGxHxr1vBoHooAqz5PGay0HCyQ
+         OFJOgYrQnuS1S8aDBNGN9f4MuIeT7fDFWorxiT3ZoiDcHpu7okWymj86r5mLn5UnBRd6
+         KczQ==
+X-Gm-Message-State: AOJu0YwEOExjgUD/GDsskJ7Op16komtfkOz4yWvuQ2yVoXX28grnZLxA
+	1AnCYUaAs8C4zMOgPpPzUahNaUToeOUMgw==
+X-Google-Smtp-Source: AGHT+IETAwU9PHwKSV+OVSA1Eie2L1lO4Gpk4KHSwcd5awRMByjct3r8MX5X2kKZs6YnOnic8VzAtg==
+X-Received: by 2002:a05:600c:348b:b0:40c:2417:3b51 with SMTP id a11-20020a05600c348b00b0040c24173b51mr23344wmq.74.1701855280674;
+        Wed, 06 Dec 2023 01:34:40 -0800 (PST)
+Received: from DESKTOP-K60JGIH ([41.138.89.208])
+        by smtp.gmail.com with ESMTPSA id iv7-20020a05600c548700b00405959469afsm21300867wmb.3.2023.12.06.01.34.39
+        for <mail@luhbots.de>
+        (version=TLS1 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128);
+        Wed, 06 Dec 2023 01:34:40 -0800 (PST)
+Message-ID: <65704030.050a0220.1e778.0ec9@mx.google.com>
+Date: Wed, 06 Dec 2023 01:34:40 -0800 (PST)
+X-Google-Original-Date: 6 Dec 2023 09:39:15 +0100
+MIME-Version: 1.0
+From: birgit345655@gmail.com
+To: mail@luhbots.de
+Subject: HALLO
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+X-Spam-Status: No, score=0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "server.cpprotect3.de",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Ich werde Ihnen nicht verheimlichen, dass ich sehr krank bin.
+    Mein Name ist Birgit Müller. Ich entschuldige mich für die Art und Weise,
+    wie ich Sie kontaktiert habe. Ich kenne ihn nicht persönlich, [...] 
+ Content analysis details:   (0.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends
+                             in digit
+                             [birgit345655[at]gmail.com]
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider
+                             [birgit345655[at]gmail.com]
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.0 T_SCC_BODY_TEXT_LINE   No description available.
+X-Spam-Flag: NO
+
+SWNoIHdlcmRlIElobmVuIG5pY2h0IHZlcmhlaW1saWNoZW4sIGRhc3MgaWNoIHNlaHIg
+a3JhbmsgYmluLg0KTWVpbiBOYW1lIGlzdCBCaXJnaXQgTcO8bGxlci4gSWNoIGVudHNj
+aHVsZGlnZSBtaWNoIGbDvHIgZGllIEFydCB1bmQgV2Vpc2UsIHdpZSBpY2ggU2llIGtv
+bnRha3RpZXJ0IGhhYmUuIEljaCBrZW5uZSBpaG4gbmljaHQgcGVyc8O2bmxpY2gsIGFi
+ZXIgaWNoIGhhYmUgc2VpbmUgRS1NYWlsLUFkcmVzc2UgYmVpIGRlciBTdWNoZSBhdWYg
+Z29vZ2xlIC4gZGUgZ2VmdW5kZW4NCkljaCBtw7ZjaHRlIGRpciBtZWluIExlYmVuIGFu
+dmVydHJhdWVuLCB3ZWlsIGljaCB3ZWnDnywgZGFzcyBtZWluIFRvZCBuYWhlIGlzdC4N
+CkltIEphaHIgMjAxOSB3dXJkZSBpY2ggdm9uIGVpbmVyIEtyYW5raGVpdCBoZWltZ2Vz
+dWNodCwgZGllIG1pY2ggZHJlaSBKYWhyZSBsYW5nIGdlcXXDpGx0IGhhdHRlLCB1bmQg
+aWNoIGJlc2NobG9zcywgZWluZW4gVGVpbCBtZWluZXMgR2VsZGVzIGFuIDEwIEZyZW1k
+ZSB6dSBzcGVuZGVuLCBkaWUgaWNoIGFuaGFuZCB2b24gRS1NYWlscyB6dWbDpGxsaWcg
+YXVzZ2V3w6RobHQgaGF0dGUuDQpJY2ggYmVzdMOkdGlnZSwgZGFzcyBTaWUgZGllIGFj
+aHRlIFBlcnNvbiBzaW5kLCBkaWUgaWNoIGF1c2dld8OkaGx0IGhhYmUsIHVuZCBkYXNz
+IGljaCBJaG5lbiA1NTAuMDAw4oKsIHNwZW5kZW4gbcO2Y2h0ZS4NCkJpdHRlIGFudHdv
+cnRlbiBTaWUgbWlyLCB3ZW5uIFNpZSBpbnRlcmVzc2llcnQgc2luZCA=
+

@@ -1,0 +1,401 @@
+Return-Path: <elizabeth_akaha@hotmail.com>
+Delivered-To: fares.benhalima@luhbots.de
+Received: from server.cpprotect3.de
+	by server.cpprotect3.de with LMTP
+	id 4PN2FE/7j2PlpBUAQhmUyQ
+	(envelope-from <elizabeth_akaha@hotmail.com>)
+	for <fares.benhalima@luhbots.de>; Wed, 07 Dec 2022 03:32:47 +0100
+Return-path: <elizabeth_akaha@hotmail.com>
+Envelope-to: work@luhbots.de
+Delivery-date: Wed, 07 Dec 2022 03:32:47 +0100
+Received: from mail-bn8nam04olkn2032.outbound.protection.outlook.com ([40.92.47.32]:36193 helo=NAM04-BN8-obe.outbound.protection.outlook.com)
+	by server.cpprotect3.de with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.95)
+	(envelope-from <elizabeth_akaha@hotmail.com>)
+	id 1p2kEl-005ynd-2Y
+	for work@luhbots.de;
+	Wed, 07 Dec 2022 03:32:47 +0100
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=b1bezgdCsLqce6H3svwjeVTuLIgklcDe5973JBH2dc3/ZZvLz8xVtFzOxm8ACCI47utdBE2EETLENmTTDvvapcZFJqKrZ+7NGHsZMj32Ku0Oa8PGCpHDKByqLUA63EcLmvN1Ow0i6gv95dx79Lsao56rYLZl7owQkAsnwOehZ/ekl5hP+V4/lhLhUGkcY2lgZOHtTzQNR/Og2KXXfOgTDE3/n/yhTE+m6CqeyoTvVuc5qizkbYxHCvFxtuYJSCwuvxLmYUsoGMXv48uFlw3Q7A6/ChPYBJ6NBWVy9bC1SBxZcuokmPhvwMIhJGit8w/ae/hFoQth6b+NHEJctmmeOg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=36QX94RXuiFzoGIGHYKYJEVt25qNMi/owmREVAdh08M=;
+ b=CGysoCpBSQGfpdbw4ZQKyx9M6CTUymCsH1++sKG1QNn7Hu14uLwCXQvY1E2HDwTbjNbTBYxfxQPkyQB3uZWejr85W2Tp9DNXOlR64ymVmOuCJMGl5TRacUolU7LVtLkTLs5WH33UXQcvRsCs3NMeppEQn8WOkrFe+bHQm4O2LGFLfgAomQbXwlzupQW7fgGOaEsydMXRDA5M0waPBB95oKN20WJJvEFgXKavHoWU0p2ypLEWjiZAIqynkcUHojfHnjL8idCADmqfMYeN281gSV36sAsijn+w67+LZcGua1szoBkzHTR/c+4Xo12LNuj003a4aejVgTT5cippZ6j/CQ==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;
+ dkim=none; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=36QX94RXuiFzoGIGHYKYJEVt25qNMi/owmREVAdh08M=;
+ b=toy8YmGr00ujqgzxYPygWGG0gBiYD8y3bTVehHyMfPVCjcxH6PxBsvKSni8s96lEfebVazdbij3HJAeuU6a8HJKv9gu1+yO1PbBsqrPpqsnLxC1k8WDfUQw7mLx4Zan4WBpjaC87hDJTtu3Ir8ibn/Cum7ftYNCG1ICm/OTbXH3c0Jt29UoJl7UWQ1PagTVfu6h3Cp9XuSfKNGA3jQLNi/KAaKggDQr7/MUrFcfznDPOHkmbMgtCqrEkJkGNRhqzUf3bVC/KlfRe0ffXsBqJsaZr4nsSH88Tqh1kknrJYxdwq9hLj6UrT+7pQqMqG+wA7pVFanqNZn/emSx7ef6mdA==
+Received: from BYAPR04MB5254.namprd04.prod.outlook.com (2603:10b6:a03:c2::26)
+ by CO6PR04MB7794.namprd04.prod.outlook.com (2603:10b6:303:13f::7) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5880.14; Wed, 7 Dec
+ 2022 02:32:34 +0000
+Received: from BYAPR04MB5254.namprd04.prod.outlook.com
+ ([fe80::814b:e6e4:ce3e:df98]) by BYAPR04MB5254.namprd04.prod.outlook.com
+ ([fe80::814b:e6e4:ce3e:df98%4]) with mapi id 15.20.5880.014; Wed, 7 Dec 2022
+ 02:32:34 +0000
+From: elizabeth akah <elizabeth_akaha@hotmail.com>
+Subject: Hallo Lieber
+Thread-Topic: Hallo Lieber
+Thread-Index: AQHZCeQjqe6n51DLI0eMs78PeIhjHw==
+Date: Wed, 7 Dec 2022 02:32:34 +0000
+Message-ID:
+ <BYAPR04MB5254B24FD5DF2FCF8EACB54F921A9@BYAPR04MB5254.namprd04.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+msip_labels:
+x-tmn: [fbpFjsDr3nqjUJd6HJYBF3ThMQi1qGdW6wHfizvrm0w=]
+x-ms-publictraffictype: Email
+x-ms-traffictypediagnostic: BYAPR04MB5254:EE_|CO6PR04MB7794:EE_
+x-ms-office365-filtering-correlation-id: 87457ed6-4fae-417d-34e8-08dad7fb4c7c
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ qhpkzCL31qcUljaJAPYbphxFpZmwHUXHPpvzuLe3VQ1/h0aa/lLZH2Tc0y0/pChuSRel4j/z2VWLyqNEKTXVPauFcGllkIFT4qMZb8gF7//vk9QGz5Q3IeNOjk6QzW36PxE57nV3mRauZRJqULjRzYrU9NhYGcOU5LxKkhz7f4k9kz5nu4WnQz1aYeeA+69Mw8anTbgDXVAXvX2ZgjThtUKNk7vrPAL5Cm7Hk5xz0YlqbrfUgvDQeT/CShqnlOd7kIVKDEANHHr32ukz9MOwA/Us80dVov6AOL4vlYBWiN9PV9PBg7zQCJiM0/7JDGkN7migRoZXKSUbadiQ/dIdnmIe9bkwD+jEwPn+cobtPWt/qK5BuPZMwmWtrmBzVAmgGoOdxoYYp+TtNIKPix2jBUfMDXKIbxJ8JALRMyTouYskvX1o6C/dLw1aYaI0AmCzws7zvk4aqF2fCJXn8ninXGdiChqd1EeyiBrz9KzvnEDfDJL87l6nq9Hu3quPiRjUJl3WqPzf8creSXm4qm7LxwKxtthjEQjyM2COV1ziQ/fkEpV5CIQJN+uon0vtPUz5lUUYRJlX6tPgn2cF0ZKC7jl6lJ49gxi7UCLkLJkMFDk=
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?iso-8859-1?Q?KVyp90xISvEa9ZBZybyi5JX0aFidABAJrvTOF08q2iGupAntjKQcDs7yXm?=
+ =?iso-8859-1?Q?C1blaHpMKI1xnu7k7YGKcG3+1/oF0g6pzqmLne0dn7/NCgHq7SY27E5UBJ?=
+ =?iso-8859-1?Q?j1cGaIYj6w5aKO29Dzr5f14P4kmnrA44nV6WPsSBy+mC1clNmqJyyMHs18?=
+ =?iso-8859-1?Q?YtnlwBPchXh1eeTKgGq0jLtHWtJhBThtj85U9mVfAnjh8OpuscD1/QMH5x?=
+ =?iso-8859-1?Q?U+rtaz5CszHGeJRMEa8H2CYQvVmMWlcp777+6KcYOfjqF4J+rmiPN4/hop?=
+ =?iso-8859-1?Q?GCoIKVyPDvySM9RViWunJbQ6zImdb7qlAdRgdGBQfQ9ZFhUAYx4XMV/3N1?=
+ =?iso-8859-1?Q?tAtqbXTnu9AXYxObirr/NgL3VblxKwhJydy90IT1JU74Fvcgx3R36SD4S6?=
+ =?iso-8859-1?Q?fSn4vnNfjYqp2oobgZxQrfYPo4FT5K3/+1Gahc6GzqRLqoS4gdnE7MNxBI?=
+ =?iso-8859-1?Q?tD9srJfagqiFzQs5j7hlgfnqjsnKRyvHe4cIj4VWjcxLDul2tLr3BAaokR?=
+ =?iso-8859-1?Q?8+IqR607/rjnqpV6u90QqFarP8JBX6eMABbroU494cPCDYXcDcLO0F7uLR?=
+ =?iso-8859-1?Q?QXNk1y9s+6qNb9AG8fZ03TgMKKoqifCgbdyJHoGsF5obHuUX7txCa1H/A+?=
+ =?iso-8859-1?Q?7/+a6HTOemMbgwNBcl2aoXMC2Mg61hjBGm5+vXD3HpbiamfyDkJHVPZgtf?=
+ =?iso-8859-1?Q?KENBBPSuNZSMPwlw9ndCyCW20MjDoPobO3k7KgE0C5rI0h5QBqtON17g2W?=
+ =?iso-8859-1?Q?SKXP6MYnHR3QuV5QSmqNlBfbGwqCAdkPhXs5GQkgSrTSdl2d15laRCJsj+?=
+ =?iso-8859-1?Q?zw8svyZ1/S7qvR3BXapQ3viFYMLhdNO7zQr4nF6iprGfIRNXoO7TwmrUre?=
+ =?iso-8859-1?Q?Ep5i5NMUpfbyWtK0WpwdxYyc76hJFuQ5GTEJXL6+kYYXNOjTTbrQ2h8v/g?=
+ =?iso-8859-1?Q?sPPqWm0K33+yUvHgU5FHNFe6sZWXvYnQNTp5aT+qg/RDRS2nyoD8ejmQ7B?=
+ =?iso-8859-1?Q?B31FVhm2mIqgEXkqlhsQ6SB8C8PXo1N7FSo5dwtzMoSo0I4csDLVaekYCx?=
+ =?iso-8859-1?Q?HOtLxI/jKtJzJf6qhD+0Q6ya7/rIrD6K4w8gMvKWq+FeZA9eKm/7A+svxu?=
+ =?iso-8859-1?Q?je8JJxLfSTqMH+l7yUq0IKmckF2B8fg0oxH81oPT5Ca4swfOIemTpnJjSE?=
+ =?iso-8859-1?Q?kNs6z3i4w84OJyl5qoLcNHw6ie+jNJCZ8PbRHFNH9/vGXV10PY9QdFZqHv?=
+ =?iso-8859-1?Q?L4saGnYl1ViWAcZzAxT+2sHsCvlVBBLvc8/2db58QRYv8MGaR0rAWipPEt?=
+ =?iso-8859-1?Q?oGBdBrXYV9sJOzm4arRReJd9RQ=3D=3D?=
+Content-Type: multipart/alternative;
+	boundary="_000_BYAPR04MB5254B24FD5DF2FCF8EACB54F921A9BYAPR04MB5254namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: sct-15-20-4755-11-msonline-outlook-edb50.templateTenant
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: BYAPR04MB5254.namprd04.prod.outlook.com
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-CrossTenant-Network-Message-Id: 87457ed6-4fae-417d-34e8-08dad7fb4c7c
+X-MS-Exchange-CrossTenant-originalarrivaltime: 07 Dec 2022 02:32:34.5693
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-rms-persistedconsumerorg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CO6PR04MB7794
+X-Spam-Status: No, score=3.9
+X-Spam-Score: 39
+X-Spam-Bar: +++
+X-Ham-Report: Spam detection software, running on the system "server.cpprotect3.de",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hallo Lieber Wie geht es dir ich hoffe es geht dir gut? Es
+    ist mir eine Freude, Ihnen nach Überlegung mit aller Zuversicht zu schreiben,
+    da ich Sie zunächst nicht von Angesicht zu Angesicht sehen kann; Ich brauche
+    deine Hilfe, bitte. Ich bin Miss Elizabeth [...] 
+ Content analysis details:   (3.9 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  1.2 MISSING_HEADERS        Missing To: header
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider
+                             [elizabeth_akaha[at]hotmail.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  2.9 MALFORMED_FREEMAIL     Bad headers on message from free email
+                             service
+  0.0 T_KAM_HTML_FONT_INVALID Test for Invalidly Named or Formatted
+                             Colors in HTML
+  0.0 LOTS_OF_MONEY          Huge... sums of money
+  0.0 T_MONEY_PERCENT        X% of a lot of money for you
+X-Spam-Flag: NO
+
+--_000_BYAPR04MB5254B24FD5DF2FCF8EACB54F921A9BYAPR04MB5254namp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo Lieber
+
+Wie geht es dir ich hoffe es geht dir gut?
+
+Es ist mir eine Freude, Ihnen nach =DCberlegung mit aller Zuversicht zu sch=
+reiben, da ich Sie zun=E4chst nicht von Angesicht zu Angesicht sehen kann; =
+Ich brauche deine Hilfe, bitte. Ich bin Miss Elizabeth Aka, die einzige Toc=
+hter des verstorbenen Mr. Augustine Aka aus der Elfenbeink=FCste. (Ich bin =
+22 Jahre alt.) Mein Vater war vor seinem fr=FChen Tod ein Haftpflichtkakao-=
+ und Goldh=E4ndler in Abidjan an der Elfenbeink=FCste. Nach seiner Gesch=E4=
+ftsreise nach S=FCdkorea, um =FCber ein Kakao- und Goldgesch=E4ft zu verhan=
+deln, das er in S=FCdkorea investieren wollte, wurde er eine Woche nach sei=
+ner R=FCckkehr aus S=FCdkorea nicht krank und starb f=FCnf Tage sp=E4ter in=
+ einem Privatkrankenhaus. An diesem schicksalhaften Nachmittag wusste ich n=
+icht, dass mein Vater mich verlassen w=FCrde, nachdem ich zuvor meine Mutte=
+r verloren hatte, als ich ein Baby war, aber bevor er den Geist aufgab, war=
+ es, als ob er wusste, dass er sterben w=FCrde. Mein Vater (m=F6ge seine Se=
+ele in vollkommenem Frieden ruhen) rief mich an sein Bett und sagte mir, da=
+ss er die Summe von (6.800.000,00 $) Sechs Millionen achthunderttausend US-=
+Dollar auf einer Bank hier in der Elfenbeink=FCste hinterlegt hat.
+
+Mein verstorbener Vater sagte, dass das Geld f=FCr sein Kakao- und Goldgesc=
+h=E4ft bestimmt sei, das er in S=FCdkorea aufbauen wollte, laut meinem Vate=
+r hat er das Geld auf ein festes Zwischenkonto unter meinem Namen als n=E4c=
+hster Verwandter eingezahlt, er wies mich an, zu suchen f=FCr einen zuverl=
+=E4ssigen und vertrauensw=FCrdigen Gesch=E4ftspartner f=FCr meine lebenslan=
+ge Investition im Ausland. Jetzt ist es mir gelungen, hier in Abidjan, Elfe=
+nbeink=FCste, die Einzahlungsdokumente und die Bank ausfindig zu machen, wo=
+ dieses Geld ist. Aufgrund des politischen Problems in meinem Land Elfenbei=
+nk=FCste suche ich nun Ihre Hilfe, um dieses Geld aus meinem Land Elfenbein=
+k=FCste auf Ihr Konto im Ausland zu =FCberweisen, damit wir es in sinnvolle=
+ und lukrative Gesch=E4fte in Ihrem Land investieren k=F6nnen denn das ist =
+meine einzige Hoffnung im Leben. Ich bin bereit, Ihnen 25% des Gesamtfonds =
+anzubieten, wenn Sie mir nur aus meiner gegenw=E4rtigen misslichen Lage hel=
+fen k=F6nnen.
+
+Ich suche Ihre Hilfe auf folgenden Wegen:
+
+(1.) Bereitstellung eines Bankkontos, auf das dieses Geld =FCberwiesen werd=
+en kann.
+
+(2.) Vorkehrungen zu treffen, dass ich nach erfolgreicher =DCberweisung die=
+ses Geldes auf Ihr Konto in Ihr Land komme, um zu kommen und mich weiterzub=
+ilden.
+
+(3.) Um dieses Geld in ein profitables Gesch=E4ft zu investieren, da ich er=
+st 22 Jahre alt bin und nicht viel Ahnung vom Gesch=E4ft habe.
+
+Wenn Sie damit einverstanden sind, mir zu helfen, antworten Sie mir bitte, =
+damit ich Ihnen weitere Informationen gebe und ich werde auch mein Bild sca=
+nnen und Ihnen zusenden, damit Sie wissen, wer ich bin.
+
+Bitte antworten Sie mir, damit ich Ihnen mehr Details gebe
+
+Danke und sei gesegnet.
+
+Dein
+
+Elizabeth
+
+--_000_BYAPR04MB5254B24FD5DF2FCF8EACB54F921A9BYAPR04MB5254namp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div class=3D"elementToProof"><span style=3D"font-family: Calibri, Helvetic=
+a, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); background-color: rgb(=
+255, 255, 255);">
+<div class=3D"elementToProof" style=3D"font-size:14px;font-family:&quot;Seg=
+oe UI&quot;, &quot;Segoe UI Web (West European)&quot;, &quot;Segoe UI&quot;=
+, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, sa=
+ns-serif;margin:0px">
+<span style=3D"font-size:12pt;font-family:Calibri, Helvetica, sans-serif;ma=
+rgin:0px;background-color:rgb(255, 255, 255)">
+<div style=3D"font-size:14px;font-family:&quot;Segoe UI&quot;, &quot;Segoe =
+UI Web (West European)&quot;, &quot;Segoe UI&quot;, -apple-system, BlinkMac=
+SystemFont, Roboto, &quot;Helvetica Neue&quot;, sans-serif;margin:0px">
+<span style=3D"font-size:12pt;font-family:Calibri, Helvetica, sans-serif;ma=
+rgin:0px;background-color:rgb(255, 255, 255)">
+<div style=3D"font-size:14px;font-family:&quot;Segoe UI&quot;, &quot;Segoe =
+UI Web (West European)&quot;, &quot;Segoe UI&quot;, -apple-system, BlinkMac=
+SystemFont, Roboto, &quot;Helvetica Neue&quot;, sans-serif;margin:0px">
+<span style=3D"font-size:12pt;font-family:Calibri, Helvetica, sans-serif;ma=
+rgin:0px;background-color:rgb(255, 255, 255)">
+<div style=3D"font-size:14px;font-family:&quot;Segoe UI&quot;, &quot;Segoe =
+UI Web (West European)&quot;, &quot;Segoe UI&quot;, -apple-system, BlinkMac=
+SystemFont, Roboto, &quot;Helvetica Neue&quot;, sans-serif;margin:0px">
+<span style=3D"font-size:12pt;font-family:Calibri, Helvetica, sans-serif;ma=
+rgin:0px;background-color:rgb(255, 255, 255)">
+<div style=3D"font-size:14px;font-family:&quot;Segoe UI&quot;, &quot;Segoe =
+UI Web (West European)&quot;, &quot;Segoe UI&quot;, -apple-system, BlinkMac=
+SystemFont, Roboto, &quot;Helvetica Neue&quot;, sans-serif;margin:0px">
+<span style=3D"font-size:12pt;font-family:Calibri, Helvetica, sans-serif;ma=
+rgin:0px;background-color:rgb(255, 255, 255)"><span style=3D"font-size:13.3=
+2px;font-family:Arial, Helvetica, sans-serif;margin:0px;background-color:wh=
+ite !important"><font size=3D"3" class=3D"ContentPasted0 elementToProof">Ha=
+llo
+ Lieber</font></span><span style=3D"margin:0px;background-color:rgb(255, 25=
+5, 255);display:inline !important"></span>
+<div style=3D"font-size:13.32px;font-family:Arial, Helvetica, sans-serif;ma=
+rgin:0px;background-color:white !important" class=3D"elementToProof">
+<font size=3D"3"><br class=3D"ContentPasted0">
+</font></div>
+<div style=3D"font-size:13.32px;font-family:Arial, Helvetica, sans-serif;ma=
+rgin:0px;background-color:white !important">
+<font size=3D"3" class=3D"ContentPasted0">Wie geht es dir ich hoffe es geht=
+ dir gut?</font></div>
+<div style=3D"font-size:13.32px;font-family:Arial, Helvetica, sans-serif;ma=
+rgin:0px;background-color:white !important">
+<font size=3D"3" class=3D"ContentPasted0">&nbsp;</font></div>
+<div style=3D"font-size:13.32px;font-family:Arial, Helvetica, sans-serif;ma=
+rgin:0px;background-color:white !important">
+<font size=3D"3" class=3D"ContentPasted0">Es ist mir eine Freude, Ihnen nac=
+h =DCberlegung mit aller Zuversicht zu schreiben, da ich Sie zun=E4chst nic=
+ht von Angesicht zu Angesicht sehen kann; Ich brauche deine Hilfe, bitte. I=
+ch bin Miss Elizabeth Aka, die einzige Tochter
+ des verstorbenen Mr. Augustine Aka aus der Elfenbeink=FCste. (Ich bin 22 J=
+ahre alt.) Mein Vater war vor seinem fr=FChen Tod ein Haftpflichtkakao- und=
+ Goldh=E4ndler in Abidjan an der Elfenbeink=FCste. Nach seiner Gesch=E4ftsr=
+eise nach S=FCdkorea, um =FCber ein Kakao- und
+ Goldgesch=E4ft zu verhandeln, das er in S=FCdkorea investieren wollte, wur=
+de er eine Woche nach seiner R=FCckkehr aus S=FCdkorea nicht krank und star=
+b f=FCnf Tage sp=E4ter in einem Privatkrankenhaus. An diesem schicksalhafte=
+n Nachmittag wusste ich nicht, dass mein Vater
+ mich verlassen w=FCrde, nachdem ich zuvor meine Mutter verloren hatte, als=
+ ich ein Baby war, aber bevor er den Geist aufgab, war es, als ob er wusste=
+, dass er sterben w=FCrde. Mein Vater (m=F6ge seine Seele in vollkommenem F=
+rieden ruhen) rief mich an sein Bett und
+ sagte mir, dass er die Summe von (6.800.000,00 $) Sechs Millionen achthund=
+erttausend US-Dollar auf einer Bank hier in der Elfenbeink=FCste hinterlegt=
+ hat.</font></div>
+<div style=3D"font-size:13.32px;font-family:Arial, Helvetica, sans-serif;ma=
+rgin:0px;background-color:white !important">
+<font size=3D"3" class=3D"ContentPasted0">&nbsp;</font></div>
+<div style=3D"font-size:13.32px;font-family:Arial, Helvetica, sans-serif;ma=
+rgin:0px;background-color:white !important">
+<font size=3D"3" class=3D"ContentPasted0">Mein verstorbener Vater sagte, da=
+ss das Geld f=FCr sein Kakao- und Goldgesch=E4ft bestimmt sei, das er in S=
+=FCdkorea aufbauen wollte, laut meinem Vater hat er das Geld auf ein festes=
+ Zwischenkonto unter meinem Namen als n=E4chster
+ Verwandter eingezahlt, er wies mich an, zu suchen f=FCr einen zuverl=E4ssi=
+gen und vertrauensw=FCrdigen Gesch=E4ftspartner f=FCr meine lebenslange Inv=
+estition im Ausland. Jetzt ist es mir gelungen, hier in Abidjan, Elfenbeink=
+=FCste, die Einzahlungsdokumente und die Bank
+ ausfindig zu machen, wo dieses Geld ist. Aufgrund des politischen Problems=
+ in meinem Land Elfenbeink=FCste suche ich nun Ihre Hilfe, um dieses Geld a=
+us meinem Land Elfenbeink=FCste auf Ihr Konto im Ausland zu =FCberweisen, d=
+amit wir es in sinnvolle und lukrative
+ Gesch=E4fte in Ihrem Land investieren k=F6nnen denn das ist meine einzige =
+Hoffnung im Leben. Ich bin bereit, Ihnen 25% des Gesamtfonds anzubieten, we=
+nn Sie mir nur aus meiner gegenw=E4rtigen misslichen Lage helfen k=F6nnen.<=
+/font></div>
+<div style=3D"font-size:13.32px;font-family:Arial, Helvetica, sans-serif;ma=
+rgin:0px;background-color:white !important">
+<font size=3D"3" class=3D"ContentPasted0">&nbsp;</font></div>
+<div style=3D"font-size:13.32px;font-family:Arial, Helvetica, sans-serif;ma=
+rgin:0px;background-color:white !important">
+<font size=3D"3" class=3D"ContentPasted0">Ich suche Ihre Hilfe auf folgende=
+n Wegen:</font></div>
+<div style=3D"font-size:13.32px;font-family:Arial, Helvetica, sans-serif;ma=
+rgin:0px;background-color:white !important">
+<font size=3D"3" class=3D"ContentPasted0">&nbsp;</font></div>
+<div style=3D"font-size:13.32px;font-family:Arial, Helvetica, sans-serif;ma=
+rgin:0px;background-color:white !important">
+<font size=3D"3" class=3D"ContentPasted0">(1.) Bereitstellung eines Bankkon=
+tos, auf das dieses Geld =FCberwiesen werden kann.</font></div>
+<div style=3D"font-size:13.32px;font-family:Arial, Helvetica, sans-serif;ma=
+rgin:0px;background-color:white !important">
+<font size=3D"3" class=3D"ContentPasted0">&nbsp;</font></div>
+<div style=3D"font-size:13.32px;font-family:Arial, Helvetica, sans-serif;ma=
+rgin:0px;background-color:white !important">
+<font size=3D"3" class=3D"ContentPasted0">(2.) Vorkehrungen zu treffen, das=
+s ich nach erfolgreicher =DCberweisung dieses Geldes auf Ihr Konto in Ihr L=
+and komme, um zu kommen und mich weiterzubilden.</font></div>
+<div style=3D"font-size:13.32px;font-family:Arial, Helvetica, sans-serif;ma=
+rgin:0px;background-color:white !important">
+<font size=3D"3" class=3D"ContentPasted0">&nbsp;</font></div>
+<div style=3D"font-size:13.32px;font-family:Arial, Helvetica, sans-serif;ma=
+rgin:0px;background-color:white !important">
+<font size=3D"3" class=3D"ContentPasted0">(3.) Um dieses Geld in ein profit=
+ables Gesch=E4ft zu investieren, da ich erst 22 Jahre alt bin und nicht vie=
+l Ahnung vom Gesch=E4ft habe.</font></div>
+<div style=3D"font-size:13.32px;font-family:Arial, Helvetica, sans-serif;ma=
+rgin:0px;background-color:white !important">
+<font size=3D"3" class=3D"ContentPasted0">&nbsp;</font></div>
+<div style=3D"font-size:13.32px;font-family:Arial, Helvetica, sans-serif;ma=
+rgin:0px;background-color:white !important">
+<font size=3D"3" class=3D"ContentPasted0">Wenn Sie damit einverstanden sind=
+, mir zu helfen, antworten Sie mir bitte, damit ich Ihnen weitere Informati=
+onen gebe und ich werde auch mein Bild scannen und Ihnen zusenden, damit Si=
+e wissen, wer ich bin.</font></div>
+<div style=3D"font-size:13.32px;font-family:Arial, Helvetica, sans-serif;ma=
+rgin:0px;background-color:white !important">
+<font size=3D"3" class=3D"ContentPasted0">&nbsp;</font></div>
+<div style=3D"font-size:13.32px;font-family:Arial, Helvetica, sans-serif;ma=
+rgin:0px;background-color:white !important">
+<font size=3D"3" class=3D"ContentPasted0">Bitte antworten Sie mir, damit ic=
+h Ihnen mehr Details gebe</font></div>
+<div style=3D"font-size:13.32px;font-family:Arial, Helvetica, sans-serif;ma=
+rgin:0px;background-color:white !important">
+<font size=3D"3" class=3D"ContentPasted0">&nbsp;</font></div>
+<div style=3D"font-size:13.32px;font-family:Arial, Helvetica, sans-serif;ma=
+rgin:0px;background-color:white !important">
+<font size=3D"3" class=3D"ContentPasted0">Danke und sei gesegnet.</font></d=
+iv>
+<div style=3D"font-size:13.32px;font-family:Arial, Helvetica, sans-serif;ma=
+rgin:0px;background-color:white !important">
+<font size=3D"3" class=3D"ContentPasted0">&nbsp;</font></div>
+<div style=3D"font-size:13.32px;font-family:Arial, Helvetica, sans-serif;ma=
+rgin:0px;background-color:white !important">
+<font size=3D"3" class=3D"ContentPasted0">Dein</font></div>
+<div style=3D"font-size:13.32px;font-family:Arial, Helvetica, sans-serif;ma=
+rgin:0px;background-color:white !important">
+<font size=3D"3"><br class=3D"ContentPasted0">
+</font></div>
+</span></div>
+</span></div>
+</span></div>
+</span></div>
+</span></div>
+</span></div>
+<div class=3D"elementToProof"><span style=3D"font-family: Calibri, Helvetic=
+a, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); background-color: rgb(=
+255, 255, 255);"><span class=3D"elementToProof" style=3D"font-size:14px;fon=
+t-family:&quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&quot;, &q=
+uot;Segoe UI&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvet=
+ica Neue&quot;, sans-serif;margin:0px"><span style=3D"font-size:12pt;font-f=
+amily:Calibri, Helvetica, sans-serif;margin:0px;background-color:rgb(255, 2=
+55, 255)"><span style=3D"font-size:14px;font-family:&quot;Segoe UI&quot;, &=
+quot;Segoe UI Web (West European)&quot;, &quot;Segoe UI&quot;, -apple-syste=
+m, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, sans-serif;margi=
+n:0px"><span style=3D"font-size:12pt;font-family:Calibri, Helvetica, sans-s=
+erif;margin:0px;background-color:rgb(255, 255, 255)"><span style=3D"font-si=
+ze:14px;font-family:&quot;Segoe UI&quot;, &quot;Segoe UI Web (West European=
+)&quot;, &quot;Segoe UI&quot;, -apple-system, BlinkMacSystemFont, Roboto, &=
+quot;Helvetica Neue&quot;, sans-serif;margin:0px"><span style=3D"font-size:=
+12pt;font-family:Calibri, Helvetica, sans-serif;margin:0px;background-color=
+:rgb(255, 255, 255)"><span style=3D"font-size:14px;font-family:&quot;Segoe =
+UI&quot;, &quot;Segoe UI Web (West European)&quot;, &quot;Segoe UI&quot;, -=
+apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, sans-=
+serif;margin:0px"><span style=3D"font-size:12pt;font-family:Calibri, Helvet=
+ica, sans-serif;margin:0px;background-color:rgb(255, 255, 255)"><span style=
+=3D"font-size:14px;font-family:&quot;Segoe UI&quot;, &quot;Segoe UI Web (We=
+st European)&quot;, &quot;Segoe UI&quot;, -apple-system, BlinkMacSystemFont=
+, Roboto, &quot;Helvetica Neue&quot;, sans-serif;margin:0px"><span style=3D=
+"font-size:12pt;font-family:Calibri, Helvetica, sans-serif;margin:0px;backg=
+round-color:rgb(255, 255, 255)"><span style=3D"font-size:13.32px;font-famil=
+y:Arial, Helvetica, sans-serif;margin:0px;background-color:white !important=
+"><font size=3D"3" class=3D"ContentPasted0">Elizabeth</font></span></span><=
+/span></span></span></span></span></span></span></span></span><br>
+</span></div>
+</body>
+</html>
+
+--_000_BYAPR04MB5254B24FD5DF2FCF8EACB54F921A9BYAPR04MB5254namp_--

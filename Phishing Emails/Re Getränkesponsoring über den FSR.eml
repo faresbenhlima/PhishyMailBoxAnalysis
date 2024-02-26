@@ -1,0 +1,150 @@
+Return-Path: <noah.lindwedel@fet.uni-hannover.de>
+Received: from server.cpprotect3.de
+	by server.cpprotect3.de with LMTP
+	id GJVZIUacgmVndAMAQhmUyQ
+	(envelope-from <noah.lindwedel@fet.uni-hannover.de>); Wed, 20 Dec 2023 08:48:22 +0100
+Return-path: <noah.lindwedel@fet.uni-hannover.de>
+Envelope-to: mail@luhbots.de
+Delivery-date: Wed, 20 Dec 2023 08:48:22 +0100
+Received: from mailout1n.rrzn.uni-hannover.de ([130.75.2.107]:45818)
+	by server.cpprotect3.de with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.96.2)
+	(envelope-from <noah.lindwedel@fet.uni-hannover.de>)
+	id 1rFrJS-0010Yd-0w
+	for mail@luhbots.de;
+	Wed, 20 Dec 2023 08:48:22 +0100
+Received: from [192.168.1.50] (hp21.hochpass.uni-hannover.de [130.75.81.221])
+	(using TLSv1.3 with cipher TLS_AES_128_GCM_SHA256 (128/128 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mailout1n.rrzn.uni-hannover.de (Postfix) with ESMTPSA id E3A8CF1;
+	Wed, 20 Dec 2023 08:47:36 +0100 (CET)
+Message-ID: <bc5282b3-f512-425b-a9a2-55e060d2f712@fet.uni-hannover.de>
+Date: Wed, 20 Dec 2023 08:47:35 +0100
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+Subject: =?UTF-8?Q?Re=3A_Getr=C3=A4nkesponsoring_=C3=BCber_den_FSR?=
+From: Noah Lindwedel <noah.lindwedel@fet.uni-hannover.de>
+To: chef@gatrobe.uni-hannover.de, verein@horsepower-hannover.de,
+ saalsprecher@hochpass.uni-hannover.de, info@makerlab-hannover.de,
+ chef@kammer.uni-hannover.de, saalsprecher@ad.uni-hannover.de,
+ mail@luhbots.de, honeypot@finf.uni-hannover.de
+References: <1b96d740-9672-479e-90ec-3abf69f13fed@fet.uni-hannover.de>
+ <637509c6-8849-485b-94df-050bec01cc5b@fet.uni-hannover.de>
+ <2ad5375f-9e36-4727-8be9-a165b9567314@fet.uni-hannover.de>
+Organization: FETEN
+In-Reply-To: <2ad5375f-9e36-4727-8be9-a165b9567314@fet.uni-hannover.de>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: clamav-milter 0.103.9 at mailout1n
+X-Virus-Status: Clean
+X-Spam-Status: No, score=-0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "server.cpprotect3.de",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Moin, ich hoffe, Ihr habt alle viel Spaß mit den gesponsorten
+    Dosen. Mittlerweile ist es an der Zeit WG-Held mal einige Bilder zukommen
+    zu lassen, dafür habe ich mal einen Seafile Ordner erstellt, unter w [...]
+    
+ Content analysis details:   (-0.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: uni-hannover.de]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 T_SCC_BODY_TEXT_LINE   No description available.
+X-Spam-Flag: NO
+
+Moin,
+
+ich hoffe, Ihr habt alle viel Spaß mit den gesponsorten Dosen.
+Mittlerweile ist es an der Zeit WG-Held mal einige Bilder zukommen zu 
+lassen, dafür habe ich mal einen Seafile Ordner erstellt, unter welchem 
+Ihr eure Bilder hochladen könnt.
+https://seafile.cloud.uni-hannover.de/u/d/d560dd74d84e4938a1ff/
+Macht das gerne auch zeitnah, damit das noch vor Weihnachten abgeschickt 
+werden kann.
+
+Grüße
+Noah
+
+
+
+Am 11.12.2023 um 12:11 schrieb Noah Lindwedel:
+> Moin an alle,
+>
+> Die Getränke sind heute angekommen, einige von euch haben Ihre Sachen 
+> schon abgeholt, der Rest kann sich bezüglich der Abholung gerne melden.
+> Bezüglich der Bilder haben ich im Anhang einmal das Briefing von 
+> WG-Held hinterlegt, bitte macht die Bilder dementsprechend und lasst 
+> sie mir zukommen.
+>
+> Viele Grüße
+> Noah
+>
+>
+>
+> Am 04.12.2023 um 16:19 schrieb Noah Lindwedel:
+>> So Leute,
+>>
+>> Die Getränke sind bestellt.
+>> Die Lieferung trifft am 11.12. irgendwann am Vormittag ein.
+>> Jeder der Getränke haben möchte, sollte also am Montag Vormittag auf 
+>> Zuruf bereitstehen, um sich seinen Anteil abzuholen. Dafür wäre es 
+>> super, wenn ich eine schnellere Kontaktmöglichkeit als Mail erhalten 
+>> kann.
+>> Solltet Ihr bis jetzt noch nicht auf die vorausgegangene Mail 
+>> reagiert haben, keine Angst, einfach vorbeikommen, wir haben denke 
+>> ich genug für alle.
+>> Bitte kurz auf diese Mail reagieren, damit ich weiß, wer sein Kram 
+>> abholt.
+>>
+>> Grüße an alle
+>> Noah
+>>
+>> Am 24.11.2023 um 11:28 schrieb Noah Lindwedel:
+>>> Moin zusammen,
+>>>
+>>> Über den Fachschaftsrat der Fakultät für Elektrotechnik und 
+>>> Informatik ist es gerade möglich von WG Held Drinks gesponsort zu 
+>>> bekommen. Dabei handelt es sich um SMIRNOFF ICE 10% und Tanqueray 0,0%.
+>>> Die Drinks sind für Weihnchtsfeiern, Geschenke oder generelle 
+>>> Weihnachtsaktionen gedacht.
+>>> Da die Mindestabnahmemenge bei 2120 Dosen liegt, würden wir gerne 
+>>> mit Gruppen/Vereinen/Institutionen unserer Fakultät zusammenlegen, 
+>>> damit nicht zu viele bestellt werden.
+>>>
+>>> Daher jetzt die Frage an euch: Würdet Ihr gerne etwas davon haben? 
+>>> Wenn ja welche Menge an Dosen schätzt Ihr als realistisch für euch ein?
+>>>
+>>> Da die Mengen begrenzt sind, würden wir uns über eine rasche Antwort 
+>>> freuen, da wir sonst leer ausgehen könnten.
+>>>
+>>> Gerne auch melden wenn Ihr kein Interesse habt, damit wir zumindest 
+>>> wissen, dass Ihr die Nachricht erhalten habt ;-)
+>>>
+>>> Wenn Ihr mit an der Bestellung teilnehmen wollt wäre es Top, wenn 
+>>> Ihr auch ein paar Bilder von der Aktion wofür die Dosen genutzt 
+>>> werden zurücksendet, da diese als Bedingung gestellt sind.
+>>>
+>>> Grüße
+>>> Noah
+>>>
+-- 
+Noah Lindwedel
+  
+Stv. Vorsitz
+Fachrat Elektro- und Energietechnik
+Leibniz Universität Hannover
+
+Mail: noah.lindwedel@fet.uni-hannover.de
+Website: fet.uni-hannover.de
+Adresse: Appelstraße 34, 30167 Hannover
+

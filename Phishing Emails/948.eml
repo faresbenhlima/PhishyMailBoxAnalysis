@@ -1,0 +1,103 @@
+Return-Path: <fdekyiryna@gmail.com>
+Delivered-To: fares.benhalima@luhbots.de
+Received: from server.cpprotect3.de
+	by server.cpprotect3.de with LMTP
+	id iAQzLDMkZ2WyLQMAQhmUyQ
+	(envelope-from <fdekyiryna@gmail.com>)
+	for <fares.benhalima@luhbots.de>; Wed, 29 Nov 2023 12:44:51 +0100
+Return-path: <fdekyiryna@gmail.com>
+Envelope-to: mail@luhbots.de
+Delivery-date: Wed, 29 Nov 2023 12:44:51 +0100
+Received: from mail-ej1-f53.google.com ([209.85.218.53]:50269)
+	by server.cpprotect3.de with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.96.2)
+	(envelope-from <fdekyiryna@gmail.com>)
+	id 1r8Izj-0008Kf-0k
+	for mail@luhbots.de;
+	Wed, 29 Nov 2023 12:44:49 +0100
+Received: by mail-ej1-f53.google.com with SMTP id a640c23a62f3a-a02ba1f500fso947386066b.0
+        for <mail@luhbots.de>; Wed, 29 Nov 2023 03:44:21 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1701258241; x=1701863041; darn=luhbots.de;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=wpn90T7AUJDi5k95171fYk8z5Q2wVVE1RdJc/hZOEh4=;
+        b=ew/6/RRyxxut48CuwSspggJMQTJyYiUwM8xAqLn0T5pLaAypQZ10KVVhbkgTyZ1e9n
+         v2dmoihh9rFQPe7Up3/9LBMI+Y06SctUx5eO6PT7LJ4ROWNMyK0P9nrgIxK1fjsWNKpu
+         Vv6r/h30Ev0z49BLZa0lCwkLEC2sXR3hyv+NQkgHmQQQlsqYBWjKLJJZWc2/EcgEch8Q
+         k3LLs+8DcMIIkEAveCEhShFFiI4zgRA9Bx2JXbXUnRuLg07tL2+Oiw79U8ZMTKdUgrJo
+         lUDxHjtmun8V/K+bCIxNdfjOzfF4eMLYyz0/GUKhaHl3m6eQBnE4Qs5aLaf5Hr1dHxMf
+         pdIQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1701258241; x=1701863041;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=wpn90T7AUJDi5k95171fYk8z5Q2wVVE1RdJc/hZOEh4=;
+        b=P+8jYqxKAS0v4EG3i8zG4yF5Hjxk4FLd/yBizfikd1iH/CNLlWrROMeu6n36wZUEd7
+         ceR5Y58aK22tJOWcFAzc+IYmqT4leYYQmi+Ht5NiE+9pFNqP9cC5c9+3CwZCHhzPcSM4
+         +cmd0IcnotzTfoHCUV1c3kKhye4bYt8A03uHRACEAcQg1Xlk/vfvSBVjyi8h98S4skoh
+         fqbAXhFMpaGvsyQduwzgImzo8SppiHZf8j54533T809sMhrQeAv3kSIL2Bi9/5uU6NK4
+         T+gxeSjmD011ZFqdjSWaNsqpSwcCPXVw7q2a/Od0PUBDuIKegstNaZorRhk8Gds3PKZp
+         NjJA==
+X-Gm-Message-State: AOJu0Yyouw2DZ1ufRX35D+8Y5ZewoTk70orbsyR3ZkSwUkJ6yqFc8ka4
+	WlL19EpuDTkVm/8hwvq82a4sZNDgRFnu4wc2LZ4=
+X-Google-Smtp-Source: AGHT+IEwyAKHE2VvTpASZtteVxblgtKkQ/dH+1u88mGEowwlYkojZORifD8SRXqeaXFISEHzPnXRmDbG23zoJAvN+1M=
+X-Received: by 2002:a17:906:224c:b0:a0d:31:b455 with SMTP id
+ 12-20020a170906224c00b00a0d0031b455mr8102275ejr.20.1701258241108; Wed, 29 Nov
+ 2023 03:44:01 -0800 (PST)
+MIME-Version: 1.0
+From: Iryna Fedyk <iirynaf49@gmail.com>
+Date: Wed, 29 Nov 2023 13:43:47 +0200
+Message-ID: <CAFXWZSgFzJcd9PA1OT8-ZnivW-5qOcyVZ0-+QxUdtH-Mn3o2Ng@mail.gmail.com>
+Subject: 
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="00000000000021f0ea060b490d4d"
+Bcc: mail@luhbots.de
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "server.cpprotect3.de",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hallo, Ich würde gerne bestätigen, ob Sie meine letzte Nachricht
+    erhalten haben Danke, Iryna 
+ Content analysis details:   (-0.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider
+                             [iirynaf49[at]gmail.com]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.0 T_SCC_BODY_TEXT_LINE   No description available.
+X-Spam-Flag: NO
+
+--00000000000021f0ea060b490d4d
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo,
+
+Ich w=C3=BCrde gerne best=C3=A4tigen, ob Sie meine letzte Nachricht erhalte=
+n haben
+
+Danke,
+Iryna
+
+--00000000000021f0ea060b490d4d
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hallo,<br><br>Ich w=C3=BCrde gerne best=C3=A4tigen, ob Sie=
+ meine letzte Nachricht erhalten haben<br><br>Danke,<br>Iryna<br></div>
+
+--00000000000021f0ea060b490d4d--

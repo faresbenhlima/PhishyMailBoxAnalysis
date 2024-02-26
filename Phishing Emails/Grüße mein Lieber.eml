@@ -1,0 +1,165 @@
+Return-Path: <leblancsangare186@gmail.com>
+Delivered-To: fares.benhalima@luhbots.de
+Received: from server.cpprotect3.de
+	by server.cpprotect3.de with LMTP
+	id KOMgH9kDd2W6RwEAQhmUyQ
+	(envelope-from <leblancsangare186@gmail.com>)
+	for <fares.benhalima@luhbots.de>; Mon, 11 Dec 2023 13:43:05 +0100
+Return-path: <leblancsangare186@gmail.com>
+Envelope-to: mail@luhbots.de
+Delivery-date: Mon, 11 Dec 2023 13:43:05 +0100
+Received: from mail-oi1-f177.google.com ([209.85.167.177]:47148)
+	by server.cpprotect3.de with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.96.2)
+	(envelope-from <leblancsangare186@gmail.com>)
+	id 1rCfcj-000afP-0o
+	for mail@luhbots.de;
+	Mon, 11 Dec 2023 13:43:05 +0100
+Received: by mail-oi1-f177.google.com with SMTP id 5614622812f47-3b9b90f8708so2761356b6e.2
+        for <mail@luhbots.de>; Mon, 11 Dec 2023 04:42:40 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1702298539; x=1702903339; darn=luhbots.de;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=w0SY1M1qrzMFvBEjB5nnK/2LQy8iczw4836Uj8npl2U=;
+        b=P1mfXVOCfDuyDYL+CUyExXND1VmPhl/Pej8jq7IA87+xXZKgKRaVyTgs4bQ0PpidTi
+         nWpQjQ04DpGRMOzR8ZhpDPfOjeRAL33hJ9q1f+462BCuitC08NdhOP3yo5PrdGMsjEkj
+         ZA8D9QdQiI9BR6FP9bH2iWO9Q0v2Mlje56OJk8Z1TliDLcsJ820GEEhJrqB8eXnpvEnA
+         K8j7W2zFMbXQAthYU8ezCJ3ytHMNduWedpDZoyGici4JVoC78p8bYR7VE3cFzQ4gMZIb
+         GSkotPRnl+f2ATdTchV6plSAyzhb0Cs3FLWSRM4eIyPb9MoQchSM0MASvaaZQiAgLn+Z
+         XJ5Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1702298539; x=1702903339;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=w0SY1M1qrzMFvBEjB5nnK/2LQy8iczw4836Uj8npl2U=;
+        b=ARpYOge5cI3AjIBGVucoIn0SLQzubJKjt/xmfb+p5jNw+5G1AndlfNn0cTpGNEhPS9
+         2HOcGr7gcK19SBJB0vhkAvs1/g1Y4XVIcJdm5ULoXOMnK3vafah54oIjJE5ESKPtJhI+
+         qXvOAACrnXf2pqrI6TEfh+8M26NGcqNrwrfrFWOrd+F3gqVWr0ZcNRrWtao2DWJrCEDo
+         0MQCSKze0oqCZahWUwx9O0VVTr2/gcylrVtiJknMcUmMs+J8NYiuNduMMi7aFVqnvQ30
+         jLoD0w7lO1m5Wg/KRh/o94xiTDlVXlB8dHI6E06jfFd8WZ0c2BC/z9ncw1KfAKHLaFz2
+         uYtg==
+X-Gm-Message-State: AOJu0Yz1PxvI8RA3dg8mYPsDmpPwyG3UYG1lO8VgMK48kKwOCJl9Cp1S
+	2VhjblNhrsUOR8y8dK4240oQRSR8TsT8Mq0UiFw=
+X-Google-Smtp-Source: AGHT+IGpZW5Disn8EKgilaC4pNP3ZeJ/dmbUEq8fMBi9WjuGHjZVzV5i89GvQ0npKy099SfIQ0QG17zCKqLMSRrLK1c=
+X-Received: by 2002:a05:6358:c304:b0:16e:5939:be with SMTP id
+ fk4-20020a056358c30400b0016e593900bemr1352933rwb.26.1702298538581; Mon, 11
+ Dec 2023 04:42:18 -0800 (PST)
+MIME-Version: 1.0
+From: Juliet Jonhson <JulietJonhson16@gmail.com>
+Date: Mon, 11 Dec 2023 12:42:06 +0000
+Message-ID: <CAPG0-iAegs7QqFu_tEE=kjGTogz+x7T-hj6=exr8ggnsSjYUCg@mail.gmail.com>
+Subject: =?UTF-8?Q?Gr=C3=BC=C3=9Fe_mein_Lieber?=
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="000000000000b1a4aa060c3b435d"
+Bcc: mail@luhbots.de
+X-Spam-Status: No, score=2.9
+X-Spam-Score: 29
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "server.cpprotect3.de",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Grüße mein Lieber Ich bin Frau Juliet Jonhson aus Abidjan,
+    Elfenbeinküste (Côte d'Ivoire). Ich bin ein 22-jähriges Mädchen, eine
+    Waise, weil ich keine Eltern habe. Meine Onkel drohen, mich wegen des Erbes,
+    das mein [...] 
+ Content analysis details:   (2.9 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends
+                             in digit
+                             [leblancsangare186[at]gmail.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider
+                             [julietjonhson16[at]gmail.com]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.0 LOTS_OF_MONEY          Huge... sums of money
+ -0.0 T_SCC_BODY_TEXT_LINE   No description available.
+  2.9 UNDISC_MONEY           Undisclosed recipients + money/fraud signs
+X-Spam-Flag: NO
+
+--000000000000b1a4aa060c3b435d
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Gr=C3=BC=C3=9Fe mein Lieber
+
+Ich bin Frau Juliet Jonhson aus Abidjan, Elfenbeink=C3=BCste (C=C3=B4te d'I=
+voire).
+Ich bin ein 22-j=C3=A4hriges M=C3=A4dchen, eine Waise, weil ich keine Elter=
+n habe.
+Meine Onkel drohen, mich wegen des Erbes, das mein Vater mir hinterlassen
+hat, zu t=C3=B6ten.
+
+Bitte, ich brauche Ihre aufrichtige Hilfe, ich habe (6.800.000,00
+US-Dollar) sechs Millionen achthunderttausend US-Dollar, die ich von meinem
+verstorbenen Vater geerbt habe, aber er hat das Geld auf ein
+Fest-/Suspensekonto bei einem der besten Unternehmen eingezahlt Bank hier
+in Abidjan,
+
+Im Einvernehmen mit der Bank sollte der Fonds auf ein ausl=C3=A4ndisches
+Bankkonto f=C3=BCr Investitionen im Ausland =C3=BCberwiesen werden, doch er=
+ verstarb,
+ohne den Fonds zu =C3=BCberweisen.
+
+Mein Vater hat bei der Einzahlung des Geldes meinen Namen als ihre einzige
+Tochter f=C3=BCr die n=C3=A4chsten Angeh=C3=B6rigen verwendet, und das Geld=
+ kann nur auf
+ein ausl=C3=A4ndisches Bankkonto =C3=BCberwiesen werden. Alles, was ich bra=
+uche, ist
+Ihre Ehrlichkeit als mein ausl=C3=A4ndischer Ratgeber und Ihre Hilfe bei de=
+r
+Anlage des Geldes und helfen Sie mir auch, meine Ausbildung in Ihrem Land
+fortzusetzen
+
+Bitte bekunden Sie Ihr Interesse, indem Sie mir zur=C3=BCckschreiben, wenn =
+Sie
+damit einverstanden sind, mich bei diesem Ziel zu unterst=C3=BCtzen.
+Anschlie=C3=9Fend werde ich Ihnen die erforderlichen Informationen zum weit=
+eren
+Vorgehen zukommen lassen und Ihnen anschlie=C3=9Fend 20 % des Gesamtbetrags=
+ f=C3=BCr
+Ihre Hilfe auszahlen die =C3=9Cberweisung, vielen Dank f=C3=BCr Ihr Anliege=
+n
+Dein
+Juliet Johnson
+
+--000000000000b1a4aa060c3b435d
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Gr=C3=BC=C3=9Fe mein Lieber<br><br>Ich bin Frau Juliet Jon=
+hson aus Abidjan, Elfenbeink=C3=BCste (C=C3=B4te d&#39;Ivoire). Ich bin ein=
+ 22-j=C3=A4hriges M=C3=A4dchen, eine Waise, weil ich keine Eltern habe. Mei=
+ne Onkel drohen, mich wegen des Erbes, das mein Vater mir hinterlassen hat,=
+ zu t=C3=B6ten.<br><br>Bitte, ich brauche Ihre aufrichtige Hilfe, ich habe =
+(6.800.000,00 US-Dollar) sechs Millionen achthunderttausend US-Dollar, die =
+ich von meinem verstorbenen Vater geerbt habe, aber er hat das Geld auf ein=
+ Fest-/Suspensekonto bei einem der besten Unternehmen eingezahlt Bank hier =
+in Abidjan,<br><br>Im Einvernehmen mit der Bank sollte der Fonds auf ein au=
+sl=C3=A4ndisches Bankkonto f=C3=BCr Investitionen im Ausland =C3=BCberwiese=
+n werden, doch er verstarb, ohne den Fonds zu =C3=BCberweisen.<br><br>Mein =
+Vater hat bei der Einzahlung des Geldes meinen Namen als ihre einzige Tocht=
+er f=C3=BCr die n=C3=A4chsten Angeh=C3=B6rigen verwendet, und das Geld kann=
+ nur auf ein ausl=C3=A4ndisches Bankkonto =C3=BCberwiesen werden. Alles, wa=
+s ich brauche, ist Ihre Ehrlichkeit als mein ausl=C3=A4ndischer Ratgeber un=
+d Ihre Hilfe bei der Anlage des Geldes und helfen Sie mir auch, meine Ausbi=
+ldung in Ihrem Land fortzusetzen<br><br>Bitte bekunden Sie Ihr Interesse, i=
+ndem Sie mir zur=C3=BCckschreiben, wenn Sie damit einverstanden sind, mich =
+bei diesem Ziel zu unterst=C3=BCtzen. Anschlie=C3=9Fend werde ich Ihnen die=
+ erforderlichen Informationen zum weiteren Vorgehen zukommen lassen und Ihn=
+en anschlie=C3=9Fend 20=C2=A0% des Gesamtbetrags f=C3=BCr Ihre Hilfe auszah=
+len die =C3=9Cberweisung, vielen Dank f=C3=BCr Ihr Anliegen<br>Dein<br>Juli=
+et Johnson</div>
+
+--000000000000b1a4aa060c3b435d--

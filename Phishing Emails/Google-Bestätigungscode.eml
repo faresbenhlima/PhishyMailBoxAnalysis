@@ -1,0 +1,158 @@
+Return-Path: <3GXfiYwcKBLYjknalhuckkcha.YkisknghqdXkpo.Za@identity-reachout.bounces.google.com>
+Received: from server.cpprotect3.de
+	by server.cpprotect3.de with LMTP
+	id KMbVE0h34mP7uj4AQhmUyQ
+	(envelope-from <3GXfiYwcKBLYjknalhuckkcha.YkisknghqdXkpo.Za@identity-reachout.bounces.google.com>); Tue, 07 Feb 2023 17:07:36 +0100
+Return-path: <3GXfiYwcKBLYjknalhuckkcha.YkisknghqdXkpo.Za@identity-reachout.bounces.google.com>
+Envelope-to: work@luhbots.de
+Delivery-date: Tue, 07 Feb 2023 17:07:36 +0100
+Received: from mail-il1-f197.google.com ([209.85.166.197]:55027)
+	by server.cpprotect3.de with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.95)
+	(envelope-from <3GXfiYwcKBLYjknalhuckkcha.YkisknghqdXkpo.Za@identity-reachout.bounces.google.com>)
+	id 1pPQVI-00HRFA-Ev
+	for work@luhbots.de;
+	Tue, 07 Feb 2023 17:07:36 +0100
+Received: by mail-il1-f197.google.com with SMTP id j25-20020a056e02219900b0031398da82efso8622384ila.21
+        for <work@luhbots.de>; Tue, 07 Feb 2023 08:07:11 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20210112;
+        h=to:from:subject:date:message-id:reachouttracker:mime-version:from
+         :to:cc:subject:date:message-id:reply-to;
+        bh=dS/AiUG0jEWxbn82pxTafnrTXngWPjC1sPkwTzrJzCE=;
+        b=gX5BSi/cQbLhFNge8zsuiGL2EGbtCk4uqquEfom8SwNPYIUKYb9C0w6aYVFaqK/FO1
+         erR25gtYwpIHXIt49QcXsjDKA83HYD3K3Oqmg+ZWpVV4oqd0zJD0//nl7MlZt2RbXWkB
+         huPMaI146nn50smEjbNXuHQcwUJa2EsKKFVlgu/tAI6hvcA0u8wMkaGNn/LwsuADmnG6
+         NBTbe3DG0sP5W9lP/CgC8OamO3BHa1Lyh+WGuqtfkUiUvq2hEpYiXJXFsiB/e4VXb8PX
+         5JbpqLWzR9TQNImswmka8sTSKClU/RavLje/QJFU8hs8FzrveOjXhRELNh3dZ9fIOiNn
+         OFhw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=to:from:subject:date:message-id:reachouttracker:mime-version
+         :x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;
+        bh=dS/AiUG0jEWxbn82pxTafnrTXngWPjC1sPkwTzrJzCE=;
+        b=rDa8DrF75qo+YKsRrL+KfLTRPL0zC01NX88pP0gBR3HngKxHSFPf+mjbeYs4i1qP1H
+         ODQWyo2K7HeGagPuSsTFPZAwxFFcGhSGSPJ8APJ1iTEC93WR4A1JCw54TP8raqvYbRlf
+         yoAF8zFL1i83N50T2BCcVqEKwUPiQ9q/aVSxO6PSQMSoQT5/NAVOGeRo/wkaHK4TJt2D
+         aE3sw9kUFhDUxDHF6athdk+q4mnE2k9Uu/ah1XXVsAdxC/WwxLOebSbpMk6guF4V0uv+
+         oCTlksDgHxwgVU12+WRk2kHf+cs5tDAYBufNuNRThQ7tjcH6v6dzpFhj4f9V6pycHjSU
+         Puig==
+X-Gm-Message-State: AO0yUKUC8TqaH3P9REwbRRekL/QwDVNwLU3UePhBIdvPPTJbwRtxRabH
+	4piYtWTZRGucqJy3fzMV4YocZTgqv0aBHW6jsdE376l+PSIJrmN3KBuydqjNG73p5BlLY3FCBk3
+	VDoqamvEUxad6jzubvw==
+X-Google-Smtp-Source: AK7set9TFKObDFOuOeVLdbQLhTVHhNuTOJ3Dt6KakHLOuwAsZ6FF3mHH/vJQabXVM6m/nCjcV/MGtZB4NqhxfRt8/g==
+MIME-Version: 1.0
+X-Received: by 2002:a6b:6407:0:b0:71b:3f4f:95f9 with SMTP id
+ t7-20020a6b6407000000b0071b3f4f95f9mr2510396iog.30.1675786009986; Tue, 07 Feb
+ 2023 08:06:49 -0800 (PST)
+ReachoutTracker: AZIG+Q6AWBPkq/RDARFgEu7W6TRtE9txHKAB/cZsv9vUXPQR7CVuvBuWB/rVrXtoQ0cOhmYJfSupLKe2Y8rO+I5pTWlnHg==
+Message-ID: <000000000000d88d7c05f41e556f@google.com>
+Date: Tue, 07 Feb 2023 16:06:50 +0000
+Subject: =?UTF-8?Q?Google=2DBest=C3=A4tigungscode?=
+From: Google <noreply@google.com>
+To: work@luhbots.de
+Content-Type: multipart/alternative; boundary="000000000000d88d6c05f41e556c"
+X-Spam-Status: No, score=-7.7
+X-Spam-Score: -76
+X-Spam-Bar: -------
+X-Ham-Report: Spam detection software, running on the system "server.cpprotect3.de",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Google-Bestätigungscode Lieber Google-Nutzer, wir haben eine
+    Anfrage für den Zugriff auf Ihr Google-Konto luhbotsatwork@gmail.com über
+    Ihre E-Mail-Adresse erhalten. Ihr Google-Bestätigungscode lautet: 
+ Content analysis details:   (-7.7 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -7.5 USER_IN_DEF_DKIM_WL    From: address is in the default DKIM
+                             welcome-list
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.0 DKIMWL_WL_MED          DKIMwl.org - Medium trust sender
+X-Spam-Flag: NO
+
+--000000000000d88d6c05f41e556c
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+R29vZ2xlLUJlc3TDpHRpZ3VuZ3Njb2RlDQoNCg0KDQoNCg0KDQoNCg0KDQpMaWViZXIgR29vZ2xl
+LU51dHplciwNCg0Kd2lyIGhhYmVuIGVpbmUgQW5mcmFnZSBmw7xyIGRlbiBadWdyaWZmIGF1ZiBJ
+aHIgR29vZ2xlLUtvbnRvICANCmx1aGJvdHNhdHdvcmtAZ21haWwuY29tIMO8YmVyIElocmUgRS1N
+YWlsLUFkcmVzc2UgZXJoYWx0ZW4uIElociAgDQpHb29nbGUtQmVzdMOkdGlndW5nc2NvZGUgbGF1
+dGV0Og0KDQoNCjIxNTgxMw0KDQoNCkZhbGxzIFNpZSBkaWVzZW4gQ29kZSBuaWNodCBhbmdlZm9y
+ZGVydCBoYWJlbiwgdmVyc3VjaHQgbcO2Z2xpY2hlcndlaXNlIGVpbmUgIA0KYW5kZXJlIFBlcnNv
+biwgYXVmIGRhcyBHb29nbGUtS29udG8gbHVoYm90c2F0d29ya0BnbWFpbC5jb20genV6dWdyZWlm
+ZW4uICANCkdlYmVuIFNpZSBkaWVzZW4gQ29kZSBuaWNodCB3ZWl0ZXIuDQoNClNpZSBoYWJlbiBk
+aWVzZSBOYWNocmljaHQgZXJoYWx0ZW4sIHdlaWwgZGllc2UgRS1NYWlsLUFkcmVzc2UgYWxzICAN
+CldpZWRlcmhlcnN0ZWxsdW5ncy1FLU1haWwtQWRyZXNzZSBmw7xyIGRhcyBHb29nbGUtS29udG8g
+IA0KbHVoYm90c2F0d29ya0BnbWFpbC5jb20gYW5nZWdlYmVuIHd1cmRlLiBTb2xsdGUgZGllcyBu
+aWNodCBzdGltbWVuLCBrbGlja2VuICANClNpZSBiaXR0ZSBoaWVyLCB1bSBJaHJlIEUtTWFpbC1B
+ZHJlc3NlIGF1cyBkaWVzZW0gR29vZ2xlLUtvbnRvIHp1IGVudGZlcm5lbi4NCg0KTWl0IGZyZXVu
+ZGxpY2hlbiBHcsO8w59lbg0KDQpEYXMgR29vZ2xlIEtvbnRlbi1UZWFtDQoNCg0KDQoNCg0KDQoN
+Cg0KDQoNCkJpdHRlIGFudHdvcnRlbiBTaWUgbmljaHQgZGlyZWt0IGF1ZiBkaWVzZSBFLU1haWwu
+IFdlaXRlcmUgSW5mb3JtYXRpb25lbiAgDQplcmhhbHRlbiBTaWUgaW4gZGVyIEdvb2dsZSBLb250
+ZW4tSGlsZmUuDQrCqSBHb29nbGUgSW5jLiwgMTYwMCBBbXBoaXRoZWF0cmUgUGFya3dheSwgTW91
+bnRhaW4gVmlldywgQ0EgOTQwNDMsIFVTQQ0KDQoNCg0KDQo=
+--000000000000d88d6c05f41e556c
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"max-width:=
+ 600px;"><tr><td><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0"><tr><td align=3D"left"><img width=3D"92" height=3D"32" src=3D"=
+https://ssl.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_188x=
+64dp.png" style=3D"display: block; width: 92px; height: 32px;"></td><td ali=
+gn=3D"right"><img width=3D"32" height=3D"32" style=3D"display: block; width=
+: 32px; height: 32px;" src=3D"https://ssl.gstatic.com/accountalerts/email/k=
+eyhole.png"></td></tr></table></td></tr><tr height=3D"16"></tr><tr><td><tab=
+le bgcolor=3D"#4184F3" width=3D"100%" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" style=3D"min-width: 332px; max-width: 600px; border: 1px solid =
+#E0E0E0; border-bottom: 0; border-top-left-radius: 3px; border-top-right-ra=
+dius: 3px;"><tr><td height=3D"72px" colspan=3D"3"></td></tr><tr><td width=
+=3D"32px"></td><td style=3D"font-family: Roboto-Regular,Helvetica,Arial,san=
+s-serif; font-size: 24px; color: #FFFFFF; line-height: 1.25;">Google-Best=
+=C3=A4tigungscode</td><td width=3D"32px"></td></tr><tr><td height=3D"18px" =
+colspan=3D"3"></td></tr></table></td></tr><tr><td><table bgcolor=3D"#FAFAFA=
+" width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"=
+min-width: 332px; max-width: 600px; border: 1px solid #F0F0F0; border-botto=
+m: 1px solid #C0C0C0; border-top: 0; border-bottom-left-radius: 3px; border=
+-bottom-right-radius: 3px;"><tr height=3D"16px"><td width=3D"32px" rowspan=
+=3D"3"></td><td></td><td width=3D"32px" rowspan=3D"3"></td></tr><tr><td><p>=
+Lieber Google-Nutzer,</p><p>wir haben eine Anfrage f=C3=BCr den Zugriff auf=
+ Ihr Google-Konto <span style=3D"color: #659CEF" dir=3D"ltr">luhbotsatwork@=
+gmail.com</span> =C3=BCber Ihre E-Mail-Adresse erhalten. Ihr Google-Best=C3=
+=A4tigungscode lautet:</p><div style=3D"text-align: center;"><p dir=3D"ltr"=
+><strong style=3D"text-align: center; font-size: 24px; font-weight: bold;">=
+215813</strong></p></div><p>Falls Sie diesen Code nicht angefordert haben, =
+versucht m=C3=B6glicherweise eine andere Person, auf das Google-Konto <span=
+ style=3D"color: #659CEF" dir=3D"ltr">luhbotsatwork@gmail.com</span> zuzugr=
+eifen. <strong>Geben Sie diesen Code nicht weiter.</strong></p><p>Sie haben=
+ diese Nachricht erhalten, weil diese E-Mail-Adresse als Wiederherstellungs=
+-E-Mail-Adresse f=C3=BCr das Google-Konto <span style=3D"color: #659CEF">lu=
+hbotsatwork@gmail.com</span> angegeben wurde. Sollte dies nicht stimmen, <a=
+ href=3D"https://accounts.google.com/AccountDisavow?adt=3DAOX8kipVI96YaKvLc=
+sUkyc2Woq9444vbhqPccg4-ITKQI34TnQNFyFtK7Tg">klicken Sie bitte hier</a>, um =
+Ihre E-Mail-Adresse aus diesem Google-Konto zu entfernen.</p><p>Mit freundl=
+ichen Gr=C3=BC=C3=9Fen</p><p>Das Google Konten-Team</p></td></tr><tr height=
+=3D"32px"></tr></table></td></tr><tr height=3D"16"></tr><tr><td style=3D"ma=
+x-width: 600px; font-family: Roboto-Regular,Helvetica,Arial,sans-serif; fon=
+t-size: 10px; color: #BCBCBC; line-height: 1.5;"><table><tr><td><table styl=
+e=3D"font-family: Roboto-Regular,Helvetica,Arial,sans-serif; font-size: 10p=
+x; color: #666666; line-height: 18px; padding-bottom: 10px">Bitte antworten=
+ Sie nicht direkt auf diese E-Mail. Weitere Informationen erhalten Sie in d=
+er <a href=3D"https://support.google.com/accounts/troubleshooter/2402620?re=
+f_topic=3D2364467" style=3D"text-decoration: none; color: #4d90fe;">Google =
+Konten-Hilfe</a>.<br>=C2=A9 Google Inc., 1600 Amphitheatre Parkway, Mountai=
+n View, CA 94043, USA</table></td></tr></table></td></tr></table>
+--000000000000d88d6c05f41e556c--

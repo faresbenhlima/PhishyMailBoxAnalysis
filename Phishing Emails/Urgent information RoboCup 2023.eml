@@ -1,0 +1,490 @@
+Return-Path: <bounce-p2-m5kwjqz89rt759-g4rlbd4v-a01-k3cq-0011N000017qnz5QAA@cvent-planner.com>
+Received: from server.cpprotect3.de
+	by server.cpprotect3.de with LMTP
+	id 4H9CEmeoomSE5AIAQhmUyQ
+	(envelope-from <bounce-p2-m5kwjqz89rt759-g4rlbd4v-a01-k3cq-0011N000017qnz5QAA@cvent-planner.com>); Mon, 03 Jul 2023 12:52:23 +0200
+Return-path: <bounce-p2-m5kwjqz89rt759-g4rlbd4v-a01-k3cq-0011N000017qnz5QAA@cvent-planner.com>
+Envelope-to: work@luhbots.de
+Delivery-date: Mon, 03 Jul 2023 12:52:23 +0200
+Received: from m234c.cvent-planner.com ([216.230.14.234]:16781)
+	by server.cpprotect3.de with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <bounce-p2-m5kwjqz89rt759-g4rlbd4v-a01-k3cq-0011N000017qnz5QAA@cvent-planner.com>)
+	id 1qGHAF-000Dtx-39
+	for work@luhbots.de;
+	Mon, 03 Jul 2023 12:52:23 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=cv-usprod-1; d=robocup.org;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:
+ List-Unsubscribe; i=office@robocup.org;
+ bh=/F0AsibD2FJbRPyDTy4q0cL4nM7Fg+xumR7RvqXiGJA=;
+ b=HCLT7Btmn4t/rN9cvSdxm4zvTdkIimo9rwR7otv8a28uzQ9G8yaFHEILU3vC80mDlH1LI5nVt1ad
+   KXoI7E4QU+G8NbGk1CowfPFF1jyRdlUKQMKoMX9NNtdYxYtgzBF6gZsoQqkKIr5UxCBVJB4hjh0L
+   mxGzmF/QYS5nQHQzd78=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=cv-usprod-1; d=cvent-planner.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:
+ List-Unsubscribe;
+ bh=/F0AsibD2FJbRPyDTy4q0cL4nM7Fg+xumR7RvqXiGJA=;
+ b=SybYc/u2p6OFci2ayu5sm/JGkipSfoOyfA1Ykmoe8cPidaFdtIS2PqItOjc4QBMHNzuxRjdHbb3e
+   GS+s5F1Sjvpgx0NLmsxKgj/ITohT1Rfzw5UV5/2KY9xlVFkj0Uq/hLVPMKSpGJDGOCg0ocPui6tm
+   iGWKkwTGkyeo2vvjjUc=
+Date: Mon, 3 Jul 2023 10:51:34 +0000
+From: "RoboCup Federation"<office@robocup.org>
+Reply-To:  <office@robocup.org>
+To: "Fares Ben Halima"<work@luhbots.de>
+Message-ID: <p2-m5kwjqz89rt759-g4rlbd4v-a01-k3cq-0011N000017qnz5QAA@cvent-planner.com>
+Subject: Urgent information: RoboCup 2023
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="--==1688381494054_M5KWJQZ89RT759_G4RLBD4V=="
+X-ASID: a01-k3cq-0011N000017qnz5QAA-cvp2
+X-VMTA: a01-12339141001cv
+X-Job: a01-k3cq-0011N000017qnz5QAA;;p2-m5kwjqz89rt759
+List-Unsubscribe: <mailto:unsubscribe-p2-m5kwjqz89rt759-g4rlbd4v-a01-k3cq-0011N000017qnz5QAA@cvent-planner.com?subject=unsubscribe>
+X-CMID: p2-m5kwjqz89rt759-g4rlbd4v-a01-k3cq-0011N000017qnz5QAA
+X-Spam-Status: No, score=-7.0
+X-Spam-Score: -69
+X-Spam-Bar: -------
+X-Ham-Report: Spam detection software, running on the system "server.cpprotect3.de",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Dear Fares, We know that some of you are worried about the
+    situation in France. We are in close connection with authorities, and we
+   are monitoring the events in realtime. The competition will take place in
+   compliance with safety standards and at the moment the schedule is maintained.
+    
+ Content analysis details:   (-7.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: cvent.com]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -7.5 USER_IN_DEF_SPF_WL     From: address is in the default SPF
+                             welcome-list
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  0.5 KAM_NUMSUBJECT         Subject ends in numbers excluding current years
+ -0.0 T_SCC_BODY_TEXT_LINE   No description available.
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+ -0.0 DKIMWL_WL_HIGH         DKIMwl.org - High trust sender
+X-Spam-Flag: NO
+
+----==1688381494054_M5KWJQZ89RT759_G4RLBD4V==
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Fares,
+
+We know that some of you are worried about the situation in France. We are =
+in close connection with authorities, and we are monitoring the events in r=
+ealtime.
+
+The competition will take place in compliance with safety standards and at =
+the moment the schedule is maintained.
+
+We will keep you informed of the developments at least on a daily basis by =
+email and via the discord platform.
+
+https://discord.com/invite/WBR5Zq93AR (https://discord.com/invite/WBR5Zq93A=
+R)
+
+Sincerely,
+
+The RoboCup Federation
+
+=20
+
+https://www.robocup.org/ (https://www.robocup.org/)
+
+=20
+
+Join the RoboCup Community:=20
+
+RoboCup-Worldwide Mailing List (https://lists.robocup.org/mm/lists/robocup-=
+worldwide.lists.robocup.org/)
+
+RoboCup - Facebook (https://www.facebook.com/robocup.org)
+
+RoboCup - Twitter (https://twitter.com/robocup_org)
+
+RoboCup - LinkedIn (https://www.linkedin.com/company/robocup-org/)
+
+Powered by Cvent
+----==1688381494054_M5KWJQZ89RT759_G4RLBD4V==
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office">
+ <head>
+  <title></title>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+  <meta name=3D"format-detection" content=3D"telephone=3Dno">
+  <style type=3D"text/css">/* CLIENT-SPECIFIC STYLES ------------------- */=
+#outlook a {  padding: 0; /* Force Outlook to provide a "view in browser" m=
+essage */}.ReadMsgBody {  width: 100%; /* Force Hotmail to display emails a=
+t full width */}.ExternalClass {  width:100%; /* Force Hotmail to display e=
+mails at full width */}.ExternalClass, .ExternalClass p, .ExternalClass spa=
+n, .ExternalClass font, .ExternalClass td, .ExternalClass div {  line-heigh=
+t: 100%; /* Force Hotmail to display normal line spacing */}body, table, td=
+, a { /* Prevent WebKit and Windows mobile changing default text sizes */  =
+-webkit-text-size-adjust: 100%;  -ms-text-size-adjust: 100%;}table, td, li =
+{ /* Remove spacing between tables in Outlook 2007 and up */  mso-table-lsp=
+ace: 0pt;  mso-table-rspace: 0pt;  mso-line-height-rule: at-least;  border-=
+spacing: 0;  mso-margin-bottom-alt: 0;  mso-margin-top-alt: 0;}img { /* All=
+ow smoother rendering of resized image in Internet Explorer */  -ms-interpo=
+lation-mode: bicubic;}/* RESET STYLES --------------------------- */body { =
+ height: 100% !important;  margin: 0;  padding: 0;  width: 100% !important;=
+}img {  border: 0;  height: auto;  line-height: 100%;  outline: none;  text=
+-decoration: none;}table {  border-collapse: collapse !important;}a {  colo=
+r: #0099E0;}h1, h2, h3, h4, h5, h6 { /* Override user agent styles for thes=
+e elements */  margin-block-start: 0px;  margin-block-end: 0px;  margin-top=
+: 0px;  margin-bottom: 0px;}/* Override Gmail Blue Links */u + #body a {  c=
+olor: #0099E0;}/* iOS BLUE LINKS */.apple-links a {  color: #999999;  text-=
+decoration: none;}/* MOBILE STYLES ------------------------ *//* Media Quer=
+ies  480px matches @small(20em) in nucleus-core/less/MediaQuery.less*/@medi=
+a screen and (max-width: 480px) {  .responsive-table,  .wrapper,  .column, =
+ .img-max {    width: 100% !important;  }  .mobile-button {    width: 100% =
+!important;    box-sizing: border-box;  }}</style><!--[if gte mso 9]>      =
+          <xml>                  <o:OfficeDocumentSettings>                =
+    <o:AllowPNG/>                    <o:PixelsPerInch>96</o:PixelsPerInch> =
+                 </o:OfficeDocumentSettings>                </xml>         =
+     <![endif]-->
+ </head>
+ <body style=3D"margin:0;padding:0" id=3D"body">
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" st=
+yle=3D"table-layout:fixed">
+   <tbody>
+    <tr>
+     <td align=3D"center" bgcolor=3D"#EFF0F2"><!--[if gte mso 9]>          =
+  <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+             width=3D"650" style=3D"width:650px;">              <tr>       =
+         <td align=3D"center" valign=3D"top" width=3D"650" style=3D"width:6=
+50px;">          <![endif]-->
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" style=3D"width:650px" class=3D"wrapper">
+       <tbody>
+        <tr>
+         <td align=3D"center"><!--[if gte mso 9]>            <table align=
+=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"              w=
+idth=3D"650" style=3D"width:650px;">              <tr>                <td a=
+lign=3D"center" valign=3D"top" width=3D"650" style=3D"width:650px;">       =
+   <![endif]-->
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%" style=3D"border-color:#FFFFFF;border-style:none;border-width:0;backgr=
+ound-color:#FFFFFF;width:650px" class=3D"wrapper">
+           <tbody>
+            <tr>
+             <td style=3D"padding-top:0;padding-bottom:0;padding-left:0;pad=
+ding-right:0">
+              <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" style=3D"float:left" align=3D"center" class=3D"column">
+               <tbody>
+                <tr>
+                 <td valign=3D"top">
+                  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%" style=3D"float:left" align=3D"left" class=3D"column">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" width=3D"100%" style=3D"border-color:#FFFFFF;border-style:none;border-wi=
+dth:0;table-layout:fixed" data-cvent-id=3D"widget-NucleusImage-widget:6c881=
+1a7-55f8-48a1-bf01-8031644fc53c">
+                       <tbody>
+                        <tr>
+                         <td bgcolor=3D"transparent" style=3D"padding-top:0=
+;padding-bottom:0;padding-left:0;padding-right:0;text-align:center">
+                          <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%">
+                           <tbody>
+                            <tr>
+                             <td>
+                              <center>
+                              <img src=3D"https://custom.cvent.com/3C2534C0=
+9A36441E91303531198FF1A1/pix/ba9c1ea7f2d5461782aa76e05ee6e644.jpg?d=3D650" =
+alt title border=3D"0" width=3D"650" align=3D"center" style=3D"width:650px;=
+display:block" class=3D"img-max">
+                              </center></td>
+                            </tr>
+                           </tbody>
+                          </table>
+                          <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%">
+                           <tbody></tbody>
+                          </table></td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+           </tbody>
+          </table><!--[if gte mso 9]>                </td>              </t=
+r>            </table>            <![endif]--></td>
+        </tr>
+        <tr>
+         <td align=3D"center"><!--[if gte mso 9]>            <table align=
+=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"              w=
+idth=3D"650" style=3D"width:650px;">              <tr>                <td a=
+lign=3D"center" valign=3D"top" width=3D"650" style=3D"width:650px;">       =
+   <![endif]-->
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%" style=3D"border-color:#FFFFFF;border-style:none;border-width:0;backgr=
+ound-color:#FFFFFF;width:650px" class=3D"wrapper">
+           <tbody>
+            <tr>
+             <td style=3D"padding-top:0;padding-bottom:0;padding-left:0;pad=
+ding-right:0">
+              <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" style=3D"float:left" align=3D"center" class=3D"column">
+               <tbody>
+                <tr>
+                 <td valign=3D"top">
+                  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%" style=3D"float:left" align=3D"left" class=3D"column">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" width=3D"100%" style=3D"border-color:#FFFFFF;border-style:none;border-wi=
+dth:0;table-layout:fixed" data-cvent-id=3D"widget-NucleusText-widget:7ca2f4=
+9a-4937-461f-a6e5-e45e3f387f9a">
+                       <tbody>
+                        <tr>
+                         <td bgcolor=3D"transparent" style=3D"padding-top:1=
+0px;padding-bottom:10px;padding-left:15px;padding-right:15px">
+                          <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%">
+                           <tbody>
+                            <tr>
+                             <td bgcolor=3D"transparent" style=3D"border-wi=
+dth:0;border-color:#FFFFFF;border-style:none;padding-bottom:0;padding-top:0=
+;padding-left:0;padding-right:0;font-size:16px;line-height:20px;font-family=
+:Arial,Helvetica,sans-serif;color:#555555;font-style:normal;font-weight:400=
+;text-align:center">
+                              <div class=3D"css-vsf5of"></div>
+                              <table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%">
+                              <tbody>
+                              <tr>
+                              <td style=3D"font-size:16px;line-height:20px;=
+font-family:Arial,Helvetica,sans-serif;color:#555555;font-style:normal;font=
+-weight:400;text-align:center; word-break: break-word; padding: 6px 0;text-=
+align:justify;">Dear Fares,</td>
+                              </tr>
+                              <tr>
+                              <td style=3D"font-size:16px;line-height:20px;=
+font-family:Arial,Helvetica,sans-serif;color:#555555;font-style:normal;font=
+-weight:400;text-align:center; word-break: break-word; padding: 6px 0;text-=
+align:justify;"><span style=3D"color: rgb(34,34,34);">We know that some of =
+you are worried about the situation in France. We are in close connection w=
+ith authorities, and we are monitoring the events in realtime.</span></td>
+                              </tr>
+                              <tr>
+                              <td style=3D"font-size:16px;line-height:20px;=
+font-family:Arial,Helvetica,sans-serif;color:#555555;font-style:normal;font=
+-weight:400;text-align:center; word-break: break-word; padding: 6px 0;text-=
+align:justify;"><span style=3D"color: rgb(34,34,34);">The competition will =
+take place in compliance with safety standards and at the moment the schedu=
+le is maintained.</span></td>
+                              </tr>
+                              <tr>
+                              <td style=3D"font-size:16px;line-height:20px;=
+font-family:Arial,Helvetica,sans-serif;color:#555555;font-style:normal;font=
+-weight:400;text-align:center; word-break: break-word; padding: 6px 0;text-=
+align:justify;"><span style=3D"color: rgb(34,34,34);">We will keep you info=
+rmed of the developments at least on a daily basis by email and via the dis=
+cord platform.</span></td>
+                              </tr>
+                              <tr>
+                              <td style=3D"font-size:16px;line-height:20px;=
+font-family:Arial,Helvetica,sans-serif;color:#555555;font-style:normal;font=
+-weight:400;text-align:center; word-break: break-word; padding: 6px 0;text-=
+align:justify;"><a href=3D"https://discord.com/invite/WBR5Zq93AR" target=3D=
+"_blank" rel=3D"noreferrer"><span style=3D"color: rgb(17,85,204);">https://=
+discord.com/invite/WBR5Zq93AR</span></a><br><br><br></td>
+                              </tr>
+                              </tbody>
+                              </table></td>
+                            </tr>
+                           </tbody>
+                          </table></td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+           </tbody>
+          </table><!--[if gte mso 9]>                </td>              </t=
+r>            </table>            <![endif]--></td>
+        </tr>
+        <tr>
+         <td align=3D"center"><!--[if gte mso 9]>            <table align=
+=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"              w=
+idth=3D"650" style=3D"width:650px;">              <tr>                <td a=
+lign=3D"center" valign=3D"top" width=3D"650" style=3D"width:650px;">       =
+   <![endif]-->
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%" style=3D"border-color:#FFFFFF;border-style:none;border-width:0;backgr=
+ound-color:#FFFFFF;width:650px" class=3D"wrapper">
+           <tbody>
+            <tr>
+             <td style=3D"padding-top:0;padding-bottom:0;padding-left:0;pad=
+ding-right:0">
+              <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" style=3D"float:left" align=3D"center" class=3D"column">
+               <tbody>
+                <tr>
+                 <td valign=3D"top">
+                  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%" style=3D"float:left" align=3D"left" class=3D"column">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" width=3D"100%" style=3D"border-color:#FFFFFF;border-style:none;border-wi=
+dth:0;table-layout:fixed" data-cvent-id=3D"widget-NucleusText-widget:b28214=
+86-e781-4e1c-90f6-b26048e50a4a">
+                       <tbody>
+                        <tr>
+                         <td bgcolor=3D"transparent" style=3D"padding-top:1=
+5px;padding-bottom:15px;padding-left:15px;padding-right:15px">
+                          <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%">
+                           <tbody>
+                            <tr>
+                             <td bgcolor=3D"transparent" style=3D"border-wi=
+dth:0;border-color:#FFFFFF;border-style:none;padding-bottom:0;padding-top:0=
+;padding-left:0;padding-right:0;font-size:16px;line-height:20px;font-family=
+:Arial,Helvetica,sans-serif;color:#555555;font-style:normal;font-weight:400=
+;text-align:center">
+                              <div class=3D"css-vsf5of"></div>
+                              <table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%">
+                              <tbody>
+                              <tr>
+                              <td style=3D"font-size:16px;line-height:20px;=
+font-family:Arial,Helvetica,sans-serif;color:#555555;font-style:normal;font=
+-weight:400;text-align:center; word-break: break-word; padding: 6px 0;text-=
+align:left;">Sincerely,</td>
+                              </tr>
+                              <tr>
+                              <td style=3D"font-size:16px;line-height:20px;=
+font-family:Arial,Helvetica,sans-serif;color:#555555;font-style:normal;font=
+-weight:400;text-align:center; word-break: break-word; padding: 6px 0;text-=
+align:left;"><br>The RoboCup Federation<br> <br><a href=3D"https://www.robo=
+cup.org/" target=3D"_blank" rel=3D"noreferrer">https://www.robocup.org/</a>=
+<br><br></td>
+                              </tr>
+                              <tr>
+                              <td style=3D"font-size:16px;line-height:20px;=
+font-family:Arial,Helvetica,sans-serif;color:#555555;font-style:normal;font=
+-weight:400;text-align:center; word-break: break-word; padding: 6px 0;text-=
+align:left;">=C2=A0</td>
+                              </tr>
+                              <tr>
+                              <td style=3D"font-size:16px;line-height:20px;=
+font-family:Arial,Helvetica,sans-serif;color:#555555;font-style:normal;font=
+-weight:400;text-align:center; word-break: break-word; padding: 6px 0;text-=
+align:left;"><span style=3D"font-style: italic;">Join the RoboCup Community=
+: <br></span><a href=3D"https://lists.robocup.org/mm/lists/robocup-worldwid=
+e.lists.robocup.org/" target=3D"_blank" rel=3D"noreferrer"><span style=3D"f=
+ont-style: italic;">RoboCup-Worldwide Mailing List</span></a><span style=3D=
+"font-style: italic;"><br></span><a href=3D"https://www.facebook.com/robocu=
+p.org" target=3D"_blank" rel=3D"noreferrer"><span style=3D"font-style: ital=
+ic;">RoboCup - Facebook</span></a><span style=3D"font-style: italic;"><br><=
+/span><a href=3D"https://twitter.com/robocup_org" target=3D"_blank" rel=3D"=
+noreferrer"><span style=3D"font-style: italic;">RoboCup - Twitter</span></a=
+><span style=3D"font-style: italic;"><br></span><a href=3D"https://www.link=
+edin.com/company/robocup-org/" target=3D"_blank" rel=3D"noreferrer"><span s=
+tyle=3D"font-style: italic;">RoboCup - LinkedIn</span></a><br></td>
+                              </tr>
+                              </tbody>
+                              </table></td>
+                            </tr>
+                           </tbody>
+                          </table></td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td valign=3D"top">
+                  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%" style=3D"float:left" align=3D"left" class=3D"column">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" width=3D"100%" style=3D"border-color:#FFFFFF;border-style:none;border-wi=
+dth:0;table-layout:fixed" data-cvent-id=3D"widget-NucleusEmptyCell-widget:7=
+4e155d7-e3e1-4c61-a260-91519222eb71">
+                       <tbody>
+                        <tr>
+                         <td bgcolor=3D"#555555" style=3D"padding-top:15px;=
+padding-bottom:15px;padding-left:15px;padding-right:15px"></td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+           </tbody>
+          </table><!--[if gte mso 9]>                </td>              </t=
+r>            </table>            <![endif]--></td>
+        </tr>
+       </tbody>
+      </table><!--[if gte mso 9]>                </td>              </tr>  =
+          </table>            <![endif]--></td>
+    </tr>
+   </tbody>
+  </table><br>
+  <table border=3D"0" cellspacing=3D"0" width=3D"100%">
+   <tbody>
+    <tr>
+     <td>
+      <hr noshade size=3D"1" width=3D"100%"><a href=3D"http://www.cvent.com=
+"><img src=3D"https://www.cvent.com/g/images/powered_by_cvent.gif" border=
+=3D"0" alt=3D"Cvent - Web-based Software Solutions" width=3D"90" height=3D"=
+35"></a></td>
+    </tr>
+   </tbody>
+  </table>
+ </body>
+</html><img src=3D"https://www.cvent.com/api/email/dispatch/v1/open/m5kwjqz=
+89rt759/g4rlbd4v/transparent.gif" alt=3D""/>
+----==1688381494054_M5KWJQZ89RT759_G4RLBD4V==--

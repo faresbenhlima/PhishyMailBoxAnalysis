@@ -1,0 +1,257 @@
+Return-Path: <business-noreply@mail.instagram.com>
+Received: from server.cpprotect3.de
+	by server.cpprotect3.de with LMTP
+	id yEntBUmEj2Oe6SMAQhmUyQ
+	(envelope-from <business-noreply@mail.instagram.com>); Tue, 06 Dec 2022 19:04:57 +0100
+Return-path: <business-noreply@mail.instagram.com>
+Envelope-to: work@luhbots.de
+Delivery-date: Tue, 06 Dec 2022 19:04:57 +0100
+Received: from 69-171-232-148.mail-mail.facebook.com ([69.171.232.148]:46669)
+	by server.cpprotect3.de with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.95)
+	(envelope-from <business-noreply@mail.instagram.com>)
+	id 1p2cJ3-00AFPm-DO
+	for work@luhbots.de;
+	Tue, 06 Dec 2022 19:04:57 +0100
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mail.instagram.com;
+	s=s1024-2013-q3; t=1670349526;
+	bh=tdSTIOKi1L/EOQ+aRaf2yND2EW0e2XuzCVKfejz5thw=;
+	h=Date:To:Subject:From:MIME-Version:Content-Type;
+	b=XmKv5dUubzhzsa5SsbSyJVLgPUzl4/31EPBRygiS1qr0RuRKUprpy3/LSTzk3c0xg
+	 0jJuuAS+wu1XX9IQJogfwI3632agYQ+MAVNVz5mI3QNMhPexJenHKFvgcGZxML49bR
+	 vEvX9pXW/SzU3Cnp16gI5AXriR50TDVjA9vI4+A8=
+X-Facebook: from 2401:db00:111c:d03:face:0:62:0 ([MTI3LjAuMC4x]) 
+	by www.facebook.com with HTTPS (ZuckMail);
+Date: Tue, 6 Dec 2022 09:58:46 -0800
+To: work@luhbots.de
+Subject: =?UTF-8?B?RGVpbiBLb250b2VpbmJs?=
+ =?UTF-8?B?aWNrIGbDvHIgTm92ZW1iZQ==?=
+ =?UTF-8?B?ciAyMDIy?=
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+From: "Instagram Business" <business-noreply@mail.instagram.com>
+Reply-to: Instagram Business <business-noreply@mail.instagram.com>
+Errors-To: business-noreply@mail.instagram.com
+X-Facebook-Notify: aymt_instagram_email_x_notification; mailid=U2U5ef2c448bdf14G24bc320a02d552G5ef2c8e21e1e6G4326
+BIMI-Selector: v=BIMI1; s=fb2021q2v1;
+Require-Recipient-Valid-Since: work@luhbots.de; Sunday, 20 Oct 2019 16:53:40 +0000
+Feedback-ID: 9999:aymt_instagram_email_x_notification:Facebook
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+Message-ID: <a171157a-758f-11ed-a45b-274748f4ea99@mail.instagram.com>
+X-Spam-Status: No, score=-13.9
+X-Spam-Score: -138
+X-Spam-Bar: -------------
+X-Ham-Report: Spam detection software, running on the system "server.cpprotect3.de",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Facebook Super! Du hast im letzten Monat mit mehr Konten interagiert
+    Im Vergleich zum Oktober 2022 hast du im November 2022 mit +34.4% mehr Konten
+    interagiert. Erreichte Konten 2.357 +24.1% Konten, die interagiert haben
+   164 +34.4% Gesamtzahl der Follower 593 +1.5% Dies [...] 
+ Content analysis details:   (-13.9 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 TVD_RCVD_IP            Message was received from an IP address
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -7.5 USER_IN_DEF_DKIM_WL    From: address is in the default DKIM
+                             welcome-list
+ -7.5 USER_IN_DEF_SPF_WL     From: address is in the default SPF
+                             welcome-list
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  1.1 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously
+                              huge http urls
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.5 KAM_NUMSUBJECT         Subject ends in numbers excluding current years
+ -0.5 ENV_AND_HDR_SPF_MATCH  Env and Hdr From used in default SPF WL
+                             Match
+ -0.0 DKIMWL_WL_HIGH         DKIMwl.org - High trust sender
+X-Spam-Flag: NO
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Facebook</title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /><style nonce=3D"vHlAMgnQ">@media =
+all and (max-width: 480px){*[class].ib_t{min-width:100% =
+!important}*[class].ib_row{display:block =
+!important}*[class].ib_ext{display:block !important;padding:10px 0 5px =
+0;vertical-align:top !important;width:100% =
+!important}*[class].ib_img,*[class].ib_mid{vertical-align:top =
+!important}*[class].mb_blk{display:block =
+!important;padding-bottom:10px;width:100% =
+!important}*[class].mb_hide{display:none =
+!important}*[class].mb_inl{display:inline =
+!important}*[class].d_mb_flex{display:block =
+!important}}.d_mb_show{display:none}.d_mb_flex{display:flex}@media only =
+screen and (max-device-width: 480px){.d_mb_hide{display:none =
+!important}.d_mb_show{display:block !important}.d_mb_flex{display:block =
+!important}}.mb_text h1,.mb_text h2,.mb_text h3,.mb_text h4,.mb_text =
+h5,.mb_text h6{line-height:normal}.mb_work_text =
+h1{font-size:18px;line-height:normal;margin-top:4px}.mb_work_text =
+h2,.mb_work_text =
+h3{font-size:16px;line-height:normal;margin-top:4px}.mb_work_text =
+h4,.mb_work_text h5,.mb_work_text =
+h6{font-size:14px;line-height:normal}.mb_work_text =
+a{color:#1270e9}.mb_work_text p{margin-top:4px}</style></head><table =
+border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td width=3D"100%" =
+align=3D"center" style=3D""><table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center" =
+style=3D"border-collapse:collapse;"><tr><td width=3D"1000" =
+align=3D"center" style=3D""><body style=3D"max-width:500px;margin:0 auto;" =
+dir=3D"ltr" bgcolor=3D"#ffffff"><table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center" id=3D"email_table" =
+style=3D"border-collapse:collapse;max-width:500px;margin:0 auto;"><tr><td =
+id=3D"email_content" style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;background:#ffffff;"><table =
+border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"20" =
+style=3D"line-height:20px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+height=3D"1" colspan=3D"3" style=3D"line-height:1px;"><span =
+style=3D"color:#FFFFFF;font-size:1px;"><div></div></span></td></tr><tr><td =
+style=3D""><table border=3D"0" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;text-align:center;html=
+_width:100%;width:100%;"><tr><td width=3D"15px" =
+style=3D"width:15px;"></td><td =
+style=3D"line-height:0px;max-width:600px;padding:0 0 15px 0;"><table =
+border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td =
+style=3D"width:100%;text-align:left;height:33px;"><img height=3D"33" =
+src=3D"https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/Otjcwa2eCOF.png" =
+style=3D"border:0;" /></td><td align=3D"right" =
+style=3D"line-height:18px;min-width:60px;text-align:right;"><a =
+style=3D"color:#1b74e4;text-decoration:none;"><img width=3D"33" =
+src=3D"https://scontent.cdninstagram.com/v/t51.2885-15/126482435_960595677=
+761031_6952883057088977521_n.jpg?stp=3Ddst-jpg_s200x200&amp;_nc_cat=3D100&=
+amp;ccb=3D1-7&amp;_nc_sid=3D8ae9d6&amp;_nc_ohc=3DVkeM77vgjjAAX-jkBTg&amp;_=
+nc_oc=3DAQldlZfTo5QpWIlcs9GzoDHvOJmvBHcUg4hfntRrtXEII0q04hxmFjPivk24DM-D0n=
+3In2es8lIIC8suU1cx1R-E&amp;_nc_ad=3Dz-m&amp;_nc_cid=3D0&amp;_nc_ht=3Dscont=
+ent.cdninstagram.com&amp;oh=3D00_AfD-Chle_C-0G3zG2o3-i_mSukELL4a8SGvO0Dwhl=
+Hyrew&amp;oe=3D6394C497" height=3D"33" style=3D"border:solid 1px rgba(0, =
+0, 0, .15);background-color:#ebe9e7;border-radius:50%;" =
+/></a></td></tr></table></td><td width=3D"15px" =
+style=3D"width:15px;"></td></tr></table></td></tr><tr><td =
+style=3D""><table border=3D"0" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr style=3D""><td =
+height=3D"24" style=3D"line-height:24px;">&nbsp;</td></tr><tr><td =
+style=3D""><table border=3D"0" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D""><div style=3D"font-family:-apple-system, BlinkMacSystemFont, =
+&quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:17px;=
+line-height:22px;letter-spacing:-0.43px;font-weight:700;color:black;">Supe=
+r! Du hast im letzten Monat mit mehr Konten interagiert</div><tr =
+style=3D""><td height=3D"8" =
+style=3D"line-height:8px;">&nbsp;</td></tr><tr><td style=3D""><span =
+style=3D"font-family:-apple-system, BlinkMacSystemFont, &quot;Segoe =
+UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:15px;line-height:=
+20px;letter-spacing:-0.23px;color:black;"><div>Im Vergleich zum Oktober =
+2022 hast du im November 2022 mit <span style=3D"color:green;"> +34.4% =
+</span> mehr Konten =
+interagiert.</div></span></td></tr></td></tr></table></td></tr><tr =
+style=3D""><td height=3D"24" =
+style=3D"line-height:24px;">&nbsp;</td></tr><tr><td style=3D""><table =
+border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;border-bottom:1px solid =
+#DBDBDB;"><tr><td style=3D"vertical-align:top;"><span =
+style=3D"font-family:-apple-system, BlinkMacSystemFont, &quot;Segoe =
+UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:15px;line-height:=
+20px;letter-spacing:-0.23px;color:black;">Erreichte Konten</span></td><td =
+style=3D"padding-bottom:8px;"><table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"right" =
+style=3D"border-collapse:collapse;"><tr><td =
+style=3D"text-align:right;"><span style=3D"color:black;font-size: =
+14px;">2.357</span></td></tr><tr><td style=3D"text-align:right;"><span =
+style=3D"color:green; font-size: 12px;"> +24.1% =
+</span></td></tr></table></td></tr><tr><td =
+style=3D"vertical-align:top;"><span style=3D"font-family:-apple-system, =
+BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, =
+sans-serif;font-size:15px;line-height:20px;letter-spacing:-0.23px;color:bl=
+ack;">Konten, die interagiert haben</span></td><td =
+style=3D"padding-bottom:8px;"><table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"right" =
+style=3D"border-collapse:collapse;"><tr><td =
+style=3D"text-align:right;"><span style=3D"color:black;font-size: =
+14px;">164</span></td></tr><tr><td style=3D"text-align:right;"><span =
+style=3D"color:green; font-size: 12px;"> +34.4% =
+</span></td></tr></table></td></tr><tr><td =
+style=3D"vertical-align:top;"><span style=3D"font-family:-apple-system, =
+BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, =
+sans-serif;font-size:15px;line-height:20px;letter-spacing:-0.23px;color:bl=
+ack;">Gesamtzahl der Follower</span></td><td =
+style=3D"padding-bottom:24px;"><table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"right" =
+style=3D"border-collapse:collapse;"><tr><td =
+style=3D"text-align:right;"><span style=3D"color:black;font-size: =
+14px;">593</span></td></tr><tr><td style=3D"text-align:right;"><span =
+style=3D"color:green; font-size: 12px;"> +1.5% =
+</span></td></tr></table></td></tr></table></td></tr><tr style=3D""><td =
+height=3D"24" style=3D"line-height:24px;">&nbsp;</td></tr><tr><td =
+style=3D""><table border=3D"0" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D""><div style=3D"font-family:-apple-system, BlinkMacSystemFont, =
+&quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:17px;=
+line-height:22px;letter-spacing:-0.43px;font-weight:700;color:black;">Dies=
+er Beitrag von dir hatte die meisten Interaktionen mit anderen =
+Konten</div></td></tr><tr><tr style=3D""><td height=3D"32" =
+style=3D"line-height:32px;">&nbsp;</td></tr></tr><tr><td align=3D"center" =
+style=3D""><img width=3D"120dp" height=3D"120dp" src=3D"https://scontent.c=
+dninstagram.com/v/t51.29350-15/316351967_836970587455364_46163593907283752=
+69_n.webp?stp=3Ddst-jpg&amp;_nc_cat=3D106&amp;ccb=3D1-7&amp;_nc_sid=3D8ae9=
+d6&amp;_nc_ohc=3D-zECRzGP2YsAX_gyOvR&amp;_nc_ad=3Dz-m&amp;_nc_cid=3D0&amp;=
+_nc_ht=3Dscontent.cdninstagram.com&amp;oh=3D00_AfBbyEccZhhRoqsP0LHl70f3ag1=
+GwLaPgA1tGFqMfcMTKA&amp;oe=3D63939465" style=3D"border:0;display:block;mar=
+gin-left:auto;margin-right:auto;max-width:100%;" alt=3D"Image" =
+title=3D"Image" /></td></tr><tr><tr style=3D""><td height=3D"32" =
+style=3D"line-height:32px;">&nbsp;</td></tr></tr><tr><td align=3D"center" =
+style=3D""><a href=3D"https://www.instagram.com/linking/insights?media_id=
+=3D2974947143715082734&amp;channel_id=3D3338985612860596&amp;tip_id=3D6004=
+248869609778&amp;is_aymt_tip=3D1" =
+style=3D"color:#1b74e4;text-decoration:none;"><div =
+style=3D"font-family:-apple-system, BlinkMacSystemFont, &quot;Segoe =
+UI&quot;, Roboto, Helvetica, Arial, sans-serif;height:18px;line-height:18p=
+x;font-size:14px;text-align:center;color:#FFFFFF;padding:13px =
+18px;background-color:#0095F6;border-radius:4px;font-weight:600;">Mehr =
+Informationen anzeigen</div></a></td></tr></table></td></tr><tr =
+style=3D""><td height=3D"24" =
+style=3D"line-height:24px;">&nbsp;</td></tr><tr><td style=3D""><table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;margin:0 auto 0 =
+auto;width:100%;max-width:600px;"><tr style=3D""><td height=3D"4" =
+style=3D"line-height:4px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+width=3D"15px" style=3D"width:15px;"></td><td width=3D"20" =
+style=3D"display:block;width:20px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D"text-align:center;"><div =
+style=3D"padding-top:10px;display:flex;"><div style=3D"margin:auto;"><img =
+class=3D"img" =
+src=3D"https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/Bqo9-L659wB.png" =
+height=3D"26" width=3D"52" alt=3D"" /></div><br /></div><div =
+style=3D"height:10px;"></div><div =
+style=3D"color:#abadae;font-size:11px;margin:0 auto 5px auto;">=C2=A9 =
+Instagram. Meta Platforms, Inc., 1601 Willow Road, Menlo Park, CA 94025<br =
+/></div><div style=3D"color:#abadae;font-size:11px;margin:0 auto 5px =
+auto;">Diese Nachricht wurde an <a style=3D"color:#abadae;text-decoration:=
+underline;">work&#064;luhbots.de</a> gesendet und ist f=C3=BCr luhbots =
+bestimmt. <br /></div></td><td width=3D"20" =
+style=3D"display:block;width:20px;">&nbsp;&nbsp;&nbsp;</td><td =
+width=3D"15px" style=3D"width:15px;"></td></tr><tr style=3D""><td =
+height=3D"32" style=3D"line-height:32px;" =
+colspan=3D"3">&nbsp;</td></tr></table></td></tr><tr style=3D""><td =
+height=3D"24" =
+style=3D"line-height:24px;">&nbsp;</td></tr></table></td></tr><tr =
+style=3D""><td height=3D"20" style=3D"line-height:20px;" =
+colspan=3D"3">&nbsp;</td></tr></table><span style=3D""><img =
+src=3D"https://facebook.com/aymt/aa/?e=3D%7B%22c%22%3A%22_s99joc6tycf9%22%=
+2C%22t%22%3A%225kkyskmrs4mser%22%2C%22n%22%3A%22kx4agek4r4syx%22%7D" =
+style=3D"border:0;width:1px;height:1px;" /></span></td></tr></table></body=
+></td></tr></table></td></tr></table></html>
+
